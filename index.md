@@ -3,14 +3,9 @@ layout: home
 title: Welcome
 ---
 
-# Terry's Trusted Reviews
+# 📝 Terry's Trusted Reviews
 
-Welcome to my review site. Here's my latest:
+Welcome! I write detailed, honest reviews of products I’ve tested. Here are my latest:
 
-## 📦 Product: XYZ Headphones
-
-**Rating**: ⭐⭐⭐⭐☆
-
-**Review**: These headphones deliver crisp sound and solid comfort. Great for daily use.
-
-[Buy Now](https://example.com/affiliate-link)
+- [XYZ Headphones Review](./reviews/xyz-headphones)
+- [ABC Coffee Grinder Review](./reviews/abc-coffee-grinder)
