@@ -1,25 +1,31 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="UTF-8">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/assets/css/style.css">
-  </head>
-  <body>
-    <header>
-      <h1>{{ site.title }}</h1>
-      <nav>
-        <a href="/">Home</a>
-        <a href="/reviews/">Reviews</a>
-      </nav>
-    </header>
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+  <header class="hero">
+    <img src="/assets/images/banner.avif" alt="Adventure Banner">
+    <div class="hero-text">
+      <h1>Exploring Trusted Reviews</h1>
+      <p>Honest insights for your next adventure</p>
+    </div>
+  </header>
 
-    <main>
-      {{ content }}
-    </main>
+  <nav class="categories">
+    <a href="/reviews/camping">Camping</a>
+    <a href="/reviews/travel">Travel</a>
+    <a href="/reviews/outdoor">Outdoor Gear</a>
+  </nav>
 
-    <footer>
-      <p>&copy; {{ site.title }} {{ site.time | date: "%Y" }}</p>
-    </footer>
-  </body>
+  <main>
+    {{ content }}
+  </main>
+
+  <footer>
+    <p>&copy; {{ site.title }} {{ site.time | date: "%Y" }}</p>
+  </footer>
+</body>
 </html>
