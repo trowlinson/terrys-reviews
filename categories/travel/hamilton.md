@@ -15,6 +15,7 @@ header_banner_pic_alt: Hamilton Banner
 - [City Breaks](/categories/travel/city-breaks.html)
 
 ---
+<iframe src="https://app.atlas.co/embeds/nQxCinPJERALG9ZYWs3l" frameborder="0" width="100%" height="600" style="max-width: 100%; border: 1px solid #EAEAEA; border-radius: 4px;"></iframe>
 
 ## 🧭 A Day Trip to Hamilton: Nature, Culture, and Craft Beer
 
