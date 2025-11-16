@@ -2,14 +2,7 @@
 
 <p>This section is dedicated to our four‑legged companions 🐾. Discover dog‑friendly walks, gear, and tips for traveling with pets.</p>
 
-<nav class="category-nav">
-  <a href="/index.html">🏠 Home</a>
-  <a href="/categories/camping.html">Camping</a>
-  <a href="/categories/travel.html">Travel</a>
-  <a href="/categories/outdoor-gear.html">Outdoor Gear</a>
-  <a href="/categories/tech-gear.html">Tech Gear</a>
-  <a href="/categories/dogs.html">Dogs</a>
-</nav>
+<!--#include virtual="/includes/nav.html" -->
 
 <hr />
 
