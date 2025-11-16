@@ -9,9 +9,14 @@ header_banner_pic_alt: Travel Banner
 ---
 
 ## Subcategories
-- [North Island Escapes](/categories/travel/north-island.html)
-- [South Island Highlights](/categories/travel/south-island.html)
-- [City Breaks](/categories/travel/city-breaks.html)
+
+<ul>
+  {% assign travel_pages = site.pages | where: "category", "travel" %}
+  {% for page in travel_pages %}
+    <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
+  {% endfor %}
+</ul>
+
 
 ---
 

@@ -1,0 +1,26 @@
+---
+layout: category
+title: Auckland Central
+category: travel
+description: The heart of the city — culture, skyline, and waterfront vibes.
+header_heading: Auckland Central
+header_text: Where the city pulses loudest
+header_banner_pic: /assets/images/auckland-central.jpg
+header_banner_pic_alt: Auckland CBD skyline
+---
+
+## Highlights
+
+- **Sky Tower** – Panoramic views and adrenaline activities.
+- **Britomart** – Boutique shopping and stylish eateries.
+- **Viaduct Harbour** – Waterfront dining and nightlife.
+- **Auckland Art Gallery** – Māori and Pacific art in a stunning space.
+- **Albert Park** – A green oasis near the university.
+
+---
+
+## Tips
+
+- Grab a coffee at **Chuffed** or **Remedy Coffee**.
+- Take the **City Link bus** for easy inner-city travel.
+- Visit **Elliott Stables** for global cuisine under one roof.
