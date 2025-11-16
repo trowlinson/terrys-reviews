@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Travel
+title: Hamilton
 category: travel
 description: Day trips, weekend escapes, and scenic routes across New Zealand.
 header_image: /assets/images/hamilton-gardens.jpg
