@@ -1,6 +1,7 @@
 ---
 layout: category
 title: North Shore
+category: travel
 description: Beaches, suburbs, and laid-back coastal living just across the bridge.
 header_heading: North Shore
 header_text: Salt air and slower pace
