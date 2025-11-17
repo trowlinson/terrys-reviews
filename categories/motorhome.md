@@ -9,11 +9,12 @@ header_banner_pic_alt: Motorhome parked in scenic countryside
 ---
 
 ## Subcategories
-- [Campsites & Stopovers](/categories/motorhome/campsites.html)
-- [Touring France](/categories/motorhome/france.html)
-- [Touring the UK](/categories/motorhome/uk.html)
-- [Gear & Gadgets](/categories/motorhome/gear.html)
-- [Lessons Learned](/categories/motorhome/failures-successes.html)
+<ul>
+  {% assign travel_pages = site.pages | where: "category", "motorhome" %}
+  {% for page in travel_pages %}
+    <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
+  {% endfor %}
+</ul>
 
 ---
 
