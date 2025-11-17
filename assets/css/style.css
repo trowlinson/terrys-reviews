@@ -109,6 +109,7 @@ th, td {
 .category-header {
   text-align: center;
   margin-bottom: 2rem;
+  margin-top: 4rem;
   padding-top: 2rem; /* ensures spacing even without image */
   background-color: #f8f8f8;
 }
