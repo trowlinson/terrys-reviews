@@ -1,7 +1,6 @@
 ---
 layout: category
 title: What We Regret Buying
-category: motorhome
 description: The gear that looked clever, cost money, and never got used.
 header_heading: What We Regret Buying
 header_text: Learn from our mistakes — or repeat them with flair

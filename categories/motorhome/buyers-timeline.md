@@ -7,7 +7,6 @@ header_heading: Motorhome Buyer's Timeline
 header_text: From “maybe” to “mine” — a realistic roadmap
 header_banner_pic: /assets/images/motorhome-timeline-banner.jpg
 header_banner_pic_alt: Motorhome parked at sunset
-category: motorhome
 ---
 
 ## 🕰️ Thinking About It
