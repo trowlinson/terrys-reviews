@@ -1,30 +1,16 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>{{ page.title }}</title>
-  <link rel="stylesheet" href="/assets/css/style.css">
-  {% include googleHead.html %}
-  {% include adSense.html %}
-</head>
-<body>
-  {% include googleBody.html %}
-  <header class="hero">
-    <img src="/assets/images/banner.avif" alt="Adventure Banner">
-    <div class="hero-text">
-      <h1>Exploring Trusted Reviews</h1>
-      <p>Honest insights for your next adventure</p>
-    </div>
-  </header>
+---
+layout: default
+title: Motorhome
+description: Real-world advice, gear reviews, campsite tips, and travel stories from the road.
+header_heading: Motorhome Life
+header_text: What worked, what didn’t, and what we wish we’d known
+header_banner_pic: /assets/images/motorhome-banner.jpg
+header_banner_pic_alt: Motorhome parked in scenic countryside
+---
 
-  {% include nav.html %}
 
-  <main>
-    {{ content }}
-  </main>
 
-  <footer>
-    <p>&copy; {{ site.title }} {{ site.time | date: "%Y" }}</p>
-  </footer>
-</body>
-</html>
+<main>
+  {{ content }}
+</main>
+

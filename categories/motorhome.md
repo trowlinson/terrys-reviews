@@ -6,6 +6,7 @@ header_heading: Motorhome Life
 header_text: What worked, what didn’t, and what we wish we’d known
 header_banner_pic: /assets/images/motorhome-banner.jpg
 header_banner_pic_alt: Motorhome parked in scenic countryside
+category: top
 ---
 
 ## Subcategories

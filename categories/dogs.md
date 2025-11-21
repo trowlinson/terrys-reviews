@@ -6,6 +6,7 @@ header_heading: Exploring Trusted Reviews
 header_text: Honest insights for your next adventure
 header_banner_pic: banner.avif
 header_banner_pic_alt: Dog Banner
+category: top
 ---
 
 ## Subcategories
