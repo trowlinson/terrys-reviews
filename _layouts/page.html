@@ -1,30 +1,10 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/assets/css/style.css">
-    {% include googleHead.html %}
-    {% include adSense.html %}
-  </head>
-  <body>
-    {% include googleBody.html %}
-    <header>
-      <h1>{{ site.title }}</h1>
-      <nav>
-        <a href="/">Home</a>
-        <a href="/reviews/">Reviews</a>
-      </nav>
-    </header>
+---
+layout: default
+---
 
-    <main>
-      {{ content }}
-    </main>
 
-    <footer>
-      <p>&copy; {{ site.title }} {{ site.time | date: "%Y" }}</p>
-    </footer>
-  </body>
-</html>
-<!-- bottom of the page -->
+<main>
+  {{ content }}
+</main>
+
 
