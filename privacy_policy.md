@@ -1,10 +1,10 @@
-<!DOCTYPE html>
-<html lang="en-GB">
-{% include head.html % }
-<body>
-    {% include header.html % }
+---
+layout: page
+title: Privacy Policy
+---
 
-  <main>
+# Privacy Policy
+
     <p class="last-updated">Last updated: 22 November 2025</p>
 
     <section class="section" id="who-we-are">
@@ -163,10 +163,4 @@
         <!-- TODO: If you add a contact form, link it here. -->
       </p>
     </section>
-  </main>
 
-  <footer>
-    © Terry’s Reviews 2025
-  </footer>
-</body>
-</html>
