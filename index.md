@@ -10,7 +10,7 @@ header_banner_pic_alt: Adventure Banner
 
 # 📝 Terry's Trusted Reviews
 
-Welcome! We write detailed, honest reviews of products and experience. Here are the categories we cover:
+Welcome! We write detailed, honest reviews of products and experiences. Here are the categories we currently cover:
 
 ## Subcategories
 <ul>
