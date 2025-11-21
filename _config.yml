@@ -2,4 +2,7 @@ title: Terry's Reviews
 description: Trusted, in-depth product reviews by Terry
 remote_theme: jekyll/minima
 
+plugins:
+  - jekyll-sitemap
+
 
