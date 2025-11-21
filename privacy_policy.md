@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+{% include head.html % }
+<body>
+    {% include header.html % }
+
+  <main>
+    <p class="last-updated">Last updated: 22 November 2025</p>
+
+    <section class="section" id="who-we-are">
+      <h2>Who we are</h2>
+      <p>
+        Revuary (“we”, “us”, “our”) operates the website at
+        <a href="https://www.revuary.co.uk/">https://www.revuary.co.uk/</a>.
+        We are the data controller for personal data processed via this site.
+      </p>
+      <p>
+        Contact: <span class="inline-code">privacy@revuary.co.uk</span>
+        <!-- TODO: If you prefer, add a postal address or contact form URL here. -->
+      </p>
+    </section>
+
+    <section class="section" id="scope">
+      <h2>Scope</h2>
+      <p>
+        This policy explains what personal data we collect, how we use and share it, our legal bases under UK GDPR,
+        how long we keep it, and your rights. It applies to visitors and users of our website and related services
+        that link to this policy.
+      </p>
+    </section>
+
+    <section class="section" id="data-we-collect">
+      <h2>Data we collect</h2>
+      <h3>Data you provide</h3>
+      <ul>
+        <li><strong>Contact details:</strong> When you email us or submit a form (e.g., name, email, message).</li>
+        <li><strong>Preferences and feedback:</strong> Content category interests, comments, or survey responses.</li>
+      </ul>
+      <h3>Data we collect automatically</h3>
+      <ul>
+        <li><strong>Device and usage data:</strong> IP address, browser type, pages viewed, time on page, referring URLs.</li>
+        <li><strong>Cookies and similar technologies:</strong> See the Cookies section below for details and choices.</li>
+      </ul>
+    </section>
+
+    <section class="section" id="how-we-use-data">
+      <h2>How we use your data</h2>
+      <ul>
+        <li><strong>Provide and improve the site:</strong> Operate content, troubleshoot, and enhance performance.</li>
+        <li><strong>Analytics:</strong> Understand traffic, measure engagement, and improve user experience.</li>
+        <li><strong>Communications:</strong> Respond to messages and manage queries you initiate.</li>
+        <li><strong>Advertising:</strong> Serve and measure ads if enabled and consented (see Cookies and Ads).</li>
+        <li><strong>Safety and compliance:</strong> Detect abuse, secure our services, and comply with legal obligations.</li>
+      </ul>
+    </section>
+
+    <section class="section" id="legal-bases">
+      <h2>Our legal bases under UK GDPR</h2>
+      <ul>
+        <li><strong>Consent:</strong> For non-essential cookies, analytics, and personalised advertising.</li>
+        <li><strong>Legitimate interests:</strong> To maintain and secure our site, prevent misuse, and understand aggregated performance.</li>
+        <li><strong>Contract:</strong> If we provide a service you request that requires contact or delivery details.</li>
+        <li><strong>Legal obligation:</strong> To comply with applicable laws, requests from authorities, or tax/accounting requirements.</li>
+      </ul>
+    </section>
+
+    <section class="section" id="cookies">
+      <h2>Cookies and ads</h2>
+      <p>
+        We use cookies and similar technologies to remember preferences, perform analytics, and support advertising.
+        Non-essential cookies (including analytics or personalised ads) are only used with your consent.
+      </p>
+      <ul>
+        <li><strong>Essential cookies:</strong> Needed for site functionality and security.</li>
+        <li><strong>Analytics cookies:</strong> Help us understand traffic and improve content.</li>
+        <li><strong>Advertising cookies:</strong> Support ad delivery and measurement; may be set by third parties.</li>
+      </ul>
+      <p>
+        Manage your preferences anytime via our cookie banner or settings:
+        <a href="/cookie-preferences/">Cookie preferences</a>.
+        <!-- TODO: Link this to your consent tool (e.g., CookieScript) preference centre -->
+      </p>
+      <p class="muted">
+        Note: Third parties involved in analytics or ads may process data for their purposes subject to their privacy policies.
+      </p>
+    </section>
+
+    <section class="section" id="sharing">
+      <h2>Who we share data with</h2>
+      <ul>
+        <li><strong>Service providers:</strong> Hosting, analytics, consent management, and advertising partners.</li>
+        <li><strong>Authorities:</strong> If required by law or to protect rights, safety, and security.</li>
+        <li><strong>Business transfers:</strong> If we reorganise, merge, or transfer our operations, data may be part of the transaction.</li>
+      </ul>
+      <p>
+        We require service providers to process personal data only on our instructions and with appropriate safeguards.
+      </p>
+    </section>
+
+    <section class="section" id="international-transfers">
+      <h2>International data transfers</h2>
+      <p>
+        If personal data is transferred outside the UK, we implement safeguards such as UK-approved standard contractual
+        clauses or ensure the destination offers adequate protection under applicable law. We assess transfers and
+        apply supplementary measures where needed.
+      </p>
+    </section>
+
+    <section class="section" id="retention">
+      <h2>How long we keep your data</h2>
+      <ul>
+        <li><strong>Contact records:</strong> Up to 24 months after our last interaction, unless needed longer for legal purposes.</li>
+        <li><strong>Analytics data:</strong> Retained according to our analytics tool settings and aggregation needs.</li>
+        <li><strong>Cookie consents:</strong> Stored to honour and audit your choices, typically 12–24 months.</li>
+      </ul>
+      <p>
+        We may keep data longer if required by law or to establish, exercise, or defend legal claims. When no longer needed,
+        we delete or de-identify it.
+      </p>
+    </section>
+
+    <section class="section" id="your-rights">
+      <h2>Your rights</h2>
+      <p>
+        Under UK GDPR, you have the right to request: access to your data; correction of inaccuracies; deletion;
+        restriction of processing; data portability; and to object to processing based on legitimate interests or for direct marketing.
+        You can also withdraw consent at any time where processing relies on consent.
+      </p>
+      <p>
+        To exercise your rights, contact us at <span class="inline-code">privacy@revuary.co.uk</span>. We may need to verify your identity.
+        You have the right to lodge a complaint with the Information Commissioner’s Office (ICO) if you are dissatisfied with our response.
+      </p>
+    </section>
+
+    <section class="section" id="children">
+      <h2>Children’s privacy</h2>
+      <p>
+        Our content is aimed at a general audience and is not directed to children. If you believe a child has provided
+        personal data to us, please contact us so we can take appropriate steps.
+      </p>
+    </section>
+
+    <section class="section" id="security">
+      <h2>Security</h2>
+      <p>
+        We use technical and organisational measures to protect personal data against unauthorised access, alteration,
+        disclosure, or destruction. No system is completely secure; we continually review and strengthen our safeguards.
+      </p>
+    </section>
+
+    <section class="section" id="changes">
+      <h2>Changes to this policy</h2>
+      <p>
+        We may update this policy from time to time. We will post the revised version here and update the “Last updated”
+        date. Significant changes may be communicated via the site or by contacting you if appropriate.
+      </p>
+    </section>
+
+    <section class="section" id="contact">
+      <h2>Contact us</h2>
+      <p>
+        Questions or requests? Email <span class="inline-code">privacy@revuary.co.uk</span>.
+        <!-- TODO: If you add a contact form, link it here. -->
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    © Terry’s Reviews 2025
+  </footer>
+</body>
+</html>
