@@ -4,7 +4,7 @@ title: Wild Camping Etiquette
 description: How to enjoy off-grid motorhoming without causing trouble or leaving a trace.
 header_heading: Wild Camping Etiquette
 header_text: Freedom with responsibility — the unwritten rules of off-grid stays
-header_banner_pic: /assets/images/wild-camping-etiquette-banner.jpg
+header_banner_pic: wild-camping-etiquette-banner.jpg
 header_banner_pic_alt: Motorhome parked in remote countryside
 category: motorhome
 ---

@@ -4,6 +4,8 @@ title: Privacy Policy
 permalink: /privacy-policy/
 header_heading: Privacy Policy
 header_text: Honest insights include how we handle your data and your rights.
+header_banner_pic: banner.avif
+header_banner_pic_alt: Adventure Banner
 ---
 
 # Privacy Policy

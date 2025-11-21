@@ -4,7 +4,7 @@ title: Welcome
 description: Real-world advice, gear reviews, campsite tips, and travel stories from the road.
 header_heading: Exploring Trusted Reviews
 header_text: Honest insights for your next adventure
-header_banner_pic: /assets/images/banner.avif
+header_banner_pic: banner.avif
 header_banner_pic_alt: Adventure Banner
 ---
 

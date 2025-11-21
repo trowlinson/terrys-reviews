@@ -4,7 +4,7 @@ title: Condensation Combat Kit
 description: How to keep your motorhome dry, warm, and mould-free — without getting technical.
 header_heading: Condensation Combat Kit
 header_text: Simple tools and habits to beat the damp
-header_banner_pic: /assets/images/condensation-combat-banner.jpg
+header_banner_pic: condensation-combat-banner.jpg
 header_banner_pic_alt: Morning condensation on motorhome window
 category: motorhome
 ---

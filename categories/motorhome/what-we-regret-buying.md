@@ -4,7 +4,7 @@ title: What We Regret Buying
 description: The gear that looked clever, cost money, and never got used.
 header_heading: What We Regret Buying
 header_text: Learn from our mistakes — or repeat them with flair
-header_banner_pic: /assets/images/motorhome-regrets-banner.jpg
+header_banner_pic: motorhome-regrets-banner.jpg
 header_banner_pic_alt: Unused motorhome gear in storage
 category: motorhome
 ---

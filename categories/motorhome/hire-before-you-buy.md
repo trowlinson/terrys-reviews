@@ -4,7 +4,7 @@ title: Hire Before You Buy
 description: Why renting a motorhome first can save you money, stress, and regret.
 header_heading: Try Before You Buy
 header_text: Hiring a motorhome is the smartest first step
-header_banner_pic: /assets/images/motorhome-hire-banner.jpg
+header_banner_pic: motorhome-hire-banner.jpg
 header_banner_pic_alt: Hired motorhome parked in countryside
 category: motorhome
 ---

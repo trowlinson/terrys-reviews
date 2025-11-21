@@ -5,7 +5,7 @@ category: travel
 description: Easy escapes from the city — beaches, vineyards, and glowworms.
 header_heading: Auckland Day Trips
 header_text: Adventures just beyond the city
-header_banner_pic: /assets/images/auckland-day-trips.jpg
+header_banner_pic: auckland-day-trips.jpg
 header_banner_pic_alt: Waiheke Island ferry
 ---
 

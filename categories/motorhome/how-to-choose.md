@@ -4,7 +4,7 @@ title: How to Choose a Motorhome
 description: A practical guide to picking the right motorhome for your UK adventures.
 header_heading: Choosing the Right Motorhome
 header_text: What to consider before you buy (or hire)
-header_banner_pic: /assets/images/motorhome-choose-banner.jpg
+header_banner_pic: motorhome-choose-banner.jpg
 header_banner_pic_alt: Motorhome parked in the Lake District
 category: motorhome
 ---

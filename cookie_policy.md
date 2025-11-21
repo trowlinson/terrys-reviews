@@ -4,6 +4,8 @@ title: Cookie Policy
 permalink: /cookie-policy/
 header_heading: Cookie policy
 header_text: Transparency about how we use cookies and your choices.
+header_banner_pic: banner.avif
+header_banner_pic_alt: Adventure Banner
 ---
 
 <p class="last-updated">Last updated: 22 November 2025</p>
