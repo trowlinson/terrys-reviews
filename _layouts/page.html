@@ -4,10 +4,11 @@
     <meta charset="UTF-8">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/assets/css/style.css">
-  
+    {% include googleHead.html %}
     {% include adSense.html %}
   </head>
   <body>
+    {% include googleBody.html %}
     <header>
       <h1>{{ site.title }}</h1>
       <nav>
