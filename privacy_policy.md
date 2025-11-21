@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Privacy Policy
+permalink: /privacy-policy/
+header_heading: Privacy Policy
+header_text: Honest insights include how we handle your data and your rights.
 ---
 
 # Privacy Policy
