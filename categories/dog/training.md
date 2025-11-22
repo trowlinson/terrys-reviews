@@ -4,7 +4,7 @@ title: Dog Training
 description: Practical tips and methods for raising a well-behaved dog.
 header_heading: Dog Training
 header_text: Build trust, confidence, and good habits
-header_banner_pic: /assets/images/dog-training-banner.jpg
+header_banner_pic: dog-training-banner.png
 header_banner_pic_alt: Dog learning commands with owner
 category: dog
 ---
