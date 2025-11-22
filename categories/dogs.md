@@ -10,9 +10,12 @@ category: top
 ---
 
 ## Subcategories
-- [Dog Walks](/categories/dogs/walks.html)
-- [Dog Gear](/categories/dogs/gear.html)
-- [Training Tips](/categories/dogs/training.html)
+<ul>
+  {% assign travel_pages = site.pages | where: "category", "dog" %}
+  {% for page in travel_pages %}
+    <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
+  {% endfor %}
+</ul>
 
 ---
 
