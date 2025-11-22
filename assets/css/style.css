@@ -5,7 +5,9 @@
 
 .hero img {
   width: 100%;
-  height: auto;
+  max-height: 444px;
+  object-fit: cover;
+  display: block;
 }
 
 .hero-text {
@@ -122,6 +124,7 @@ th, td {
 .category-header .banner img {
   width: 100%;
   height: auto;
+  max-height: 444px;
   object-fit: cover;
   display: block;
 }
