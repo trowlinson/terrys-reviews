@@ -4,7 +4,7 @@ title: Dog-Friendly Pubs & Cafes
 description: Where to enjoy a pint or coffee with your four-legged friend.
 header_heading: Dog-Friendly Pubs & Cafes
 header_text: Relax, refuel, and bring your dog along
-header_banner_pic: dog-friendly-pubs-banner.jpg
+header_banner_pic: dog-friendly-pubs-banner.png
 header_banner_pic_alt: Dog sitting happily in a pub garden
 category: dog
 ---
