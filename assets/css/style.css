@@ -5,7 +5,7 @@
 
 .hero img {
   width: 100%;
-  max-height: 444px;
+  max-height: 380px;
   object-fit: cover;
   display: block;
 }
