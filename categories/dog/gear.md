@@ -38,5 +38,5 @@ category: dog
 
 ## 🔗 Related Pages
 
-- [Dog Walking](/categories/dog/dog-walking.html)
-- [Dog Training](/categories/dog/dog-training.html)
+- [Dog Walking](/categories/dog/walking.html)
+- [Dog Training](/categories/dog/training.html)
