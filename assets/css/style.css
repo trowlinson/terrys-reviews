@@ -155,3 +155,20 @@ th, td {
     font-size: 1rem;
   }
 }
+
+#search-container {
+  padding: 1rem;
+  background: #f5f5f5;
+  text-align: center;
+}
+
+#search-input {
+  width: 80%;
+  max-width: 600px;
+  padding: 0.5rem;
+  font-size: 1rem;
+}
+#search-results {
+  margin-top: 1rem;
+  text-align: left;
+}
