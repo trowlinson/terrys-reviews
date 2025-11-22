@@ -3,12 +3,10 @@ layout: null
 ---
 [
   {% for page in site.pages %}
-    {% if page.title and page.title != "Subcategories" and page.description != "" %}
       {
         "title": {{ page.title | jsonify  }},
         "url": {{ page.url | relative_url | jsonify }},
         "description": {{ page.description | jsonify }}
       }{% unless forloop.last %},{% endunless %}
-    {% endif %}
   {% endfor %}
 ]
