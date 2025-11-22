@@ -2,11 +2,13 @@
 layout: null
 ---
 [
-  {% for post in site.pages %}
-    {
-      "title": "{{ post.title }}",
-      "url": "{{ post.url }}",
-      "description": "{{ post.description | strip_html | strip_newlines | escape }}"
-    }{% unless forloop.last %},{% endunless %}
+  {% for page in site.pages %}
+    {% if page.title and page.title != "" %}
+      {
+        "title": "{{ page.title | escape }}",
+        "url": "{{ page.url | relative_url }}",
+        "description": "{{ page.description | strip_html | strip_newlines | escape }}"
+      }{% unless forloop.last %},{% endunless %}
+    {% endif %}
   {% endfor %}
 ]
