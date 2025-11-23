@@ -2,13 +2,13 @@
 layout: null
 ---
 [
-  {% for page in site.pages %}
-    {% if page.title and page.title != "Subcategories" and page.description != null %}
+  {% assign filtered_pages = site.pages | where_exp: "page", "page.title and page.title != 'Subcategories' and page.description != null and page.description != ''" %}
+
+  {% for page in filtered_pages %}
       {
         "title": {{ page.title | jsonify  }},
         "url": {{ page.url | relative_url | jsonify }},
         "description": {{ page.description | jsonify }}
       }{% unless forloop.last %},{% endunless %}
-    {% endif %}
   {% endfor %}
 ]
