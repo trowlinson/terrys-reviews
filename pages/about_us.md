@@ -1,7 +1,7 @@
 ---
 title: About Us
 description: Learn more about Revuary — our mission, story, and commitment to honest motorhome reviews and travel guides.
-permalink: /about_us/
+permalink: /about-us/
 layout: page
 header_heading: About Us
 header_text: Who are we and why are we here?
@@ -29,4 +29,17 @@ Revuary began with a simple frustration: too many generic reviews, not enough re
 ## Join the Journey
 
 Whether you're a seasoned motorhome explorer or just starting out, we’re here to help you travel smarter, pack better, and enjoy the ride. Thanks for being part of our community.
+
+## Contribute Your Own Review
+
+We love hearing from fellow travellers and gear enthusiasts. If you’ve had a great (or not-so-great) experience with a motorhome, campsite, travel route, or product — share it with us!
+
+- Submit your review via our [review form](/contribute-review/)
+- Include photos, tips, and honest impressions
+- We’ll feature selected reviews on the site with full credit
+
+Your voice helps others make better choices. Let’s build a trusted resource together.
+
+---
+
 
