@@ -7,9 +7,9 @@ layout: null
   {% if page.title and page.title != "Subcategories" and page.description and page.description != "" %}
     {% capture item %}
       {
-        "title": "{{ page.title | escape }}",
-        "url": "{{ page.url | relative_url }}",
-        "description": "{{ page.description | strip_html | strip_newlines | escape }}"
+        "title": {{ page.title | jsonify }},
+        "url": {{ page.url | jsonify }},
+        "description": {{ page.description | jsonify }}
       }
     {% endcapture %}
     {% assign items = items | append: item | append: "||" %}
