@@ -2,13 +2,20 @@
 layout: null
 ---
 [
-  {% assign filtered_pages = site.pages | where_exp: "page", "page.title and page.title != 'Subcategories' and page.description and page.description != ''" %}
+  {% assign items = "" %}
+  {% for page in site.pages %}
+    {% if page.title and page.title != "Subcategories" and page.description and page.description != "" %}
+      {% capture item %}
 
-  {% for page in filtered_pages %}
-      {
-        "title": {{ page.title | jsonify  }},
-        "url": {{ page.url | relative_url | jsonify }},
-        "description": {{ page.description | jsonify }}
-      }{% unless forloop.last %},{% endunless %}
+      {% for page in filtered_pages %}
+        {
+          "title": {{ page.title | jsonify  }},
+          "url": {{ page.url | relative_url | jsonify }},
+          "description": {{ page.description | jsonify }}
+        }
+      {% endcapture %}
+      {% assign items = items | append: item | append: "||" %}
+    {% endif %}
   {% endfor %}
+  {{ items | split: "||" | join: "," }}
 ]
