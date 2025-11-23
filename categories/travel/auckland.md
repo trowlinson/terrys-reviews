@@ -2,8 +2,8 @@
 layout: category
 title: Auckland
 category: travel
-description: New Zealand’s biggest city — chaotic, creative, and constantly evolving.
-header_heading: Auckland: The City of Sails
+description: New Zealand’s biggest city - chaotic, creative, and constantly evolving.
+header_heading: Auckland - The City of Sails
 header_text: Big, busy, and full of surprises
 header_banner_pic: banner.avif
 header_banner_pic_alt: Auckland skyline and harbour
