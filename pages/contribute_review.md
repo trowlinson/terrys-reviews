@@ -26,7 +26,20 @@ We love hearing from fellow travellers and gear enthusiasts. Whether it’s a ca
 
 We use Google Forms to make it easy for anyone to contribute. Just fill out the form below — no login or technical knowledge required.
 
-<iframe src="https://script.google.com/macros/s/AKfycbwu5009FZ-L9_G4rB0o6ql9VAb4_cPMRFxbjvNn78Mlt9-HiXhnkl0QhvevjiDjcs0/exec" width="640" height="1094" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<div id="form-wrapper">
+  <iframe id="review-form"
+    src="https://docs.google.com/forms/d/e/1FAIpQLScCfGn04GrT2iYgEuXJo8y7NQo75TcRut4EgqMaSDJ_wo2I8g/viewform?embedded=true"
+    width="100%" height="1200" frameborder="0">Loading…</iframe>
+</div>
+
+<script>
+  const formFrame = document.getElementById('review-form');
+  formFrame.addEventListener('load', () => {
+    // When the form reloads after submission, scroll to the wrapper
+    document.getElementById('form-wrapper').scrollIntoView({ behavior: 'smooth' });
+  });
+</script>
+
 
 
 
