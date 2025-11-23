@@ -20,7 +20,7 @@ fetch('/search.json')
         results.innerHTML = '';
 
         if (query.length === 0) {
-          results.innerHTML = '<li>Please enter a search term.</li>';
+          results.style.display = 'none';
           return;
         }
 
@@ -34,17 +34,15 @@ fetch('/search.json')
             results.innerHTML += '<li><a href="' + item.url + '">' + item.title + '</a></li>';
           });
         }
+
+        results.style.display = 'block';
       }
 
-      // Trigger search on button click
       button.addEventListener('click', runSearch);
 
-      // Trigger search on Enter key
       input.addEventListener('keypress', function(e) {
         if (e.key === 'Enter' || e.keyCode === 13) {
           runSearch();
         }
       });
     });
-
-
