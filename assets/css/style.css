@@ -216,9 +216,10 @@ th, td {
   box-sizing: border-box;
 }
 
+
 .search-icon {
   position: absolute;
-  left: 10px;
+  left: 12px;
   top: 50%;
   transform: translateY(-50%);
   font-size: 1rem;
@@ -228,10 +229,10 @@ th, td {
 
 .clear-button {
   position: absolute;
-  right: 10px;
+  right: 12px;
   top: 50%;
   transform: translateY(-50%);
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   cursor: pointer;
   color: #999;
   display: none;
@@ -240,6 +241,7 @@ th, td {
 .clear-button:hover {
   color: #333;
 }
+
 
 .dropdown-results {
   position: absolute;
@@ -273,4 +275,19 @@ th, td {
 .dropdown-results li.active {
   background-color: #e0e0e0;
 }
+
+#search-input:focus {
+  outline: none;
+  border-color: #0077cc;
+  box-shadow: 0 0 0 2px rgba(0, 119, 204, 0.2);
+}
+
+.search-container:focus-within .search-icon {
+  color: #0077cc;
+}
+
+.search-container:focus-within .clear-button {
+  color: #0077cc;
+}
+
 
