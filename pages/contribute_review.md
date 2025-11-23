@@ -36,7 +36,7 @@ We use Google Forms to make it easy for anyone to contribute. Just fill out the 
   const formFrame = document.getElementById('review-form');
   formFrame.addEventListener('load', () => {
     // When the form reloads after submission, scroll to the wrapper
-    document.getElementById('form-wrapper').scrollIntoView({ behavior: 'smooth' });
+    document.getElementById('contribute-a-review').scrollIntoView({ behavior: 'smooth' });
   });
 </script>
 
