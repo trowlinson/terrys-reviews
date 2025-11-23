@@ -38,8 +38,6 @@ fetch('/search.json')
         results.style.display = 'block';
       }
 
-      button.addEventListener('click', runSearch);
-
       input.addEventListener('keypress', function(e) {
         if (e.key === 'Enter' || e.keyCode === 13) {
           runSearch();
