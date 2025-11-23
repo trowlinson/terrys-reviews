@@ -248,3 +248,24 @@ th, td {
   background-color: #f5f5f5;
 }
 
+.dropdown-results li.active {
+  background-color: #e0e0e0;
+}
+
+.clear-button {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  font-size: 1.2rem;
+  cursor: pointer;
+  color: #999;
+  display: none;
+}
+.clear-button:hover {
+  color: #333;
+}
+.search-container {
+  position: relative;
+  max-width: 400px;
+  margin: 0 auto;
+}
