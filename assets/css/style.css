@@ -301,5 +301,39 @@ th, td {
   pointer-events: auto;
 }
 
+.site-footer {
+  border-top: 1px solid #eee;
+  padding: 20px 16px;
+  text-align: center;
+  font-size: 0.95rem;
+  background: #f9f9f9;
+}
+
+.footer-nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 18px;
+  margin-bottom: 8px;
+}
+
+.footer-link {
+  color: #333;
+  text-decoration: none;
+  font-weight: 500;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.footer-link:hover {
+  color: #0b6efd;
+}
+
+.footer-meta {
+  color: #666;
+}
+
+
 
 
