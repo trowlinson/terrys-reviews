@@ -290,4 +290,16 @@ th, td {
   color: #0077cc;
 }
 
+.dropdown-results {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  pointer-events: none;
+}
+
+.dropdown-results.show {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+
 

@@ -21,7 +21,7 @@ fetch('/search.json')
         activeIndex = -1;
 
         if (query.length === 0) {
-          results.style.display = 'none';
+          results.classList.remove('show');
           return;
         }
 
@@ -38,7 +38,8 @@ fetch('/search.json')
           });
         }
 
-        results.style.display = 'block';
+        results.classList.add('show');
+
       }
 
       input.addEventListener('input', runSearch);
@@ -87,7 +88,8 @@ fetch('/search.json')
             clearButton.style.display = 'block';
         } else {
             clearButton.style.display = 'none';
-            results.style.display = 'none';
+            results.classList.remove('show');
+
         }
         });
 
@@ -96,7 +98,7 @@ fetch('/search.json')
         input.value = '';
         clearButton.style.display = 'none';
         results.innerHTML = '';
-        results.style.display = 'none';
+        results.classList.remove('show');
         activeIndex = -1;
         });
 
