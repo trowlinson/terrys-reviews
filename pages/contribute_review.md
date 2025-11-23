@@ -33,14 +33,12 @@ We use Google Forms to make it easy for anyone to contribute. Just fill out the 
 </div>
 
 <script>
-  document.getElementById('review-form').addEventListener('load', () => {
-    // After submission, Google reloads the iframe → redirect parent page
-    if (document.getElementById('review-form').contentWindow.location.href.includes('formResponse')) {
-      window.location.href = '/thank-you/';
-    }
+  const formFrame = document.getElementById('review-form');
+  formFrame.addEventListener('load', () => {
+    // When the form reloads after submission, scroll to the wrapper
+    document.getElementById('contribute-a-review').scrollIntoView({ behavior: 'smooth' });
   });
 </script>
-
 
 
 
