@@ -2,7 +2,7 @@
 layout: null
 ---
 [
-  {% assign filtered_pages = site.pages | where_exp: "page", "page.title and page.title != 'Subcategories' and page.description != null and page.description != ''" %}
+  {% assign filtered_pages = site.pages | where_exp: "page", "page.title and page.title != 'Subcategories' and page.description and page.description != ''" %}
 
   {% for page in filtered_pages %}
       {
