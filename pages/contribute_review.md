@@ -6,7 +6,7 @@ layout: page
 banner: contribute-banner.jpg
 header_heading: Contribute a Review
 header_text: Send Us Something?
-header_banner_pic: about-us-banner.png
+header_banner_pic: contribute-review-banner.png
 header_banner_pic_alt: Contribute a Review
 ---
 
@@ -24,35 +24,11 @@ We love hearing from fellow travellers and gear enthusiasts. Whether it’s a ca
 
 ## Submit Your Review
 
-<form name="review-submission" method="POST" data-netlify="true">
-  <p>
-    <label>Your name:<br />
-    <input type="text" name="name" required /></label>
-  </p>
-  <p>
-    <label>Email (optional):<br />
-    <input type="email" name="email" /></label>
-  </p>
-  <p>
-    <label>Review title:<br />
-    <input type="text" name="title" required /></label>
-  </p>
-  <p>
-    <label>Location or product:<br />
-    <input type="text" name="subject" required /></label>
-  </p>
-  <p>
-    <label>Your review:<br />
-    <textarea name="message" rows="8" required></textarea></label>
-  </p>
-  <p>
-    <label>Upload a photo (optional):<br />
-    <input type="file" name="photo" /></label>
-  </p>
-  <p>
-    <button type="submit">Submit Review</button>
-  </p>
-</form>
+We use Google Forms to make it easy for anyone to contribute. Just fill out the form below — no login or technical knowledge required.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScCfGn04GrT2iYgEuXJo8y7NQo75TcRut4EgqMaSDJ_wo2I8g/viewform?embedded=true" width="640" height="1094" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+
 
 ---
 
