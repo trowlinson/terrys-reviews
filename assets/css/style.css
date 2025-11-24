@@ -154,6 +154,20 @@ th, td {
 
 /* (See consolidated mobile tweaks above) */
 
+.searchBar {
+  flex-grow: 1;
+  max-width: 400px;
+  margin-left: auto;
+}
+
+.searchBar input {
+  width: 100%;
+  padding: 0.5rem 0.75rem;
+  border-radius: 4px;
+  border: none;
+  font-size: 1rem;
+}
+
 #search-container {
   padding: 1rem;
   background: #f5f5f5;
@@ -391,5 +405,29 @@ th, td {
   }
 }
 
+.topBar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between; /* or 'center' if search bar is centered */
+  padding: 0.5rem 1rem;
+  background-color: #1a1a1a; /* match your dark theme */
+  color: white;
+  width: 100%;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 1.25rem;
+  font-weight: bold;
+  color: white;
+}
+
+.logo img {
+  height: 32px;
+  width: auto;
+}
 
 
