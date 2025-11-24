@@ -384,9 +384,13 @@ th, td {
   .hero-text {
     position: static;
     transform: none;
-    background: none;
     color: inherit;
-    margin-top: 1rem;
+    padding: unset;
+  }
+
+  .category-header {
+    margin-top: 0%;
+    padding-top: unset;
   }
 }
 
