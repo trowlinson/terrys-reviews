@@ -382,10 +382,7 @@ th, td {
   }
 
   .hero-text {
-    position: static;
-    transform: none;
-    color: inherit;
-    padding: unset;
+    display: none;
   }
 
   .category-header {
