@@ -20,11 +20,11 @@ category: top
 <section class="subcategories">
   <h2>Explore Subcategories</h2>
   <ul class="subcategory-list">
-    <li><a href="/outdoor-gear/hiking/">Hiking</a></li>
-    <li><a href="/outdoor-gear/camping/">Camping</a></li>
-    <li><a href="/outdoor-gear/cycling/">Cycling</a></li>
-    <li><a href="/outdoor-gear/climbing/">Climbing</a></li>
-    <li><a href="/outdoor-gear/water-sports/">Water Sports</a></li>
+    <li><a href="/outdoor-gear/hiking">Hiking</a></li>
+    <li><a href="/outdoor-gear/camping">Camping</a></li>
+    <li><a href="/outdoor-gear/cycling">Cycling</a></li>
+    <li><a href="/outdoor-gear/climbing">Climbing</a></li>
+    <li><a href="/outdoor-gear/water-sports">Water Sports</a></li>
   </ul>
 </section>
 
