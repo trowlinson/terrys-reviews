@@ -27,9 +27,9 @@ Really good price at Amazon at the moment with the Black Friday special:
 
 - [Smart Monitor M5](https://amzn.to/4rkrEbV)
 
-I used a bracket that let's you remove the TV and put it away safely, one of these: 
+I used a bracket that let's you easily remove the TV and put it away safely for when you are on the move, one of these: 
 
-QUAD ARM TV BRACKET QUICK RELEASE -5029833517252
+- [QUAD ARM TV BRACKET QUICK RELEASE](https://visionplus.co.uk/product/vp-tv-wall-bracket-quad-arm-quick-release/)
 
 It gives plenty of options for placement but can be a bit saggy with the weight of that TV/monitor but it works ok.
 
