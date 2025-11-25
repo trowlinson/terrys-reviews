@@ -10,9 +10,13 @@ category: top
 ---
 
 ## Subcategories
-- [Headphones](/categories/tech-gear/headphones.html)
-- [Power Banks](/categories/tech-gear/power-banks.html)
-- [Smartwatches](/categories/tech-gear/smartwatches.html)
+
+<ul>
+  {% assign travel_pages = site.pages | where: "category", "tech-gear" %}
+  {% for page in travel_pages %}
+    <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
+  {% endfor %}
+</ul>
 
 ---
 
