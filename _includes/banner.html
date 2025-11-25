@@ -1,5 +1,7 @@
 <header class="hero">
-    <img src="/assets/images/{{ page.header_banner_pic }}" 
+  {% assign banner = page.header_banner_pic | default: "banner.avif" %}
+
+    <img src="/assets/images/{{ banner }}" 
     alt="{{ page.header_banner_pic_alt}}" class="banner-image">
     <div class="hero-text">
       <h1>{{ page.header_heading }}</h1>

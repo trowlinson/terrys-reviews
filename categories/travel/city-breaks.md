@@ -12,10 +12,10 @@ header_banner_pic_alt: Hamilton Banner
 ## Subcategories
 - [North Island Escapes](/categories/travel/north-island.html)
 - [South Island Highlights](/categories/travel/south-island.html)
-- [City Breaks](/categories/travel/city-breaks.html)
 
 ---
 
 ## Cities
 
 - [Hamilton, New Zealand](/categories/travel/hamilton)
+- [Auckland, New Zealand](/categories/travel/auckland)
