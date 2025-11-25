@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Travel
-description: Cities and Places aorund the world.
+description: Cities and Places around the world.
 header_heading: Exploring The World One Place at a Time
 header_text: Honest insights for your next adventure
 header_banner_pic: banner.avif
