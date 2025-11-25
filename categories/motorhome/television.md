@@ -23,7 +23,8 @@ Another thing that an internet-connected television gives you is an advantage of
 
 https://www.samsung.com/uk/monitors/smart/smart-monitor-m5-27-inch-smart-tv-apps-ls27dm500euxxu
 
-(Really good price at Amazon at the moment with the Black Friday special: https://amzn.to/4rkrEbV)
+(Really good price at Amazon at the moment with the Black Friday special: 
+- [Smart Monitor M5] (https://amzn.to/4rkrEbV) )
 
 I used a bracket that let's you remove the TV and put it away safely, one of these: 
 
