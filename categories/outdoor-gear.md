@@ -17,16 +17,14 @@ category: top
   <p>Explore practical guides, gear reviews, and tips for making the most of your time outdoors. Whether you’re hiking, camping, cycling, or climbing, we’ve got resources to help you choose the right equipment and enjoy your adventures safely.</p>
 </section>
 
-<section class="subcategories">
-  <h2>Explore Subcategories</h2>
-  <ul class="subcategory-list">
-    <li><a href="/outdoor-gear/hiking">Hiking</a></li>
-    <li><a href="/outdoor-gear/camping">Camping</a></li>
-    <li><a href="/outdoor-gear/cycling">Cycling</a></li>
-    <li><a href="/outdoor-gear/climbing">Climbing</a></li>
-    <li><a href="/outdoor-gear/water-sports">Water Sports</a></li>
-  </ul>
-</section>
+## Subcategories
+
+<ul>
+  {% assign travel_pages = site.pages | where: "category", "outdoor-gear" %}
+  {% for page in travel_pages %}
+    <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
+  {% endfor %}
+</ul>
 
 <section class="featured">
   <h2>Featured Guides</h2>
