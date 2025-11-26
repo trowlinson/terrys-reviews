@@ -9,14 +9,15 @@ header_banner_pic_alt: Tech Banner
 category: headphones
 ---
 
-🎧 Soundcore Space One
-Noise-cancelling headphones that punch well above their price point.
+## 🎧 Soundcore Space One
+
+## Noise-cancelling headphones that punch well above their price point.
 
 📝 First Impressions
-I’ll admit, I didn’t expect to enjoy these as much as I do. My plan was to splurge on some Bose or Sony headphones — the “big names” in the space. But the Soundcore Space One surprised me: for the money, they’re fantastic.
-- Lightweight and comfortable — easy to wear for hours.
-- Solid sound quality — not audiophile‑grade, but perfectly balanced for everyday listening.
-- Handles high volumes — no rattle, hum, or distortion even when cranked up.
+I’ll admit, I didn’t expect to enjoy these as much as I do. My plan was to splurge on some Bose or Sony headphones - the “big names” in the space. But the Soundcore Space One surprised me: for the money, they’re fantastic.
+- Lightweight and comfortable - easy to wear for hours.
+- Solid sound quality - not audiophile‑grade, but perfectly balanced for everyday listening.
+- Handles high volumes - no rattle, hum, or distortion even when cranked up.
 
 ✈️ Real‑World Test
 I put them through their paces on a long-haul flight from the UK to New Zealand. Using a cable and adapter (not wireless), I wore them for several hours without major discomfort.
@@ -24,9 +25,9 @@ I put them through their paces on a long-haul flight from the UK to New Zealand.
 
 📱 Smart Features
 The Soundcore Android App adds extra control:
-- EQ settings — tweak bass, mids, and treble to your taste.
-- Firmware updates — keep your headphones up to date.
-- Additional features — small extras that make them feel more premium.
+- EQ settings - tweak bass, mids, and treble to your taste.
+- Firmware updates - keep your headphones up to date.
+- Additional features - small extras that make them feel more premium.
 
 🎒 Accessories
 - Comes with a soft carry case by default.
