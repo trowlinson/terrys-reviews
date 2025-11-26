@@ -211,6 +211,14 @@ th, td {
   margin-top: 0.5rem;
 }
 
+nav {
+  position: sticky;
+  top: 0;
+  background: #fff;
+  z-index: 1000;
+}
+
+
 
 
 
