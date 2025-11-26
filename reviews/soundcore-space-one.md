@@ -29,13 +29,9 @@ Android App gives control of EQ settings, firmware updates, and a few other bits
 %}
 
 
-
-{% comment %}
-Reusable affiliate buy buttons
-Usage:
 {% include buy-links.html 
     product="Soundcore Space One" 
     links=site.data.buy_links.Soundcore_Space_One 
 %}
-{% endcomment %}
+
 

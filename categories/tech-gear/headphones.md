@@ -9,6 +9,8 @@ header_banner_pic_alt: Modern headphones resting on a desk
 category: tech-gear
 ---
 
+## 🎧 Our Headphones
+
 <ul>
   {% assign cat_pages = site.pages | where: "category", "headphones" %}
   {% for page in cat_pages %}
