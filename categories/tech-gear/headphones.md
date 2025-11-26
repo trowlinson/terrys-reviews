@@ -9,6 +9,13 @@ header_banner_pic_alt: Modern headphones resting on a desk
 category: tech-gear
 ---
 
+<ul>
+  {% assign cat_pages = site.pages | where: "category", "headphones" %}
+  {% for page in cat_pages %}
+    <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
+  {% endfor %}
+</ul>
+
 ## 🎧 Everyday Listening
 
 - **Wireless earbuds** – Compact, pocket-friendly, and perfect for commuting.

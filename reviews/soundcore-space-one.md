@@ -1,6 +1,12 @@
 ---
 layout: page
 title: Soundcore Space One Review
+description: Soundcore Space One Review
+header_heading: Exploring Trusted Reviews
+header_text: Honest insights for your next tech
+header_banner_pic: banner.avif
+header_banner_pic_alt: Tech Banner
+category: headphones
 ---
 
 ## 🎧 Soundcore Space One
