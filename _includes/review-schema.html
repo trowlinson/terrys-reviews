@@ -1,0 +1,35 @@
+{% comment %}
+Reusable Schema.org JSON-LD for product reviews
+Usage:
+{% include review-schema.html 
+    product="Sony WH-1000XM5 Headphones" 
+    brand="Sony" 
+    author="Terry" 
+    date="2025-11-26" 
+    rating="5" 
+    review="Superb noise cancelling and comfort, perfect for motorhome travel." 
+    aggregate_rating="4.7" 
+    review_count="128" 
+%}
+{% endcomment %}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Product",
+  "name": "{{ include.product }}",
+  "brand": { "@type": "Brand", "name": "{{ include.brand }}" },
+  "review": {
+    "@type": "Review",
+    "author": { "@type": "Person", "name": "{{ include.author }}" },
+    "datePublished": "{{ include.date }}",
+    "reviewBody": "{{ include.review | escape }}",
+    "reviewRating": { "@type": "Rating", "ratingValue": "{{ include.rating }}", "bestRating": "5" }
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "{{ include.aggregate_rating }}",
+    "reviewCount": "{{ include.review_count }}"
+  }
+}
+</script>
