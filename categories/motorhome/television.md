@@ -66,3 +66,6 @@ It offers plenty of placement options, though heavier monitors can sag a little.
 ## 💬 Final Thoughts
 
 Whether you’re a *“TV belongs at home”* purist or a *“streaming on the road”* enthusiast, the choice is yours. The key is to make your motorhome feel like **your space** — and if that means catching up on your favourite series while parked by a lake, why not?
+
+{% include buy-links.html product="Samsung Smart Monitor M5" links=site.data.buy_links.Samsung_Smart_Monitor_M5 %}
+

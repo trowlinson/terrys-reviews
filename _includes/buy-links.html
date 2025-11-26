@@ -1,0 +1,24 @@
+{% comment %}
+Reusable affiliate buy buttons
+Usage:
+{% include buy-links.html 
+    product="Sony WH-1000XM5 Headphones" 
+    links=site.data.buy_links.sony_xm5 
+%}
+{% endcomment %}
+
+<div class="buy-links">
+  <h3>🛒 Where to Buy</h3>
+  <ul>
+    {% for link in include.links %}
+      <li>
+        <a href="{{ link.url }}" class="buy-button" target="_blank" rel="nofollow noopener">
+          {{ link.retailer }} – {{ include.product }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+  <p class="affiliate-disclaimer">
+    *These are affiliate links. If you buy through them, we may earn a commission at no extra cost to you.*
+  </p>
+</div>
