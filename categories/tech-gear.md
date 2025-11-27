@@ -20,6 +20,4 @@ category: top
 
 ---
 
-## Featured Articles
-- *XYZ Headphones Review*
-- *Top 5 Portable Chargers for Camping*
+
