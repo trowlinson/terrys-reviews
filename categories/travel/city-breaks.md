@@ -17,5 +17,5 @@ header_banner_pic_alt: Hamilton Banner
 
 ## Cities
 
-- [Hamilton, New Zealand](/categories/travel/hamilton)
-- [Auckland, New Zealand](/categories/travel/auckland)
+- [Hamilton, New Zealand](/categories/travel/hamilton.html)
+- [Auckland, New Zealand](/categories/travel/auckland.html)

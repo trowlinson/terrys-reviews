@@ -13,7 +13,7 @@ category: top
 
 
 <section class="category-intro">
-  <h1>Outdoor Gear</h1>
+  <h2>Outdoor Gear</h2>
   <p>Explore practical guides, gear reviews, and tips for making the most of your time outdoors. Whether you’re hiking, camping, cycling, or climbing, we’ve got resources to help you choose the right equipment and enjoy your adventures safely.</p>
 </section>
 

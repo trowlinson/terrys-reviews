@@ -65,6 +65,11 @@ h1, h2, h3 {
   margin-top: 1.5rem;
 }
 
+hero-header {
+  line-height: 1.2;
+  margin-top: 1.5rem;
+}
+
 /* Tables */
 table {
   width: 100%;
