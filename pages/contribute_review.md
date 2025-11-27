@@ -6,7 +6,7 @@ layout: page
 banner: contribute-banner.jpg
 header_heading: Contribute a Review
 header_text: Send Us Something?
-header_banner_pic: contribute-review-banner.png
+header_banner_pic: contribute-review-banner.jpg
 header_banner_pic_alt: Contribute a Review
 ---
 

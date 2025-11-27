@@ -4,7 +4,7 @@ title: Dog Gear
 description: The kit that makes life easier for you and your dog.
 header_heading: Dog Gear
 header_text: From leads to lights — what’s worth packing
-header_banner_pic: dog-gear-banner.png
+header_banner_pic: dog-gear-banner.jpg
 header_banner_pic_alt: Dog gear laid out on table
 category: dog
 ---

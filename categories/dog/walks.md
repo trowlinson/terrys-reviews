@@ -4,7 +4,7 @@ title: Dog Walking
 description: Tips, routes, and gear for happy walks with your dog.
 header_heading: Dog Walking
 header_text: Make every walk safe, fun, and rewarding
-header_banner_pic: dog-walking-banner.png
+header_banner_pic: dog-walking-banner.jpg
 header_banner_pic_alt: Dog walking in countryside
 category: dog
 ---
