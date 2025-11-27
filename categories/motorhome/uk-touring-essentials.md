@@ -4,7 +4,7 @@ title: UK Touring Essentials
 description: Everything you need to tour the UK in a motorhome — from gear to etiquette.
 header_heading: UK Touring Essentials
 header_text: What to pack, expect, and prepare for on the road
-header_banner_pic: uk-touring-essentials-banner.jpg
+header_banner_pic: 
 header_banner_pic_alt: Motorhome on a country lane in the UK
 category: motorhome
 ---

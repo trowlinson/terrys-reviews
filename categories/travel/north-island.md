@@ -4,7 +4,7 @@ title: North Island Escapes
 description: Discover the best motorhome-friendly adventures across New Zealand’s North Island.
 header_heading: North Island Escapes
 header_text: From coastal drives to volcanic heartlands, the North Island is packed with unforgettable journeys.
-header_banner_pic: north-island-escapes-banner.jpg
+header_banner_pic: 
 header_banner_pic_alt: Scenic view of New Zealand’s North Island coastline
 category: travel
 ---
@@ -62,6 +62,6 @@ category: travel
 
 ## 🔗 Related Pages
 
-- [South Island Adventures](/categories/travel/south-island-adventures.html)  
+- [South Island Adventures](/categories/travel/south-island.html)  
 - [Dog-Friendly Camping in the UK](/categories/motorhome/dog-friendly-camping.html)  
 - [Motorhome Essentials Starter Kit](/categories/motorhome/essentials-starter-kit.html)

@@ -4,7 +4,7 @@ title: Camping
 description: Essential gear and tips for comfortable, safe, and enjoyable camping trips.
 header_heading: Camping
 header_text: From tents to stoves, here’s what makes nights under the stars more memorable.
-header_banner_pic: camping-banner.jpg
+header_banner_pic: 
 header_banner_pic_alt: Tent and campfire set up in the countryside
 category: outdoor-gear
 ---
@@ -67,5 +67,5 @@ category: outdoor-gear
 ## 🔗 Related Pages
 
 - [Hiking](/categories/outdoor-gear/hiking.html)  
-- [Gear and Gadgets](/categories/motorhome/gear-and-gadgets.html)  
+- [Gear and Gadgets](/categories/motorhome/gear.html)  
 - [UK Campsite Etiquette](/categories/motorhome/uk-campsite-etiquette.html)

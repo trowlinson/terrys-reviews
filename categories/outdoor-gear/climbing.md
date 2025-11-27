@@ -4,7 +4,7 @@ title: Climbing
 description: Essential gear and tips for safe and rewarding climbing adventures.
 header_heading: Climbing
 header_text: From harnesses to helmets, here’s what makes every climb secure and memorable.
-header_banner_pic: climbing-banner.jpg
+header_banner_pic: 
 header_banner_pic_alt: Climber scaling a rock face with rope and gear
 category: outdoor-gear
 ---

@@ -57,7 +57,7 @@ category: dog
 
 ## 🔗 Related Pages
 
-- [Dog Walking](/categories/dog/dog-walking.html)
-- [Dog Gear](/categories/dog/dog-gear.html)
-- [Dog Training](/categories/dog/dog-training.html)
+- [Dog Walking](/categories/dog/walks.html)
+- [Dog Gear](/categories/dog/gear.html)
+- [Dog Training](/categories/dog/training.html)
 - [Dog Walk Search Site](https://uk-map-doggle-app-production.up.railway.app/)

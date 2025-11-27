@@ -4,7 +4,7 @@ title: Hiking
 description: Essential gear and tips for safe, enjoyable hikes across trails and terrains.
 header_heading: Hiking
 header_text: From boots to backpacks, here’s what makes every hike more rewarding.
-header_banner_pic: hiking-banner.jpg
+header_banner_pic: 
 header_banner_pic_alt: Hiker with backpack overlooking a mountain trail
 category: outdoor-gear
 ---
@@ -66,6 +66,6 @@ category: outdoor-gear
 
 ## 🔗 Related Pages
 
-- [Gear and Gadgets](/categories/motorhome/gear-and-gadgets.html)  
+- [Gear and Gadgets](/categories/motorhome/gear.html)  
 - [Motorhome Essentials Starter Kit](/categories/motorhome/essentials-starter-kit.html)  
 - [Dog-Friendly Camping in the UK](/categories/motorhome/dog-friendly-camping.html)

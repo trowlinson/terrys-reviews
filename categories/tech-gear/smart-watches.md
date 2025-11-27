@@ -4,7 +4,7 @@ title: Smart Watches
 description: Stay connected, track your health, and manage your day right from your wrist.
 header_heading: Smart Watches
 header_text: From fitness tracking to travel-friendly features, here’s how to choose the right smartwatch.
-header_banner_pic: smart-watches-banner.jpg
+header_banner_pic: 
 header_banner_pic_alt: Smartwatch displaying health stats on a wrist
 category: tech-gear
 ---
@@ -58,4 +58,4 @@ category: tech-gear
 
 - [Headphones](/categories/tech-gear/headphones.html)  
 - [Power Banks](/categories/tech-gear/power-banks.html)  
-- [Gear and Gadgets](/categories/motorhome/gear-and-gadgets.html)
+- [Gear and Gadgets](/categories/motorhome/gear.html)

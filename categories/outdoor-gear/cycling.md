@@ -4,7 +4,7 @@ title: Cycling
 description: Essential gear and tips for safe, enjoyable rides on roads, trails, and tours.
 header_heading: Cycling
 header_text: From helmets to hydration, here’s what makes every ride smoother and safer.
-header_banner_pic: cycling-banner.jpg
+header_banner_pic: 
 header_banner_pic_alt: Cyclist riding along a scenic countryside road
 category: outdoor-gear
 ---
@@ -68,4 +68,4 @@ category: outdoor-gear
 
 - [Hiking](/categories/outdoor-gear/hiking.html)  
 - [Camping](/categories/outdoor-gear/camping.html)  
-- [Gear and Gadgets](/categories/motorhome/gear-and-gadgets.html)
+- [Gear and Gadgets](/categories/motorhome/gear.html)

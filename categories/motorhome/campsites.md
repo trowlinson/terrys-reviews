@@ -4,7 +4,7 @@ title: Campsites
 description: Explore the best types of campsites for motorhome travel across the UK and Europe.
 header_heading: Campsites
 header_text: From small CLs to bustling holiday parks, here’s how to choose the right stay.
-header_banner_pic: motorhome-campsites-banner.jpg
+header_banner_pic: 
 header_banner_pic_alt: Motorhomes parked at a scenic UK campsite
 category: motorhome
 ---
@@ -58,5 +58,5 @@ category: motorhome
 ## 🔗 Related Pages
 
 - [UK Campsite Etiquette](/categories/motorhome/uk-campsite-etiquette.html)  
-- [Dog-Friendly Campsites](/categories/motorhome/dog-friendly-campsites.html)  
+- [Dog-Friendly Campsites](/categories/motorhome/dog-friendly-camping.html)  
 - [Lessons Learned](/categories/motorhome/failures-successes.html)

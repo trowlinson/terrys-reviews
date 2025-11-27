@@ -82,7 +82,7 @@ header_banner_pic_alt: Adventure Banner
     </ul>
     <p>
     Manage your preferences anytime via our cookie banner or settings:
-    <a href="/cookie-preferences/">Cookie preferences</a>.
+    <a onclick="CookieScript.instance.show();">Cookie preferences</a>.
     <!-- TODO: Link this to your consent tool (e.g., CookieScript) preference centre -->
     </p>
     <p class="muted">

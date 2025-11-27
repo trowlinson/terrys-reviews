@@ -56,5 +56,5 @@ category: dog
 ## 🔗 Related Pages
 
 - [Dog-Friendly UK Destinations](/categories/dog/dog-friendly-uk-destinations.html)
-- [Dog Walking](/categories/dog/dog-walking.html)
-- [Dog Gear](/categories/dog/dog-gear.html)
+- [Dog Walking](/categories/dog/walks.html)
+- [Dog Gear](/categories/dog/gear.html)

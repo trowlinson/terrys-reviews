@@ -6,7 +6,7 @@ layout: page
 banner: banner.avif
 header_heading: Thank You
 header_text: Thank you for submitting a review
-header_banner_pic: thank-you-banner.png
+header_banner_pic: 
 header_banner_pic_alt: Thank You
 ---
 
@@ -24,8 +24,7 @@ We truly appreciate you taking the time to share your experiences. Every contrib
 
 ## Keep Exploring
 
-- [Return to Home](/)  
-- [Read our latest guides](/categories/)  
+- [Return to Home](/)   
 - [Contribute another review](/contribute-review/)  
 
 ---

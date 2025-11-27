@@ -4,7 +4,7 @@ title: Wild vs. Off-Grid Camping
 description: What’s the difference, and which one suits your motorhome adventures?
 header_heading: Wild vs. Off-Grid Camping
 header_text: Freedom, legality, and setup — know what you’re choosing
-header_banner_pic: wild-vs-off-grid-banner.jpg
+header_banner_pic: 
 header_banner_pic_alt: Motorhome parked in remote countryside
 category: motorhome
 ---

@@ -5,7 +5,7 @@ category: travel
 description: The heart of the city — culture, skyline, and waterfront vibes.
 header_heading: Auckland Central
 header_text: Where the city pulses loudest
-header_banner_pic: auckland-central.jpg
+header_banner_pic: 
 header_banner_pic_alt: Auckland CBD skyline
 ---
 

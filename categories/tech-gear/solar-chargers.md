@@ -4,7 +4,7 @@ title: Solar Chargers
 description: Harness the sun to keep your devices powered while travelling or camping.
 header_heading: Solar Chargers
 header_text: Eco-friendly energy solutions for motorhome life, hiking, and off-grid adventures.
-header_banner_pic: solar-chargers-banner.jpg
+header_banner_pic: 
 header_banner_pic_alt: Portable solar charger set up beside a motorhome
 category: tech-gear
 ---

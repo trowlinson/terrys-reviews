@@ -5,7 +5,7 @@ category: travel
 description: Beaches, suburbs, and laid-back coastal living just across the bridge.
 header_heading: North Shore
 header_text: Salt air and slower pace
-header_banner_pic: north-shore.jpg
+header_banner_pic: 
 header_banner_pic_alt: Takapuna Beach
 ---
 

@@ -4,7 +4,7 @@ title: Power Banks
 description: Stay charged on the go with reliable portable power solutions.
 header_heading: Power Banks
 header_text: From compact chargers to high-capacity bricks, here’s how to keep your devices alive.
-header_banner_pic: power-banks-banner.jpg
+header_banner_pic: 
 header_banner_pic_alt: Portable power bank charging a phone on a campsite table
 category: tech-gear
 ---
@@ -57,5 +57,5 @@ category: tech-gear
 ## 🔗 Related Pages
 
 - [Headphones](/categories/tech-gear/headphones.html)  
-- [Gear and Gadgets](/categories/motorhome/gear-and-gadgets.html)  
+- [Gear and Gadgets](/categories/motorhome/gear.html)  
 - [Motorhome Essentials Starter Kit](/categories/motorhome/essentials-starter-kit.html)

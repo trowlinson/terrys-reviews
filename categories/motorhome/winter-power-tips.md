@@ -4,7 +4,7 @@ title: Winter Power Tips
 description: How to keep your motorhome powered and comfortable during cold-weather touring.
 header_heading: Winter Power Tips
 header_text: Stay warm, stay charged, and avoid common cold-weather pitfalls
-header_banner_pic: /assets/images/winter-power-tips-banner.jpg
+header_banner_pic: 
 header_banner_pic_alt: Motorhome in frosty countryside with sunrise
 category: motorhome
 ---

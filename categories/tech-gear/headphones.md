@@ -4,7 +4,7 @@ title: Headphones
 description: Reviews, tips, and guides for choosing the right headphones for travel, work, and play.
 header_heading: Headphones
 header_text: From noise-cancelling to wireless buds, here’s how to find your perfect fit.
-header_banner_pic: headphones-banner.jpg
+header_banner_pic: 
 header_banner_pic_alt: Modern headphones resting on a desk
 category: tech-gear
 ---
@@ -71,6 +71,6 @@ category: tech-gear
 
 ## 🔗 Related Pages
 
-- [Gear and Gadgets](/categories/motorhome/gear-and-gadgets.html)  
+- [Gear and Gadgets](/categories/motorhome/gear.html)  
 - [Motorhome Essentials Starter Kit](/categories/motorhome/essentials-starter-kit.html)  
 - [Lessons Learned](/categories/motorhome/failures-successes.html)

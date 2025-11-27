@@ -4,7 +4,7 @@ title: Motorhome Essentials Starter Kit
 description: The gear we actually use — and what we wish we’d packed sooner.
 header_heading: Motorhome Essentials Starter Kit
 header_text: Not just what you need — what you’ll actually use
-header_banner_pic: motorhome-essentials-banner.jpg
+header_banner_pic: 
 header_banner_pic_alt: Motorhome gear laid out beside van
 category: motorhome
 ---

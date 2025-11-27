@@ -4,7 +4,7 @@ title: Motorhome France
 description: Touring France by motorhome — from vineyards to villages, coastlines to castles.
 header_heading: Motorhome France
 header_text: Discover the freedom of France with your home on wheels.
-header_banner_pic: motorhome-france-banner.jpg
+header_banner_pic: 
 header_banner_pic_alt: Motorhome parked near a French vineyard
 category: motorhome
 ---
@@ -64,4 +64,4 @@ category: motorhome
 
 - [UK Campsite Etiquette](/categories/motorhome/uk-campsite-etiquette.html)  
 - [Lessons Learned](/categories/motorhome/failures-successes.html)  
-- [Gear and Gadgets](/categories/motorhome/gear-and-gadgets.html)
+- [Gear and Gadgets](/categories/motorhome/gear.html)

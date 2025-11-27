@@ -4,7 +4,7 @@ title: UK Campsite Etiquette
 description: How to be a great neighbour, guest, and camper across UK sites.
 header_heading: UK Campsite Etiquette
 header_text: The unwritten rules that make camping better for everyone
-header_banner_pic: uk-campsite-etiquette-banner.jpg
+header_banner_pic: 
 header_banner_pic_alt: Peaceful UK campsite with motorhomes
 category: motorhome
 ---

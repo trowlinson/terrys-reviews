@@ -5,7 +5,7 @@ category: motorhome
 description: A step-by-step guide to buying your first motorhome — without the regret.
 header_heading: Motorhome Buyer's Timeline
 header_text: From “maybe” to “mine” — a realistic roadmap
-header_banner_pic: motorhome-timeline-banner.jpg
+header_banner_pic: 
 header_banner_pic_alt: Motorhome parked at sunset
 ---
 

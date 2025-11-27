@@ -40,7 +40,8 @@ header_banner_pic_alt: Adventure Banner
     <h2>Managing your cookies</h2>
     <p>
     You can manage your cookie preferences at any time via our
-    <a href="/cookie-preferences/">Cookie preferences</a> tool.
+    
+    <a onclick="CookieScript.instance.show();" >Cookie preferences</a> tool.
     </p>
     <p>
     You can also adjust your browser settings to block or delete cookies. Note that disabling essential

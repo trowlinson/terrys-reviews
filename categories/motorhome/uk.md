@@ -56,4 +56,4 @@ category: motorhome
 
 - [UK Campsite Etiquette](/categories/motorhome/uk-campsite-etiquette.html)  
 - [Lessons Learned](/categories/motorhome/failures-successes.html)  
-- [Gear and Gadgets](/categories/motorhome/gear-and-gadgets.html)
+- [Gear and Gadgets](/categories/motorhome/gear.html)
