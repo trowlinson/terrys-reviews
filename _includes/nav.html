@@ -1,5 +1,6 @@
-{% include nav_recursive.html items=site.data.navigation.main %}
+
 <nav class="top-nav">
+  {% include nav_recursive.html items=site.data.navigation.main %}
   <a href="{{ "/" | relative_url }}" class="nav-item">
     <i class="fa-solid fa-house"></i>
     <span>Home</span>
