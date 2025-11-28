@@ -1,28 +1,33 @@
-<button class="burger" aria-label="Toggle menu">☰</button>
-<div class="menu hidden">
-  <ul class="top-level">
-    {% for item in site.data.navigation.main %}
-      <li>
-        <button class="menu-toggle" data-target="menu-{{ forloop.index }}">
-          {{ item.title }}
-        </button>
-        <ul id="menu-{{ forloop.index }}" class="sub-menu hidden">
-          {% for child in item.children %}
-            <li>
-              <button class="menu-toggle" data-target="menu-{{ forloop.index }}-{{ forloop.index0 }}">
-                {{ child.title }}
-              </button>
-              <ul id="menu-{{ forloop.index }}-{{ forloop.index0 }}" class="sub-sub-menu hidden">
-                {% assign pages = site.categories[child.category] %}
-                {% for p in pages %}
-                  <li><a href="{{ p.url }}">{{ p.title }}</a></li>
-                {% endfor %}
-              </ul>
-            </li>
-          {% endfor %}
-        </ul>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
+<button class="burger" aria-expanded="false" aria-controls="global-menu">☰</button>
+
+  <div id="global-menu" class="menu hidden">
+    <ul class="top-level">
+      {% for item in site.data.navigation.main %}
+        {% assign top_id = 'menu-' | append: forloop.index %}
+        <li class="group">
+          <button class="menu-toggle" data-target="{{ top_id }}" aria-expanded="false" aria-controls="{{ top_id }}">
+            {{ item.title }}
+          </button>
+          {% if item.children %}
+            <ul id="{{ top_id }}" class="sub-menu hidden">
+              {% for child in item.children %}
+                {% assign child_id = top_id | append: '-' | append: forloop.index %}
+                <li class="group">
+                  <button class="menu-toggle" data-target="{{ child_id }}" aria-expanded="false" aria-controls="{{ child_id }}">
+                    {{ child.title }}
+                  </button>
+                  {% assign pages = site.categories[child.category] %}
+                  <ul id="{{ child_id }}" class="sub-sub-menu hidden">
+                    {% for p in pages %}
+                      <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+                    {% endfor %}
+                  </ul>
+                </li>
+              {% endfor %}
+            </ul>
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
 <script src="/assets/js/nav.js"></script>

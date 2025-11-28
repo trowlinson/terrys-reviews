@@ -548,9 +548,11 @@ nav {
 .top-nav {
   display: flex;
   align-items: center;
-  padding: 1rem;
+  gap: 0.75rem;
+  padding: 0.75rem 1rem;
   background: #fff;
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid #ddd;
+  position: relative; /* anchor for absolute dropdown */
 }
 
 .burger {
@@ -558,43 +560,45 @@ nav {
   background: none;
   border: none;
   cursor: pointer;
-  margin-right: 1rem;
 }
 
 .menu {
+  position: absolute;
+  top: 100%;   /* drop directly below the bar */
+  left: 0;
+  right: 0;
+  z-index: 50;
   background: #f9f9f9;
-  padding: 1rem;
-  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ddd;
+  box-shadow: 0 6px 12px rgba(0,0,0,0.08);
+  padding: 0.75rem 1rem;
 }
+
+.menu.hidden { display: none; }
 
 .menu ul {
   list-style: none;
-  padding-left: 0;
+  margin: 0;
+  padding: 0;
 }
 
-.menu li {
-  margin-bottom: 0.5rem;
-}
+.top-level > li { margin-bottom: 0.25rem; }
 
 .menu-toggle {
-  background: none;
-  border: none;
-  font-weight: bold;
-  cursor: pointer;
-  display: block;
   width: 100%;
   text-align: left;
+  background: none;
+  border: none;
+  font-weight: 600;
   padding: 0.5rem 0;
+  cursor: pointer;
 }
 
-.sub-menu, .sub-sub-menu {
-  margin-left: 1rem;
-  padding-left: 1rem;
-  border-left: 2px solid #ddd;
-}
-
-.hidden {
-  display: none;
+.sub-menu,
+.sub-sub-menu {
+  margin-left: 0.75rem;
+  padding-left: 0.75rem;
+  border-left: 2px solid #e5e5e5;
 }
 
 

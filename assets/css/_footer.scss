@@ -1,0 +1,28 @@
+.site-footer {
+  border-top: 1px solid #eee;
+  padding: 20px 16px;
+  text-align: center;
+  font-size: 0.95rem;
+  background: $color-bg-light;
+
+  .footer-nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 18px;
+    margin-bottom: 8px;
+  }
+
+  .footer-link {
+    color: $color-text;
+    text-decoration: none;
+    font-weight: 500;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+
+    &:hover { color: $color-primary; }
+  }
+
+  .footer-meta { color: #666; }
+}

@@ -1,19 +1,54 @@
-document.querySelector('.burger').addEventListener('click', () => {
-  document.querySelector('.menu').classList.toggle('hidden');
+// assets/js/nav.js
+
+const burger = document.querySelector('.burger');
+const dropdown = document.getElementById('global-menu');
+
+burger.addEventListener('click', () => {
+  const open = !dropdown.classList.contains('hidden');
+  if (open) {
+    dropdown.classList.add('hidden');
+    burger.setAttribute('aria-expanded', 'false');
+    // collapse all submenus when closing
+    dropdown.querySelectorAll('.sub-menu, .sub-sub-menu').forEach(ul => ul.classList.add('hidden'));
+    dropdown.querySelectorAll('.menu-toggle').forEach(btn => btn.setAttribute('aria-expanded','false'));
+  } else {
+    dropdown.classList.remove('hidden');
+    burger.setAttribute('aria-expanded', 'true');
+  }
 });
 
-document.querySelectorAll('.menu-toggle').forEach(btn => {
-  btn.addEventListener('click', () => {
-    const targetId = btn.dataset.target;
-    const target = document.getElementById(targetId);
+// Delegate clicks within dropdown
+dropdown.addEventListener('click', (e) => {
+  const btn = e.target.closest('.menu-toggle');
+  if (!btn) return;
 
-    // Collapse all other submenus at the same level
-    document.querySelectorAll('ul').forEach(menu => {
-      if (menu.id !== targetId && menu.classList.contains('sub-menu')) {
-        menu.classList.add('hidden');
-      }
-    });
+  const targetId = btn.dataset.target;
+  const targetUl = document.getElementById(targetId);
+  if (!targetUl) return;
 
-    target.classList.toggle('hidden');
+  const isOpen = !targetUl.classList.contains('hidden');
+
+  // Close sibling submenus at the same level
+  const parentUl = btn.closest('ul'); // current level container
+  parentUl.querySelectorAll(':scope > .group > ul').forEach(ul => {
+    if (ul.id !== targetId) {
+      ul.classList.add('hidden');
+      const sbBtn = parentUl.querySelector(`[data-target="${ul.id}"]`);
+      sbBtn?.setAttribute('aria-expanded','false');
+      // collapse nested children within siblings
+      ul.querySelectorAll('ul').forEach(nested => nested.classList.add('hidden'));
+      ul.querySelectorAll('.menu-toggle').forEach(nbtn => nbtn.setAttribute('aria-expanded','false'));
+    }
   });
+
+  // Toggle current
+  if (isOpen) {
+    targetUl.classList.add('hidden');
+    btn.setAttribute('aria-expanded', 'false');
+    targetUl.querySelectorAll('ul').forEach(nested => nested.classList.add('hidden'));
+    targetUl.querySelectorAll('.menu-toggle').forEach(nbtn => nbtn.setAttribute('aria-expanded','false'));
+  } else {
+    targetUl.classList.remove('hidden');
+    btn.setAttribute('aria-expanded', 'true');
+  }
 });

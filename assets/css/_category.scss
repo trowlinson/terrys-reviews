@@ -1,0 +1,29 @@
+.category-header {
+  text-align: center;
+  margin-bottom: 2rem;
+  margin-top: 4rem;
+  padding-top: 2rem;
+  background-color: #f8f8f8;
+
+  .banner {
+    max-height: 300px;
+    overflow: hidden;
+
+    img {
+      width: 100%;
+      height: auto;
+      max-height: 444px;
+      object-fit: cover;
+      display: block;
+    }
+  }
+
+  .header-text {
+    padding: 1.5rem 1rem;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  h1 { font-size: 2rem; margin-top: 0; }
+  p { font-size: 1.1rem; color: #555; margin-top: 0.5rem; }
+}
