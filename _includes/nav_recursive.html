@@ -1,22 +1,20 @@
-{% macro render_nav items %}
-  <ul>
-    {% for item in items %}
-      <li>
-        <a href="{{ item.url }}">{{ item.title }}</a>
+<ul>
+  {% for item in include.items %}
+    <li>
+      <a href="{{ item.url }}">{{ item.title }}</a>
 
-        {%- assign pages = site.categories[item.category] -%}
-        {% if pages %}
-          <ul>
-            {% for p in pages %}
-              <li><a href="{{ p.url }}">{{ p.title }}</a></li>
-            {% endfor %}
-          </ul>
-        {% endif %}
+      {%- assign pages = site.categories[item.category] -%}
+      {% if pages %}
+        <ul>
+          {% for p in pages %}
+            <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+          {% endfor %}
+        </ul>
+      {% endif %}
 
-        {% if item.children %}
-          {% include nav_recursive.html items=item.children %}
-        {% endif %}
-      </li>
-    {% endfor %}
-  </ul>
-{% endmacro %}
+      {% if item.children %}
+        {% include nav_recursive.html items=item.children %}
+      {% endif %}
+    </li>
+  {% endfor %}
+</ul>
