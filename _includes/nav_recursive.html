@@ -1,20 +1,30 @@
-<ul>
-  {% for item in include.items %}
-    <li>
-      <a href="{{ item.url }}">{{ item.title }}</a>
+<nav class="top-nav">
+  <button class="burger" aria-label="Toggle menu">☰</button>
+</nav>
 
-      {%- assign pages = site.categories[item.category] -%}
-      {% if pages %}
-        <ul>
-          {% for p in pages %}
-            <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+<div class="menu hidden">
+  <ul class="top-level">
+    {% for item in site.data.navigation.main %}
+      <li>
+        <button class="menu-toggle" data-target="menu-{{ forloop.index }}">
+          {{ item.title }}
+        </button>
+        <ul id="menu-{{ forloop.index }}" class="sub-menu hidden">
+          {% for child in item.children %}
+            <li>
+              <button class="menu-toggle" data-target="menu-{{ forloop.index }}-{{ forloop.index0 }}">
+                {{ child.title }}
+              </button>
+              <ul id="menu-{{ forloop.index }}-{{ forloop.index0 }}" class="sub-sub-menu hidden">
+                {% assign pages = site.categories[child.category] %}
+                {% for p in pages %}
+                  <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+                {% endfor %}
+              </ul>
+            </li>
           {% endfor %}
         </ul>
-      {% endif %}
-
-      {% if item.children %}
-        {% include nav_recursive.html items=item.children %}
-      {% endif %}
-    </li>
-  {% endfor %}
-</ul>
+      </li>
+    {% endfor %}
+  </ul>
+</div>

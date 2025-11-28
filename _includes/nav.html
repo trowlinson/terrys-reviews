@@ -1,8 +1,4 @@
-<nav class="navbar">
-  <div class="logo">Revuary</div>
-  <button class="burger" aria-label="Toggle navigation">☰</button>
-  {% include nav_recursive.html items=site.data.navigation.main %}
-</nav>
+{% include nav_recursive.html items=site.data.navigation.main %}
 <nav class="top-nav">
   <a href="{{ "/" | relative_url }}" class="nav-item">
     <i class="fa-solid fa-house"></i>
