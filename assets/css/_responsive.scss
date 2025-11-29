@@ -28,14 +28,21 @@
 
   /* Keep top-nav in a single row on mobile */
   .top-nav {
-    flex-wrap: wrap;
-    padding: 0.5rem 0.25rem;
+    flex-wrap: nowrap;
+    padding: 0.25rem 0;
+    gap: 0;
   }
 
   .nav-item {
     flex: 1 1 auto;
-    min-width: 60px;
-    font-size: 0.65rem;
+    min-width: 0;
+    font-size: 0.6rem;
+    padding: 0.5rem 0.25rem;
+  }
+
+  .nav-item i {
+    font-size: 1.2rem;
+    margin-bottom: 0.15rem;
   }
 }
 
