@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /cgi-bin/
+Allow: /
+
+Sitemap: https://www.revuary.co.uk/sitemap.xml

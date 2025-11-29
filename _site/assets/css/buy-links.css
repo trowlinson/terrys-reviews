@@ -1,0 +1,27 @@
+.buy-links {
+  margin: 1.5em 0;
+}
+.buy-links ul {
+  list-style: none;
+  padding: 0;
+}
+.buy-links li {
+  margin: 0.5em 0;
+}
+.buy-button {
+  display: inline-block;
+  padding: 0.6em 1em;
+  background: #0078d7;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 4px;
+  font-weight: bold;
+}
+.buy-button:hover {
+  background: #005a9e;
+}
+.affiliate-disclaimer {
+  font-size: 0.85em;
+  color: #666;
+  margin-top: 0.5em;
+}

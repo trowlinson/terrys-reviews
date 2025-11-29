@@ -1,0 +1,40 @@
+backend:
+  name: git-gateway
+  branch: main
+local_backend: true
+
+media_folder: "assets/images"
+public_folder: "/assets/images"
+
+collections:
+  - name: "reviews"
+    label: "Reviews"
+    folder: "reviews"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Category", name: "category", widget: "string"}
+      - {label: "Header Heading", name: "header_heading", widget: "string", default: "Exploring Trusted Reviews"}
+      - {label: "Header Text", name: "header_text", widget: "string", default: "Honest insights for your next tech"}
+      - {label: "Header Banner Pic", name: "header_banner_pic", widget: "image"}
+      - {label: "Header Banner Alt", name: "header_banner_pic_alt", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "categories"
+    label: "Categories"
+    folder: "categories"
+    create: true
+    nested: {depth: 5}
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "category"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Category", name: "category", widget: "string", hint: "Parent category identifier (e.g. 'top', 'accommodation', etc.)"}
+      - {label: "Header Heading", name: "header_heading", widget: "string"}
+      - {label: "Header Text", name: "header_text", widget: "string"}
+      - {label: "Header Banner Pic", name: "header_banner_pic", widget: "image"}
+      - {label: "Header Banner Alt", name: "header_banner_pic_alt", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
