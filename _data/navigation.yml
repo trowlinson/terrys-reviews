@@ -14,8 +14,8 @@ main:
         url: /travel/south-island/
         category: south-island
 
-  - title: Gear
-    url: /gear/
+  - title: Tech
+    url: 
     category: gear
     children:
       - title: Tech Gear
@@ -26,7 +26,7 @@ main:
         category: outdoor-gear
 
   - title: Dog
-    url: /dog/
+    url: /dogs
     category: dog
     children:
       - title: Tech

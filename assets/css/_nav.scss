@@ -94,6 +94,47 @@
     > li {
       margin-bottom: 0.25rem;
 
+      .menu-item-row {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+      }
+
+      .menu-link {
+        flex: 1;
+        text-align: left;
+        background: none;
+        border: none;
+        font-weight: 600;
+        padding: 0.5rem 0;
+        cursor: pointer;
+        color: $color-text;
+        text-decoration: none;
+        font-size: inherit;
+
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+
+      .menu-toggle-icon {
+        background: none;
+        border: none;
+        cursor: pointer;
+        padding: 0.25rem 0.5rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: $color-text;
+        font-size: 0.8rem;
+        margin-left: 0.5rem;
+        transition: transform 0.3s ease;
+
+        &[aria-expanded="true"] .toggle-icon {
+          transform: rotate(90deg);
+        }
+      }
+
       .menu-toggle {
         width: 100%;
         text-align: left;

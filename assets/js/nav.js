@@ -13,7 +13,7 @@ burger.addEventListener('click', () => {
 
     // Collapse all submenus when closing
     dropdown.querySelectorAll('.sub-menu, .sub-sub-menu').forEach(ul => ul.classList.add('hidden'));
-    dropdown.querySelectorAll('.menu-toggle').forEach(btn => btn.setAttribute('aria-expanded','false'));
+    dropdown.querySelectorAll('.menu-toggle-icon').forEach(btn => btn.setAttribute('aria-expanded','false'));
   } else {
     dropdown.classList.remove('hidden');
     dropdown.classList.add('visible');
@@ -21,7 +21,7 @@ burger.addEventListener('click', () => {
 
     // ✅ Collapse all submenus when opening
     dropdown.querySelectorAll('.sub-menu, .sub-sub-menu').forEach(ul => ul.classList.add('hidden'));
-    dropdown.querySelectorAll('.menu-toggle').forEach(btn => btn.setAttribute('aria-expanded','false'));
+    dropdown.querySelectorAll('.menu-toggle-icon').forEach(btn => btn.setAttribute('aria-expanded','false'));
   }
 });
 
@@ -29,7 +29,7 @@ burger.addEventListener('click', () => {
 
 // Delegate clicks within dropdown
 dropdown.addEventListener('click', (e) => {
-  const btn = e.target.closest('.menu-toggle');
+  const btn = e.target.closest('.menu-toggle-icon');
   if (!btn) return;
 
   const targetId = btn.dataset.target;
@@ -47,7 +47,7 @@ dropdown.addEventListener('click', (e) => {
       sbBtn?.setAttribute('aria-expanded','false');
       // collapse nested children within siblings
       ul.querySelectorAll('ul').forEach(nested => nested.classList.add('hidden'));
-      ul.querySelectorAll('.menu-toggle').forEach(nbtn => nbtn.setAttribute('aria-expanded','false'));
+      ul.querySelectorAll('.menu-toggle-icon').forEach(nbtn => nbtn.setAttribute('aria-expanded','false'));
     }
   });
 
@@ -56,7 +56,7 @@ dropdown.addEventListener('click', (e) => {
     targetUl.classList.add('hidden');
     btn.setAttribute('aria-expanded', 'false');
     targetUl.querySelectorAll('ul').forEach(nested => nested.classList.add('hidden'));
-    targetUl.querySelectorAll('.menu-toggle').forEach(nbtn => nbtn.setAttribute('aria-expanded','false'));
+    targetUl.querySelectorAll('.menu-toggle-icon').forEach(nbtn => nbtn.setAttribute('aria-expanded','false'));
   } else {
     targetUl.classList.remove('hidden');
     btn.setAttribute('aria-expanded', 'true');
