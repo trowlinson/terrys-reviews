@@ -150,6 +150,13 @@
         margin-left: 0.75rem;
         padding-left: 0.75rem;
         border-left: 2px solid $color-border;
+        display: none; // Hidden by default
+        list-style: none;
+        margin-top: 0.5rem;
+
+        &:not(.hidden) {
+          display: block;
+        }
       }
     }
   }

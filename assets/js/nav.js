@@ -32,6 +32,9 @@ dropdown.addEventListener('click', (e) => {
   const btn = e.target.closest('.menu-toggle-icon');
   if (!btn) return;
 
+  e.preventDefault();
+  e.stopPropagation();
+
   const targetId = btn.dataset.target;
   const targetUl = document.getElementById(targetId);
   if (!targetUl) return;
