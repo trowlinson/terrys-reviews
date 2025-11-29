@@ -48,13 +48,13 @@ function Get-Permalink {
     
     # Build permalink from folder structure
     $parts = $relPath -split '[/\\]'
-    $permalink = '/' + ($parts -join '/') + '/'
+    $permalink = '/categories/' + ($parts -join '/') + '/'
     
     return $permalink
 }
 
 # Function to recursively build navigation structure
-function Build-NavStructure {
+function New-NavStructure {
     param(
         [string]$Path,
         [string]$ParentCategory = ""
@@ -95,7 +95,7 @@ function Build-NavStructure {
             $subDirPath = Join-Path $Path $expectedDirName
             
             if (Test-Path $subDirPath -PathType Container) {
-                $subItems = Build-NavStructure $subDirPath $category
+                $subItems = New-NavStructure $subDirPath $category
                 if ($subItems -and $subItems.Count -gt 0) {
                     $item['children'] = $subItems
                 }
@@ -110,7 +110,7 @@ function Build-NavStructure {
 
 # Build the navigation structure
 Write-Host "Scanning categories folder: $categoriesPath"
-$navItems = Build-NavStructure $categoriesPath
+$navItems = New-NavStructure $categoriesPath
 
 if ($navItems.Count -eq 0) {
     Write-Host "Warning: No navigation items found"
