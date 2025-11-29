@@ -34,3 +34,20 @@ th, td {
   border: 1px solid #ccc;
   text-align: left;
 }
+
+.categories {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin: 1rem 0;
+
+  a {
+    text-decoration: none;
+    color: $color-primary;
+    font-weight: bold;
+  }
+}
+
+main {
+  padding: 2rem;
+}

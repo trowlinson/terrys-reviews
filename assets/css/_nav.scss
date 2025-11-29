@@ -71,3 +71,25 @@
     }
   }
 }
+
+.logo {
+  display: flex;
+  align-items: center;
+  width: auto;
+
+  img {
+    height: 40px;
+    width: auto;
+  }
+}
+
+.top-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 1rem 2rem;
+  background-color: #1a1a1a;
+  color: white;
+  gap: 1rem;
+}

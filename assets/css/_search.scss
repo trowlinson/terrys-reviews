@@ -75,3 +75,28 @@
     &.active { background-color: #e0e0e0; }
   }
 }
+
+.searchBar {
+  flex-grow: 1;
+  max-width: 400px;
+  margin-left: auto;
+
+  input {
+    width: 100%;
+    padding: 0.5rem 0.75rem;
+    border-radius: 4px;
+    border: none;
+    font-size: 1rem;
+  }
+}
+
+#search-container {
+  padding: 1rem;
+  background: #f5f5f5;
+  text-align: center;
+}
+
+#search-results {
+  margin-top: 1rem;
+  text-align: left;
+}
