@@ -92,7 +92,7 @@
     margin: 0;
     padding: 0;
 
-    > li {
+    >li {
       margin-bottom: 0.25rem;
 
       .menu-item-row {
@@ -172,5 +172,10 @@
   background-color: #1a1a1a;
   color: white;
   gap: 1rem;
-}
 
+  @media (max-width: $breakpoint-sm) {
+    flex-wrap: nowrap;
+    padding: 0.5rem;
+    gap: 0.5rem;
+  }
+}
