@@ -1,17 +1,17 @@
 main:
   - title: Travel
-    url: /travel/
+    url: /categories/travel
     category: travel
     children:
       - title: North Island
-        url: /travel/north-island/
+        url: /categories/travel/north-island
         category: north-island
         children:
           - title: North Shore
             url: /travel/north-shore/
             category: north-shore
       - title: South Island
-        url: /travel/south-island/
+        url: /categories/travel/south-island
         category: south-island
 
   - title: Tech
@@ -19,16 +19,16 @@ main:
     category: gear
     children:
       - title: Tech Gear
-        url: /gear/tech-gear/
+        url: /categories/tech-gear/
         category: tech-gear
       - title: Outdoor Gear
-        url: /gear/outdoor-gear/
+        url: /categories/outdoor-gear/
         category: outdoor-gear
 
   - title: Dog
-    url: /dogs
+    url: /categories/dogs
     category: dog
     children:
-      - title: Tech
-        url: /dog/tech/
+      - title: Gear
+        url: /categories/dog/gear
         category: dog-tech
