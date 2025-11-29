@@ -10,7 +10,8 @@
 
   input {
     width: 100%;
-    padding: 0.5rem 2.5rem 0.5rem 2rem; /* space for icons */
+    padding: 0.5rem 2.5rem 0.5rem 2rem;
+    /* space for icons */
     border-radius: 1.5rem;
     border: 1px solid $color-border;
     font-size: $font-size-md;
@@ -38,7 +39,9 @@
     color: $color-muted;
     cursor: pointer;
 
-    &:hover { color: $color-text; }
+    &:hover {
+      color: $color-text;
+    }
   }
 }
 
@@ -51,13 +54,13 @@
   background-color: #fff;
   border: 1px solid $color-border;
   border-top: none;
-  z-index: 10;
+  z-index: 1001;
   list-style: none;
   margin: 0;
   padding: 0;
   max-height: 300px;
   overflow-y: auto;
-  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   border-radius: 0 0 1rem 1rem;
   opacity: 0;
   transition: opacity 0.3s ease;
@@ -73,8 +76,13 @@
     cursor: pointer;
     border-bottom: 1px solid #eee;
 
-    &:hover { background-color: #f0f0f0; }
-    &.active { background-color: #e0e0e0; }
+    &:hover {
+      background-color: #f0f0f0;
+    }
+
+    &.active {
+      background-color: #e0e0e0;
+    }
   }
 }
 
@@ -110,6 +118,7 @@
   .search-container {
     max-width: 100%;
     margin: 0.5rem 0;
+
     input {
       font-size: $font-size-sm;
     }
