@@ -1,3 +1,5 @@
+/* Global responsive adjustments */
+
 @media (max-width: $breakpoint-md) {
   .container { padding: 1rem 0.75rem; }
 
@@ -23,58 +25,21 @@
     line-height: 1.4;
     padding: 0.5rem;
   }
+
+  /* Optional: global nav stacking if not handled in _nav.scss */
+  .top-nav {
+    flex-direction: column;
+    align-items: stretch;
+    padding: 0.5rem 1rem;
+  }
 }
 
 @media (max-width: 600px) {
   .hero { flex-direction: column; }
   .hero-text { display: none; }
+
   .category-header {
     margin-top: 0;
     padding-top: unset;
-  }
-}
-
-@media (max-width: $breakpoint-md) {
-  .ad-container {
-    margin: 1.5rem 0;
-  }
-
-  .category-header h1 {
-    font-size: 1.5rem;
-  }
-
-  .category-header p {
-    font-size: 1rem;
-  }
-}
-
-@media (max-width: $breakpoint-sm) {
-  .top-nav {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 0.5rem;
-  }
-
-  .logo {
-    justify-content: center;
-    width: 100%;
-    margin-bottom: 0.5rem;
-    text-align: center;
-  }
-
-  .search-container {
-    width: 100%;
-    margin: 0.5rem 0;
-  }
-
-  .nav-row {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr); // 3 items per row
-    gap: 0.5rem;
-    width: 100%;
-  }
-
-  .nav-item {
-    padding: 0.5rem;
   }
 }
