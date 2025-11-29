@@ -37,33 +37,26 @@
     max-height: 500px; // adjust as needed
   }
 
-  &.hidden {
-    max-height: 0;
-  }
-
 
   .menu {
-      position: absolute;
-      top: 100%;
-      left: 0;
-      right: 0;
-      z-index: 50;
-      background: $color-bg-light;
-      border-bottom: 1px solid $color-border;
-      box-shadow: 0 6px 12px rgba(0, 0, 0, 0.08);
-      padding: 0.75rem 1rem;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    z-index: 50;
+    background: $color-bg-light;
+    border-bottom: 1px solid $color-border;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.08);
+    padding: 0.75rem 1rem;
+    overflow: hidden;
+    max-height: 0;
+    transition: max-height 0.3s ease-out;
 
-      // Animation setup
-      overflow: hidden;
-      max-height: 0;
-      transition: max-height 0.3s ease-out;
-
-      &.visible {
-        max-height: 500px; // Adjust based on expected content height
-      }
-
-
-
+    &.visible {
+      max-height: 500px;
+    }
+  }
+  
     ul {
       list-style: none;
       margin: 0;
