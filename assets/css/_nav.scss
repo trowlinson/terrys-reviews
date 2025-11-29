@@ -1,3 +1,4 @@
+// _nav.scss
 .top-nav {
   display: flex;
   justify-content: space-around;
@@ -8,10 +9,8 @@
 }
 
 .nav-item {
-  position: relative;
   flex: 1 1 auto;
   text-align: center;
-  min-width: 0;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -28,62 +27,53 @@
     background-color: #f0f0f0;
     border-radius: 0.5rem;
   }
+}
 
-  transition: max-height 0.3s ease-out;
+.menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  z-index: 50;
+  background: $color-bg-light;
+  border-bottom: 1px solid $color-border;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.08);
+  padding: 0.75rem 1rem;
   overflow: hidden;
   max-height: 0;
+  transition: max-height 0.3s ease-out;
 
   &.visible {
-    max-height: 500px; // adjust as needed
+    max-height: 500px;
   }
 
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
 
-  .menu {
-    position: absolute;
-    top: 100%;
-    left: 0;
-    right: 0;
-    z-index: 50;
-    background: $color-bg-light;
-    border-bottom: 1px solid $color-border;
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.08);
-    padding: 0.75rem 1rem;
-    overflow: hidden;
-    max-height: 0;
-    transition: max-height 0.3s ease-out;
+    > li {
+      margin-bottom: 0.25rem;
 
-    &.visible {
-      max-height: 500px;
-    }
-  }
+      .menu-toggle {
+        width: 100%;
+        text-align: left;
+        background: none;
+        border: none;
+        font-weight: 600;
+        padding: 0.5rem 0;
+        cursor: pointer;
+      }
 
-    ul {
-      list-style: none;
-      margin: 0;
-      padding: 0;
-
-      > li {
-        margin-bottom: 0.25rem;
-
-        .menu-toggle {
-          width: 100%;
-          text-align: left;
-          background: none;
-          border: none;
-          font-weight: 600;
-          padding: 0.5rem 0;
-          cursor: pointer;
-        }
-
-        .sub-menu,
-        .sub-sub-menu {
-          margin-left: 0.75rem;
-          padding-left: 0.75rem;
-          border-left: 2px solid $color-border;
-        }
+      .sub-menu,
+      .sub-sub-menu {
+        margin-left: 0.75rem;
+        padding-left: 0.75rem;
+        border-left: 2px solid $color-border;
       }
     }
   }
+}
 
 
 .logo {

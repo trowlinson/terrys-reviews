@@ -1,6 +1,6 @@
 <button class="burger" aria-expanded="false" aria-label="Toggle menu" aria-controls="global-menu">☰</button>
 
-  <div id="global-menu" class="menu hidden">
+  <div id="global-menu" class="menu">
     <ul class="top-level">
       {% for item in site.data.navigation.main %}
         {% assign top_id = 'menu-' | append: forloop.index %}
@@ -9,7 +9,7 @@
             {{ item.title }}
           </button>
           {% if item.children %}
-            <ul id="{{ top_id }}" class="sub-menu hidden">
+            <ul id="{{ top_id }}" class="sub-menu">
               {% for child in item.children %}
                 {% assign child_id = top_id | append: '-' | append: forloop.index %}
                 <li class="group">
@@ -17,7 +17,7 @@
                     {{ child.title }}
                   </button>
                   {% assign pages = site.categories[child.category] %}
-                  <ul id="{{ child_id }}" class="sub-sub-menu hidden">
+                  <ul id="{{ child_id }}" class="sub-sub-menu">
                     {% for p in pages %}
                       <li><a href="{{ p.url }}">{{ p.title }}</a></li>
                     {% endfor %}

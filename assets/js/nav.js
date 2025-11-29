@@ -7,15 +7,18 @@ burger.addEventListener('click', () => {
   const open = dropdown.classList.contains('visible');
   if (open) {
     dropdown.classList.remove('visible');
+    dropdown.classList.add('hidden');
     burger.setAttribute('aria-expanded', 'false');
-    // collapse all submenus when closing
-    dropdown.querySelectorAll('.sub-menu, .sub-sub-menu').forEach(ul => ul.classList.remove('visible'));
+
+    dropdown.querySelectorAll('.sub-menu, .sub-sub-menu').forEach(ul => ul.classList.add('hidden'));
     dropdown.querySelectorAll('.menu-toggle').forEach(btn => btn.setAttribute('aria-expanded','false'));
   } else {
+    dropdown.classList.remove('hidden');
     dropdown.classList.add('visible');
     burger.setAttribute('aria-expanded', 'true');
   }
 });
+
 
 // Delegate clicks within dropdown
 dropdown.addEventListener('click', (e) => {
