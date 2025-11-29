@@ -1,7 +1,9 @@
 // _nav.scss
 
 .top-nav {
-  position: relative; // anchor for dropdown
+  position: sticky;
+  top: 0;
+  z-index: 100; // ensure it stays above content
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -9,7 +11,9 @@
   padding: 0.5rem 0;
   background: #fff;
   border-top: 1px solid $color-border;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05); // optional subtle shadow
 }
+
 
 .logo {
   display: flex;
