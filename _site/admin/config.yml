@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: trowlinson/terrys-reviews  # Your GitHub username/repo
   branch: main
 local_backend: true
 
