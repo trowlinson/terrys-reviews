@@ -1,11 +1,40 @@
 // _nav.scss
+
 .top-nav {
+  position: relative; // anchor for dropdown
   display: flex;
   justify-content: space-around;
+  align-items: center;
   flex-wrap: wrap;
   padding: 0.5rem 0;
   background: #fff;
   border-top: 1px solid $color-border;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  width: auto;
+
+  img {
+    height: 48px;
+    width: auto;
+  }
+}
+
+.burger-wrap {
+  position: relative; // anchor for .menu
+  display: flex;
+  align-items: center;
+}
+
+.burger {
+  background: none;
+  border: none;
+  font-size: $font-size-lg;
+  cursor: pointer;
+  padding: 0.5rem;
+  color: $color-text;
 }
 
 .nav-item {
@@ -31,12 +60,11 @@
 
 .menu {
   position: absolute;
-  top: 100%;
-  left: 0;
+  top: 100%; // below burger
   right: 0;
   z-index: 50;
   background: $color-bg-light;
-  border-bottom: 1px solid $color-border;
+  border: 1px solid $color-border;
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.08);
   padding: 0.75rem 1rem;
   overflow: hidden;
@@ -44,7 +72,7 @@
   transition: max-height 0.3s ease-out;
 
   &.visible {
-    max-height: 500px;
+    max-height: 500px; // adjust as needed
   }
 
   ul {
@@ -72,18 +100,6 @@
         border-left: 2px solid $color-border;
       }
     }
-  }
-}
-
-
-.logo {
-  display: flex;
-  align-items: center;
-  width: auto;
-
-  img {
-    height: 48px;
-    width: auto;
   }
 }
 
