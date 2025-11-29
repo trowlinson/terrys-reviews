@@ -61,6 +61,7 @@ function New-NavStructure {
     )
     
     $items = @()
+    $processedDirs = @{}
     
     # Get all markdown files in this directory (non-recursive, immediate children only)
     $mdFiles = Get-ChildItem -Path $Path -Filter "*.md" -File -Depth 0 | Sort-Object Name
@@ -95,6 +96,7 @@ function New-NavStructure {
             $subDirPath = Join-Path $Path $expectedDirName
             
             if (Test-Path $subDirPath -PathType Container) {
+                $processedDirs[$expectedDirName] = $true
                 $subItems = New-NavStructure $subDirPath $category
                 if ($subItems -and $subItems.Count -gt 0) {
                     $item['children'] = $subItems
@@ -102,6 +104,19 @@ function New-NavStructure {
             }
             
             $items += $item
+        }
+    }
+    
+    # Handle "orphan" directories (directories without a corresponding markdown file)
+    # These are likely container folders (e.g., transport/), so we promote their children up
+    $subDirs = Get-ChildItem -Path $Path -Directory
+    
+    foreach ($dir in $subDirs) {
+        if (-not $processedDirs.ContainsKey($dir.Name)) {
+            $subItems = New-NavStructure $dir.FullName $ParentCategory
+            if ($subItems -and $subItems.Count -gt 0) {
+                $items += $subItems
+            }
         }
     }
     
