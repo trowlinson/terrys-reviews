@@ -6,23 +6,33 @@
       {% for item in site.data.navigation.main %}
         {% assign top_id = 'menu-' | append: forloop.index %}
         <li class="group">
-          <button class="menu-toggle" data-target="{{ top_id }}" aria-expanded="false" aria-controls="{{ top_id }}">
-            {{ item.title }}
-          </button>
+          {% if item.children %}
+            <button class="menu-toggle" data-target="{{ top_id }}" aria-expanded="false" aria-controls="{{ top_id }}">
+              {{ item.title }}
+            </button>
+          {% else %}
+            <a href="{{ item.url }}" class="menu-link">{{ item.title }}</a>
+          {% endif %}
           {% if item.children %}
             <ul id="{{ top_id }}" class="sub-menu">
               {% for child in item.children %}
                 {% assign child_id = top_id | append: '-' | append: forloop.index %}
+                {% assign pages = site.categories[child.category] %}
                 <li class="group">
-                  <button class="menu-toggle" data-target="{{ child_id }}" aria-expanded="false" aria-controls="{{ child_id }}">
-                    {{ child.title }}
-                  </button>
-                  {% assign pages = site.categories[child.category] %}
-                  <ul id="{{ child_id }}" class="sub-sub-menu">
-                    {% for p in pages %}
-                      <li><a href="{{ p.url }}">{{ p.title }}</a></li>
-                    {% endfor %}
-                  </ul>
+                  {% if pages %}
+                    <button class="menu-toggle" data-target="{{ child_id }}" aria-expanded="false" aria-controls="{{ child_id }}">
+                      {{ child.title }}
+                    </button>
+                  {% else %}
+                    <a href="{{ child.url }}" class="menu-link">{{ child.title }}</a>
+                  {% endif %}
+                  {% if pages %}
+                    <ul id="{{ child_id }}" class="sub-sub-menu">
+                      {% for p in pages %}
+                        <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+                      {% endfor %}
+                    </ul>
+                  {% endif %}
                 </li>
               {% endfor %}
             </ul>
