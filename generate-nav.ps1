@@ -48,7 +48,7 @@ function Get-Permalink {
     
     # Build permalink from folder structure
     $parts = $relPath -split '[/\\]'
-    $permalink = '/categories/' + ($parts -join '/') + '/'
+    $permalink = '/categories/' + ($parts -join '/')
     
     return $permalink
 }
