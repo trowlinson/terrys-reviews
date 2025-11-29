@@ -1,34 +1,144 @@
-main:
-  - title: Travel
-    url: /categories/travel
-    category: travel
+﻿main:
+  - title: Dogs
+    url: /dogs/
+    category: top
     children:
-      - title: North Island
-        url: /categories/travel/north-island
-        category: north-island
-        children:
-          - title: North Shore
-            url: /travel/north-shore/
-            category: north-shore
-      - title: South Island
-        url: /categories/travel/south-island
-        category: south-island
-
-  - title: Tech
-    url: 
-    category: gear
+      - title: Dog-Friendly Pubs & Cafes
+        url: /dog/dog-friendly-pubs-cafes/
+        category: dog
+      - title: Dog-Friendly UK Destinations
+        url: /dog/dog-friendly-uk-destinations/
+        category: dog
+      - title: Dog Gear
+        url: /dog/gear/
+        category: dog
+      - title: Dog Training
+        url: /dog/training/
+        category: dog
+      - title: Dog Walking
+        url: /dog/walks/
+        category: dog
+  - title: Motorhome
+    url: /motorhome/
+    category: top
     children:
-      - title: Tech Gear
-        url: /categories/tech-gear/
-        category: tech-gear
-      - title: Outdoor Gear
-        url: /categories/outdoor-gear/
+      - title: Motorhome Buyer's Timeline
+        url: /motorhome/buyers-timeline/
+        category: motorhome
+      - title: Campsites
+        url: /motorhome/campsites/
+        category: motorhome
+      - title: Condensation Combat Kit
+        url: /motorhome/condensation-combat-kit/
+        category: motorhome
+      - title: Dog-Friendly Campsites
+        url: /motorhome/dog-friendly-camping/
+        category: motorhome
+      - title: Motorhome Essentials Starter Kit
+        url: /motorhome/essentials-starter-kit/
+        category: motorhome
+      - title: Motorhome Lessons Learned
+        url: /motorhome/failures-successes/
+        category: motorhome
+      - title: Motorhome France
+        url: /motorhome/france/
+        category: motorhome
+      - title: Gear and Gadgets
+        url: /motorhome/gear/
+        category: motorhome
+      - title: Hire Before You Buy
+        url: /motorhome/hire-before-you-buy/
+        category: motorhome
+      - title: How to Choose a Motorhome
+        url: /motorhome/how-to-choose/
+        category: motorhome
+      - title: Motorhome Power Setup
+        url: /motorhome/power-setup/
+        category: motorhome
+      - title: Televisions
+        url: /motorhome/television/
+        category: motorhome
+      - title: Motorhome UK
+        url: /motorhome/uk/
+        category: motorhome
+      - title: UK Campsite Etiquette
+        url: /motorhome/uk-campsite-etiquette/
+        category: motorhome
+      - title: UK Touring Essentials
+        url: /motorhome/uk-touring-essentials/
+        category: motorhome
+      - title: What We Regret Buying
+        url: /motorhome/what-we-regret-buying/
+        category: motorhome
+      - title: Wild Camping Etiquette
+        url: /motorhome/wild-camping-etiquette/
+        category: motorhome
+      - title: Wild vs. Off-Grid Camping
+        url: /motorhome/wild-vs-off-grid/
+        category: motorhome
+      - title: Winter Power Tips
+        url: /motorhome/winter-power-tips/
+        category: motorhome
+  - title: Outdoor Gear
+    url: /outdoor-gear/
+    category: top
+    children:
+      - title: Camping
+        url: /outdoor-gear/camping/
         category: outdoor-gear
-
-  - title: Dog
-    url: /categories/dogs
-    category: dog
+      - title: Climbing
+        url: /outdoor-gear/climbing/
+        category: outdoor-gear
+      - title: Cycling
+        url: /outdoor-gear/cycling/
+        category: outdoor-gear
+      - title: Hiking
+        url: /outdoor-gear/hiking/
+        category: outdoor-gear
+      - title: Water Sports
+        url: /outdoor-gear/water-sports/
+        category: outdoor-gear
+  - title: Tech Gear
+    url: /tech-gear/
+    category: top
     children:
-      - title: Gear
-        url: /categories/dog/gear
-        category: dog-tech
+      - title: Headphones
+        url: /tech-gear/headphones/
+        category: tech-gear
+      - title: Power Banks
+        url: /tech-gear/power-banks/
+        category: tech-gear
+      - title: Smart Watches
+        url: /tech-gear/smart-watches/
+        category: tech-gear
+      - title: Solar Chargers
+        url: /tech-gear/solar-chargers/
+        category: tech-gear
+  - title: Travel
+    url: /travel/
+    category: top
+    children:
+      - title: Auckland
+        url: /travel/auckland/
+        category: travel
+      - title: Auckland Central
+        url: /travel/auckland-central/
+        category: travel
+      - title: Day Trips from Auckland
+        url: /travel/auckland-day-trips/
+        category: travel
+      - title: Travel
+        url: /travel/city-breaks/
+        category: travel
+      - title: Hamilton
+        url: /travel/hamilton/
+        category: travel
+      - title: North Island Escapes
+        url: /travel/north-island/
+        category: travel
+      - title: North Shore
+        url: /travel/north-shore/
+        category: travel
+      - title: South Island
+        url: /travel/south-island/
+        category: travel
