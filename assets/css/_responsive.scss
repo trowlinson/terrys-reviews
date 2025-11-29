@@ -47,3 +47,18 @@
     font-size: 1rem;
   }
 }
+
+@media (max-width: $breakpoint-md) {
+  .top-nav {
+    flex-wrap: wrap;
+  }
+
+  .nav-item {
+    flex: 1 1 33%;
+    padding: 0.5rem 0;
+  }
+
+  .search-container {
+    margin-top: 1rem;
+  }
+}
