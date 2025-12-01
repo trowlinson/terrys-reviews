@@ -7,6 +7,7 @@ header_text: Checking Tech Gear Doesn't Suck
 header_banner_pic: banner.avif
 header_banner_pic_alt: Tech Banner
 category: top
+permalink: /gear/tech-gear
 ---
 
 ## Subcategories

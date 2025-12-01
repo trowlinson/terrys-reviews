@@ -7,6 +7,7 @@ header_text: What worked, what didn’t, and what we wish we’d known
 header_banner_pic: motorhome-banner.png
 header_banner_pic_alt: Motorhome parked in scenic countryside
 category: top
+permalink: /transport/motorhome
 ---
 
 ## Subcategories
