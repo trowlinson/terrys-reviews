@@ -7,6 +7,7 @@ header_text: From noise-cancelling to wireless buds, here’s how to find your p
 header_banner_pic: 
 header_banner_pic_alt: Modern headphones resting on a desk
 category: tech-gear
+permalink: /tech-gear/headphones
 ---
 
 ## 🎧 Our Headphones
@@ -71,6 +72,6 @@ category: tech-gear
 
 ## 🔗 Related Pages
 
-- [Gear and Gadgets](/categories/motorhome/gear.html)  
-- [Motorhome Essentials Starter Kit](/categories/motorhome/essentials-starter-kit.html)  
-- [Lessons Learned](/categories/motorhome/failures-successes.html)
+- [Gear and Gadgets](/motorhome/gear.html)  
+- [Motorhome Essentials Starter Kit](/motorhome/essentials-starter-kit.html)  
+- [Lessons Learned](/motorhome/failures-successes.html)

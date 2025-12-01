@@ -7,6 +7,7 @@ header_text: Eco-friendly energy solutions for motorhome life, hiking, and off-g
 header_banner_pic: 
 header_banner_pic_alt: Portable solar charger set up beside a motorhome
 category: tech-gear
+permalink: /tech-gear/solar-chargers
 ---
 
 ## ☀️ Everyday Use
@@ -56,6 +57,6 @@ category: tech-gear
 
 ## 🔗 Related Pages
 
-- [Power Banks](/categories/tech-gear/power-banks.html)  
-- [Headphones](/categories/tech-gear/headphones.html)  
-- [Smart Watches](/categories/tech-gear/smart-watches.html)
+- [Power Banks](/tech-gear/power-banks.html)  
+- [Headphones](/tech-gear/headphones.html)  
+- [Smart Watches](/tech-gear/smart-watches.html)

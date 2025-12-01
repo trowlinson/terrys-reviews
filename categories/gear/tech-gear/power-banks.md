@@ -7,6 +7,7 @@ header_text: From compact chargers to high-capacity bricks, here’s how to keep
 header_banner_pic: 
 header_banner_pic_alt: Portable power bank charging a phone on a campsite table
 category: tech-gear
+permalink: /tech-gear/power-banks
 ---
 
 ## 🔋 Everyday Essentials
@@ -56,6 +57,6 @@ category: tech-gear
 
 ## 🔗 Related Pages
 
-- [Headphones](/categories/tech-gear/headphones.html)  
-- [Gear and Gadgets](/categories/motorhome/gear.html)  
-- [Motorhome Essentials Starter Kit](/categories/motorhome/essentials-starter-kit.html)
+- [Headphones](/tech-gear/headphones.html)  
+- [Gear and Gadgets](/motorhome/gear.html)  
+- [Motorhome Essentials Starter Kit](/motorhome/essentials-starter-kit.html)

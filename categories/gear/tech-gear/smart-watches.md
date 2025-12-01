@@ -7,6 +7,7 @@ header_text: From fitness tracking to travel-friendly features, here’s how to 
 header_banner_pic: 
 header_banner_pic_alt: Smartwatch displaying health stats on a wrist
 category: tech-gear
+permalink: /tech-gear/smart-watches
 ---
 
 ## ⏱️ Everyday Use
@@ -56,6 +57,6 @@ category: tech-gear
 
 ## 🔗 Related Pages
 
-- [Headphones](/categories/tech-gear/headphones.html)  
-- [Power Banks](/categories/tech-gear/power-banks.html)  
-- [Gear and Gadgets](/categories/motorhome/gear.html)
+- [Headphones](/tech-gear/headphones.html)  
+- [Power Banks](/tech-gear/power-banks.html)  
+- [Gear and Gadgets](/motorhome/gear.html)
