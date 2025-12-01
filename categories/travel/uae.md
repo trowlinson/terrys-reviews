@@ -7,6 +7,7 @@ header_text: Everything about Uae
 header_banner_pic: banner.avif
 header_banner_pic_alt: Uae Banner
 category: travel
+permalink: /travel/uae
 ---
 
 ## Subcategories

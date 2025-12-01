@@ -7,6 +7,7 @@ header_heading: North Shore
 header_text: Salt air and slower pace
 header_banner_pic: 
 header_banner_pic_alt: Takapuna Beach
+permalink: /travel/nz/north-shore
 ---
 
 ## Highlights

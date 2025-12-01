@@ -7,12 +7,13 @@ header_heading: Auckland - The City of Sails
 header_text: Big, busy, and full of surprises
 header_banner_pic: banner.avif
 header_banner_pic_alt: Auckland skyline and harbour
+permalink: /travel/nz/auckland
 ---
 
 ## Subcategories
-- [Central City](/categories/travel/auckland-central.html)
-- [North Shore](/categories/travel/north-shore.html)
-- [Day Trips from Auckland](/categories/travel/auckland-day-trips.html)
+- [Central City](/travel/auckland-central.html)
+- [North Shore](/travel/north-shore.html)
+- [Day Trips from Auckland](/travel/auckland-day-trips.html)
 
 ---
 

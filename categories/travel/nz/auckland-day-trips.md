@@ -7,6 +7,7 @@ header_heading: Auckland Day Trips
 header_text: Adventures just beyond the city
 header_banner_pic: 
 header_banner_pic_alt: Waiheke Island ferry
+permalink: /travel/nz/auckland-day-trips
 ---
 
 ## Top Picks

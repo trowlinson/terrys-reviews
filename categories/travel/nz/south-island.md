@@ -7,6 +7,7 @@ header_heading: South Island
 header_text: Wild beauty and endless adventure
 header_banner_pic: 
 header_banner_pic_alt: Lake Tekapo with lupins
+permalink: /travel/nz/south-island
 ---
 
 ## Highlights

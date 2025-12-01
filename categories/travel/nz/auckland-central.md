@@ -7,6 +7,7 @@ header_heading: Auckland Central
 header_text: Where the city pulses loudest
 header_banner_pic: 
 header_banner_pic_alt: Auckland CBD skyline
+permalink: /travel/nz/auckland-central
 ---
 
 ## Highlights

@@ -7,6 +7,7 @@ header_text: From coastal drives to volcanic heartlands, the North Island is pac
 header_banner_pic: 
 header_banner_pic_alt: Scenic view of New Zealand’s North Island coastline
 category: travel
+permalink: /travel/nz/north-island
 ---
 
 ## 🌊 Coastal Highlights
@@ -62,6 +63,6 @@ category: travel
 
 ## 🔗 Related Pages
 
-- [South Island Adventures](/categories/travel/south-island.html)  
-- [Dog-Friendly Camping in the UK](/categories/motorhome/dog-friendly-camping.html)  
-- [Motorhome Essentials Starter Kit](/categories/motorhome/essentials-starter-kit.html)
+- [South Island Adventures](/travel/nz/south-island.html)  
+- [Dog-Friendly Camping in the UK](/motorhome/dog-friendly-camping.html)  
+- [Motorhome Essentials Starter Kit](/motorhome/essentials-starter-kit.html)

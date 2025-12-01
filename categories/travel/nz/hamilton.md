@@ -7,12 +7,13 @@ header_text: "Explore Hamilton: Gardens, Galleries, and Good Vibes"
 header_heading: Exploring Trusted Reviews
 header_banner_pic: banner.avif
 header_banner_pic_alt: Hamilton Banner
+permalink: /travel/nz/hamilton
 ---
 
 ## Subcategories
-- [North Island Escapes](/categories/travel/north-island.html)
-- [South Island Highlights](/categories/travel/south-island.html)
-- [City Breaks](/categories/travel/city-breaks.html)
+- [North Island Escapes](/travel/nz/north-island.html)
+- [South Island Highlights](/travel/nz/south-island.html)
+- [City Breaks](/travel/nz/city-breaks.html)
 
 ---
 <iframe src="https://app.atlas.co/embeds/nQxCinPJERALG9ZYWs3l" frameborder="0" width="100%" height="600" style="max-width: 100%; border: 1px solid #EAEAEA; border-radius: 4px;"></iframe>
