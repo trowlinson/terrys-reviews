@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Dog Training
-description: Practical tips and methods for raising a well-behaved dog.
+description: Learn effective dog training methods with practical tips, gear advice, and step‑by‑step guides to raising a happy, well‑behaved companion at home or on the road
 header_heading: Dog Training
 header_text: Build trust, confidence, and good habits
 header_banner_pic: dog-training-banner.png

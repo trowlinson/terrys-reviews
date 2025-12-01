@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Gear
-description: Explore our Gear reviews and guides.
+description: Trusted gear reviews and guides for outdoor adventures, dog walking, motorhome travel, and tech essentials—helping you choose the right kit every time.
 header_heading: Gear
 header_text: Everything about Gear
 header_banner_pic: banner.avif

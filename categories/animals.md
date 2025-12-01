@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Animals
-description: Explore our Animals reviews and guides.
+description: Explore reviews and guides on animals - from dogs and guinea pigs to horses—covering training, walking routes, gear, and tips for pet‑friendly adventures
 header_heading: Animals
 header_text: Everything about Animals
 header_banner_pic: banner.avif

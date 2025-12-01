@@ -2,7 +2,7 @@
 layout: category
 title: Day Trips from Auckland
 category: travel
-description: Easy escapes from the city — beaches, vineyards, and glowworms.
+description: Plan easy Auckland day trips - explore beaches, vineyards, glowworm caves, and scenic escapes just beyond the city with our trusted travel tips and itineraries
 header_heading: Auckland Day Trips
 header_text: Adventures just beyond the city
 header_banner_pic: 

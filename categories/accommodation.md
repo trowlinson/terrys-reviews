@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Accommodation
-description: Explore our Accommodation reviews and guides.
+description: Browse trusted accommodation reviews and guides—covering campsites, hotels, resorts, and motorhome stopovers to help plan your next comfortable adventure.
 header_heading: Accommodation
 header_text: Everything about Accommodation
 header_banner_pic: banner.avif

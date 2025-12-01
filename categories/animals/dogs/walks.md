@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Dog Walking
-description: Tips, routes, and gear for happy walks with your dog.
+description: Discover dog walking routes, gear reviews, and practical tips for safe, enjoyable walks across the UK and NZ—making every outing fun for you and your pup.
 header_heading: Dog Walking
 header_text: Make every walk safe, fun, and rewarding
 header_banner_pic: dog-walking-banner.jpg

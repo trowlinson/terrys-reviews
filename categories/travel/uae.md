@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Uae
-description: Explore our Uae reviews and guides.
+description: Discover UAE travel guides and reviews—covering destinations, culture, transport, and tips for exploring Dubai, Abu Dhabi, and beyond with confidence
 header_heading: Uae
 header_text: Everything about Uae
 header_banner_pic: banner.avif

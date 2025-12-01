@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Transport
-description: Explore our Transport reviews and guides.
+description: Transport reviews and guides for motorhomes, travel gear, and practical tips - helping you navigate journeys across the UK, NZ, and international destinations
 header_heading: Transport
 header_text: Everything about Transport
 header_banner_pic: banner.avif
