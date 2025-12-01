@@ -7,6 +7,7 @@ header_text: From leads to lights — what’s worth packing
 header_banner_pic: dog-gear-banner.jpg
 header_banner_pic_alt: Dog gear laid out on table
 category: dog
+permalink: /dog/gear
 ---
 
 ## 🧰 Walking Gear
@@ -38,5 +39,5 @@ category: dog
 
 ## 🔗 Related Pages
 
-- [Dog Walking](/categories/dog/walks.html)
-- [Dog Training](/categories/dog/training.html)
+- [Dog Walking](/dog/walks.html)
+- [Dog Training](/dog/training.html)

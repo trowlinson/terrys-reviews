@@ -7,6 +7,7 @@ header_text: Build trust, confidence, and good habits
 header_banner_pic: dog-training-banner.png
 header_banner_pic_alt: Dog learning commands with owner
 category: dog
+permalink: /dog/training
 ---
 
 ## 🐶 Core Skills
@@ -38,5 +39,5 @@ category: dog
 
 ## 🔗 Related Pages
 
-- [Dog Walking](/categories/dog/walks.html)
-- [Dog Gear](/categories/dog/gear.html)
+- [Dog Walking](/dog/walks.html)
+- [Dog Gear](/dog/gear.html)

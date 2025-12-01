@@ -7,6 +7,7 @@ header_text: Walks, beaches, and towns where dogs are truly welcome
 header_banner_pic: dog-friendly-uk-banner.png
 header_banner_pic_alt: Dog enjoying a walk in the UK countryside
 category: dog
+permalink: /dog/dog-friendly-uk-destinations
 ---
 
 ## 🌳 Countryside Walks
@@ -57,7 +58,7 @@ category: dog
 
 ## 🔗 Related Pages
 
-- [Dog Walking](/categories/dog/walks.html)
-- [Dog Gear](/categories/dog/gear.html)
-- [Dog Training](/categories/dog/training.html)
+- [Dog Walking](/dog/walks.html)
+- [Dog Gear](/dog/gear.html)
+- [Dog Training](/dog/training.html)
 - [Dog Walk Search Site](https://uk-map-doggle-app-production.up.railway.app/)
