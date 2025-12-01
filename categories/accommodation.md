@@ -7,6 +7,7 @@ header_text: Everything about Accommodation
 header_banner_pic: banner.avif
 header_banner_pic_alt: Accommodation Banner
 category: top
+permalink: /accommodation
 ---
 
 ## Subcategories

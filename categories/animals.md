@@ -7,6 +7,7 @@ header_text: Everything about Animals
 header_banner_pic: banner.avif
 header_banner_pic_alt: Animals Banner
 category: top
+permalink: /animals
 ---
 
 ## Subcategories

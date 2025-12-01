@@ -7,6 +7,7 @@ header_text: Everything about Gear
 header_banner_pic: banner.avif
 header_banner_pic_alt: Gear Banner
 category: top
+permalink: /gear
 ---
 
 ## Subcategories

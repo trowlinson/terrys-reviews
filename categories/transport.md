@@ -7,6 +7,7 @@ header_text: Everything about Transport
 header_banner_pic: banner.avif
 header_banner_pic_alt: Transport Banner
 category: top
+permalink: /transport
 ---
 
 ## Subcategories

@@ -67,7 +67,7 @@ header_banner_pic_alt: Motorhome parked at sunset
 
 ## 🔗 Related Pages
 
-- [How to Choose a Motorhome](/categories/motorhome/how-to-choose.html)
+- [How to Choose a Motorhome](/motorhome/how-to-choose.html)
 - [Hire Before You Buy](/categories/motorhome/hire-before-you-buy.html)
 - [Lessons Learned](/categories/motorhome/failures-successes.html)
 - [Gear & Gadgets](/categories/motorhome/gear.html)

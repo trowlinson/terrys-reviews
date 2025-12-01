@@ -7,6 +7,7 @@ header_text: What to consider before you buy (or hire)
 header_banner_pic: 
 header_banner_pic_alt: Motorhome parked in the Lake District
 category: motorhome
+permalink: /motorhome/how-to-choose
 ---
 
 ## 🚐 Start with Your Travel Style
