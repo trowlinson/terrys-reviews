@@ -7,6 +7,7 @@ header_text: Hiring a motorhome is the smartest first step
 header_banner_pic: 
 header_banner_pic_alt: Hired motorhome parked in countryside
 category: motorhome
+permalink: /motorhome/hire-before-you-buy
 ---
 
 ## 🚐 Why Hiring First Makes Sense
@@ -60,6 +61,6 @@ Here are a few popular options to get you started:
 
 ## 🔗 Related Pages
 
-- [How to Choose a Motorhome](/categories/motorhome/how-to-choose.html)
-- [Gear & Gadgets](/categories/motorhome/gear.html)
-- [Lessons Learned](/categories/motorhome/failures-successes.html)
+- [How to Choose a Motorhome](/motorhome/how-to-choose.html)
+- [Gear & Gadgets](/motorhome/gear.html)
+- [Lessons Learned](/motorhome/failures-successes.html)

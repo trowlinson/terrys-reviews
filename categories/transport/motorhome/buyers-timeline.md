@@ -7,6 +7,7 @@ header_heading: Motorhome Buyer's Timeline
 header_text: From “maybe” to “mine” — a realistic roadmap
 header_banner_pic: 
 header_banner_pic_alt: Motorhome parked at sunset
+permalink: /motorhome/buyers-timeline
 ---
 
 ## 🕰️ Thinking About It
@@ -68,6 +69,6 @@ header_banner_pic_alt: Motorhome parked at sunset
 ## 🔗 Related Pages
 
 - [How to Choose a Motorhome](/motorhome/how-to-choose.html)
-- [Hire Before You Buy](/categories/motorhome/hire-before-you-buy.html)
-- [Lessons Learned](/categories/motorhome/failures-successes.html)
-- [Gear & Gadgets](/categories/motorhome/gear.html)
+- [Hire Before You Buy](/motorhome/hire-before-you-buy.html)
+- [Lessons Learned](/motorhome/failures-successes.html)
+- [Gear & Gadgets](/motorhome/gear.html)

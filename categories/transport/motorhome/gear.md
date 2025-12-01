@@ -7,6 +7,7 @@ header_text: From must-have essentials to clever extras, here’s what makes the
 header_banner_pic: 
 header_banner_pic_alt: Motorhome table with camping gadgets and gear
 category: motorhome
+permalink: /motorhome/gear
 ---
 
 ## 🔧 Everyday Essentials
@@ -66,6 +67,6 @@ category: motorhome
 
 ## 🔗 Related Pages
 
-- [Motorhome Essentials Starter Kit](/categories/motorhome/essentials-starter-kit.html)  
-- [UK Campsite Etiquette](/categories/motorhome/uk-campsite-etiquette.html)  
-- [Lessons Learned](/categories/motorhome/failures-successes.html)
+- [Motorhome Essentials Starter Kit](/motorhome/essentials-starter-kit.html)  
+- [UK Campsite Etiquette](/motorhome/uk-campsite-etiquette.html)  
+- [Lessons Learned](/motorhome/failures-successes.html)

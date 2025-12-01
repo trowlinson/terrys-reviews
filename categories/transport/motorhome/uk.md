@@ -7,6 +7,7 @@ header_text: Discover the best of Britain with your home on wheels.
 header_banner_pic: 
 header_banner_pic_alt: Motorhome parked in the UK countryside
 category: motorhome
+permalink: /motorhome/uk
 ---
 
 ## 🌊 Coastal Adventures
@@ -54,6 +55,6 @@ category: motorhome
 
 ## 🔗 Related Pages
 
-- [UK Campsite Etiquette](/categories/motorhome/uk-campsite-etiquette.html)  
-- [Lessons Learned](/categories/motorhome/failures-successes.html)  
-- [Gear and Gadgets](/categories/motorhome/gear.html)
+- [UK Campsite Etiquette](/motorhome/uk-campsite-etiquette.html)  
+- [Lessons Learned](/motorhome/failures-successes.html)  
+- [Gear and Gadgets](/motorhome/gear.html)

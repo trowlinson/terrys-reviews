@@ -7,6 +7,7 @@ header_text: Turn your motorhome into a rolling cinema or a snug living room wit
 header_banner_pic: 
 header_banner_pic_alt: Motorhome interior with mounted television
 category: motorhome
+permalink: /motorhome/television
 ---
 
 ## 📺 The Great Motorhome TV Debate

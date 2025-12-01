@@ -7,6 +7,7 @@ header_text: From small CLs to bustling holiday parks, here’s how to choose th
 header_banner_pic: 
 header_banner_pic_alt: Motorhomes parked at a scenic UK campsite
 category: motorhome
+permalink: /motorhome/campsites
 ---
 
 ## 🏕️ Types of Campsites
@@ -57,6 +58,6 @@ category: motorhome
 
 ## 🔗 Related Pages
 
-- [UK Campsite Etiquette](/categories/motorhome/uk-campsite-etiquette.html)  
-- [Dog-Friendly Campsites](/categories/motorhome/dog-friendly-camping.html)  
-- [Lessons Learned](/categories/motorhome/failures-successes.html)
+- [UK Campsite Etiquette](/motorhome/uk-campsite-etiquette.html)  
+- [Dog-Friendly Campsites](/motorhome/dog-friendly-camping.html)  
+- [Lessons Learned](/motorhome/failures-successes.html)

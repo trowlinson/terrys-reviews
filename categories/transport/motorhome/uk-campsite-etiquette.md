@@ -7,6 +7,7 @@ header_text: The unwritten rules that make camping better for everyone
 header_banner_pic: 
 header_banner_pic_alt: Peaceful UK campsite with motorhomes
 category: motorhome
+permalink: /motorhome/uk-campsite-etiquette 
 ---
 
 ## 🤝 Arrival & Setup
@@ -72,6 +73,6 @@ category: motorhome
 
 ## 🔗 Related Pages
 
-- [UK Touring Essentials](/categories/motorhome/uk-touring-essentials.html)
-- [Lessons Learned](/categories/motorhome/failures-successes.html)
-- [Motorhome Essentials Starter Kit](/categories/motorhome/essentials-starter-kit.html)
+- [UK Touring Essentials](/motorhome/uk-touring-essentials.html)
+- [Lessons Learned](/motorhome/failures-successes.html)
+- [Motorhome Essentials Starter Kit](/motorhome/essentials-starter-kit.html)

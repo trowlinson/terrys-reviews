@@ -7,6 +7,7 @@ header_text: What to pack, expect, and prepare for on the road
 header_banner_pic: 
 header_banner_pic_alt: Motorhome on a country lane in the UK
 category: motorhome
+permalink: /motorhome/uk-touring-essentials
 ---
 
 ## 🧭 Navigation & Planning
@@ -84,7 +85,7 @@ category: motorhome
 
 ## 🔗 Related Pages
 
-- [Motorhome Essentials Starter Kit](/categories/motorhome/essentials-starter-kit.html)
-- [What We Regret Buying](/categories/motorhome/what-we-regret-buying.html)
-- [Lessons Learned](/categories/motorhome/failures-successes.html)
-- [Touring France](/categories/motorhome/france.html)
+- [Motorhome Essentials Starter Kit](/motorhome/essentials-starter-kit.html)
+- [What We Regret Buying](/motorhome/what-we-regret-buying.html)
+- [Lessons Learned](/motorhome/failures-successes.html)
+- [Touring France](/motorhome/france.html)

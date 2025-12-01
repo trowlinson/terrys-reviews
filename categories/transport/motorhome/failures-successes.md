@@ -7,6 +7,7 @@ header_text: What we got wrong, what we got right — and what we’ll never for
 header_banner_pic: 
 header_banner_pic_alt: Motorhome parked at sunset with checklist on table
 category: motorhome
+permalink: /motorhome/failures-successes
 ---
 
 ## ❌ Failures (We’ve Made Them Too)
@@ -44,6 +45,6 @@ category: motorhome
 
 ## 🔗 Related Pages
 
-- [UK Campsite Etiquette](/categories/motorhome/uk-campsite-etiquette.html)  
-- [Motorhome Essentials Starter Kit](/categories/motorhome/essentials-starter-kit.html)  
-- [Dog-Friendly Camping in the UK](/categories/motorhome/dog-friendly-camping.html)
+- [UK Campsite Etiquette](/motorhome/uk-campsite-etiquette.html)  
+- [Motorhome Essentials Starter Kit](/motorhome/essentials-starter-kit.html)  
+- [Dog-Friendly Camping in the UK](/motorhome/dog-friendly-camping.html)

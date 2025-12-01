@@ -7,6 +7,7 @@ header_text: Simple tools and habits to beat the damp
 header_banner_pic: 
 header_banner_pic_alt: Morning condensation on motorhome window
 category: motorhome
+permalink: /motorhome/condensation-combat-kit
 ---
 
 ## 💧 Why Condensation Happens
@@ -52,7 +53,7 @@ These are the tools we actually use — no wiring, no fuss.
 
 ## 🔗 Related Pages
 
-- [Winter Power Tips](/categories/transport/motorhome/winter-power-tips.html)
-- [Motorhome Essentials Starter Kit](/categories/transport/motorhome/essentials-starter-kit.html)
-- [Lessons Learned](/categories/transport/motorhome/failures-successes.html)
-- [UK Touring Essentials](/categories/transport/motorhome/uk-touring-essentials.html)
+- [Winter Power Tips](/motorhome/winter-power-tips.html)
+- [Motorhome Essentials Starter Kit](/motorhome/essentials-starter-kit.html)
+- [Lessons Learned](/motorhome/failures-successes.html)
+- [UK Touring Essentials](/motorhome/uk-touring-essentials.html)

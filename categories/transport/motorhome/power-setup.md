@@ -7,6 +7,7 @@ header_text: Understand your 12V system, stay charged, and travel further
 header_banner_pic: 
 header_banner_pic_alt: Solar panel on motorhome roof in countryside
 category: motorhome
+permalink: /motorhome/power-setup
 ---
 
 ## 🔌 The Basics: 12V vs. 230V
@@ -86,7 +87,7 @@ category: motorhome
 
 ## 🔗 Related Pages
 
-- [Wild vs. Off-Grid Camping](/categories/motorhome/wild-vs-off-grid.html)
-- [Wild Camping Etiquette](/categories/motorhome/wild-camping-etiquette.html)
-- [Motorhome Essentials Starter Kit](/categories/motorhome/essentials-starter-kit.html)
-- [Lessons Learned](/categories/motorhome/failures-successes.html)
+- [Wild vs. Off-Grid Camping](/motorhome/wild-vs-off-grid.html)
+- [Wild Camping Etiquette](/motorhome/wild-camping-etiquette.html)
+- [Motorhome Essentials Starter Kit](/motorhome/essentials-starter-kit.html)
+- [Lessons Learned](/motorhome/failures-successes.html)

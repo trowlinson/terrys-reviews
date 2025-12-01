@@ -7,6 +7,7 @@ header_text: Not just what you need — what you’ll actually use
 header_banner_pic: 
 header_banner_pic_alt: Motorhome gear laid out beside van
 category: motorhome
+permalink: /motorhome/essentials-starter-kit
 ---
 
 ## 🧰 The Real Essentials
@@ -74,7 +75,7 @@ These are the things we reach for every trip — the kit that earns its keep.
 
 ## 🧭 Related Pages
 
-- [How to Choose a Motorhome](/categories/motorhome/how-to-choose.html)
-- [Hire Before You Buy](/categories/motorhome/hire-before-you-buy.html)
-- [Lessons Learned](/categories/motorhome/failures-successes.html)
-- [Gear & Gadgets](/categories/motorhome/gear.html)
+- [How to Choose a Motorhome](/motorhome/how-to-choose.html)
+- [Hire Before You Buy](/motorhome/hire-before-you-buy.html)
+- [Lessons Learned](/motorhome/failures-successes.html)
+- [Gear & Gadgets](/motorhome/gear.html)

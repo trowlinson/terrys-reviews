@@ -7,6 +7,7 @@ header_text: Find the best places where both you and your four-legged friends fe
 header_banner_pic: 
 header_banner_pic_alt: Motorhome parked at a campsite with a dog resting outside
 category: motorhome
+permalink: /motorhome/dog-friendly-camping
 ---
 
 ## 🐾 What Makes a Campsite Dog-Friendly?
@@ -57,6 +58,6 @@ category: motorhome
 
 ## 🔗 Related Pages
 
-- [Dog-Friendly Camping in the UK](/categories/motorhome/dog-friendly-camping.html)  
-- [UK Campsite Etiquette](/categories/motorhome/uk-campsite-etiquette.html)  
-- [Motorhome Essentials Starter Kit](/categories/motorhome/essentials-starter-kit.html)
+- [Dog-Friendly Camping in the UK](/motorhome/dog-friendly-camping.html)  
+- [UK Campsite Etiquette](/motorhome/uk-campsite-etiquette.html)  
+- [Motorhome Essentials Starter Kit](/motorhome/essentials-starter-kit.html)
