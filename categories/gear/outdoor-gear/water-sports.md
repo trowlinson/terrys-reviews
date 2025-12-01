@@ -7,6 +7,7 @@ header_text: From safety to fun, here’s what makes time on the water smooth an
 header_banner_pic: 
 header_banner_pic_alt: Paddleboarder on a calm lake at sunset
 category: outdoor-gear
+permalink: /outdoor-gear/water-sports
 ---
 
 ## 🛶 Core Gear
@@ -66,7 +67,7 @@ category: outdoor-gear
 
 ## 🔗 Related Pages
 
-- [Hiking](/categories/outdoor-gear/hiking.html)  
-- [Camping](/categories/outdoor-gear/camping.html)  
-- [Cycling](/categories/outdoor-gear/cycling.html)  
-- [Climbing](/categories/outdoor-gear/climbing.html)
+- [Hiking](/outdoor-gear/hiking.html)  
+- [Camping](/outdoor-gear/camping.html)  
+- [Cycling](/outdoor-gear/cycling.html)  
+- [Climbing](/outdoor-gear/climbing.html)

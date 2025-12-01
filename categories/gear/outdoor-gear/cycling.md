@@ -7,6 +7,7 @@ header_text: From helmets to hydration, here’s what makes every ride smoother 
 header_banner_pic: 
 header_banner_pic_alt: Cyclist riding along a scenic countryside road
 category: outdoor-gear
+permalink: /outdoor-gear/cycling
 ---
 
 ## 🚴 Core Gear
@@ -66,6 +67,6 @@ category: outdoor-gear
 
 ## 🔗 Related Pages
 
-- [Hiking](/categories/outdoor-gear/hiking.html)  
-- [Camping](/categories/outdoor-gear/camping.html)  
-- [Gear and Gadgets](/categories/motorhome/gear.html)
+- [Hiking](/outdoor-gear/hiking.html)  
+- [Camping](/outdoor-gear/camping.html)  
+- [Gear and Gadgets](/motorhome/gear.html)

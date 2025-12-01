@@ -7,6 +7,7 @@ header_text: From harnesses to helmets, here’s what makes every climb secure a
 header_banner_pic: 
 header_banner_pic_alt: Climber scaling a rock face with rope and gear
 category: outdoor-gear
+permalink: /outdoor-gear/climbing
 ---
 
 ## 🧗 Core Gear
@@ -66,6 +67,6 @@ category: outdoor-gear
 
 ## 🔗 Related Pages
 
-- [Hiking](/categories/outdoor-gear/hiking.html)  
-- [Camping](/categories/outdoor-gear/camping.html)  
-- [Cycling](/categories/outdoor-gear/cycling.html)
+- [Hiking](/outdoor-gear/hiking.html)  
+- [Camping](/outdoor-gear/camping.html)  
+- [Cycling](/outdoor-gear/cycling.html)

@@ -7,6 +7,7 @@ header_text: From tents to stoves, here’s what makes nights under the stars mo
 header_banner_pic: 
 header_banner_pic_alt: Tent and campfire set up in the countryside
 category: outdoor-gear
+permalink: /outdoor-gear/camping
 ---
 
 ## ⛺ Shelter & Sleeping
@@ -66,6 +67,6 @@ category: outdoor-gear
 
 ## 🔗 Related Pages
 
-- [Hiking](/categories/outdoor-gear/hiking.html)  
-- [Gear and Gadgets](/categories/motorhome/gear.html)  
-- [UK Campsite Etiquette](/categories/motorhome/uk-campsite-etiquette.html)
+- [Hiking](/outdoor-gear/hiking.html)  
+- [Gear and Gadgets](/motorhome/gear.html)  
+- [UK Campsite Etiquette](/motorhome/uk-campsite-etiquette.html)

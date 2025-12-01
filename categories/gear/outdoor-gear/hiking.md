@@ -7,6 +7,7 @@ header_text: From boots to backpacks, here’s what makes every hike more reward
 header_banner_pic: 
 header_banner_pic_alt: Hiker with backpack overlooking a mountain trail
 category: outdoor-gear
+permalink: /outdoor-gear/hiking
 ---
 
 ## 👟 Footwear & Clothing
@@ -66,6 +67,6 @@ category: outdoor-gear
 
 ## 🔗 Related Pages
 
-- [Gear and Gadgets](/categories/motorhome/gear.html)  
-- [Motorhome Essentials Starter Kit](/categories/motorhome/essentials-starter-kit.html)  
-- [Dog-Friendly Camping in the UK](/categories/motorhome/dog-friendly-camping.html)
+- [Gear and Gadgets](/motorhome/gear.html)  
+- [Motorhome Essentials Starter Kit](/motorhome/essentials-starter-kit.html)  
+- [Dog-Friendly Camping in the UK](/motorhome/dog-friendly-camping.html)
