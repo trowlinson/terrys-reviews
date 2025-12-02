@@ -9,7 +9,8 @@ header_banner_pic_alt: Tech Banner
 category: headphones
 ---
 
-🎧 Amazon Echo Buds 2
+# 🎧 Amazon Echo Buds 2
+
 The best budget alternative to AirPods Pro.
 
 📝 Overview

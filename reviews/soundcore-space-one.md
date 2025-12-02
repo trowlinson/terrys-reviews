@@ -9,7 +9,7 @@ header_banner_pic_alt: Tech Banner
 category: headphones
 ---
 
-## 🎧 Soundcore Space One
+# 🎧 Soundcore Space One
 
 ## Noise-cancelling headphones that punch well above their price point.
 
