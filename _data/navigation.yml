@@ -154,43 +154,44 @@
           - title: Winter Power Tips
             url: /categories/transport/motorhome/winter-power-tips
             category: motorhome
-  - title: Eu
-    url: /categories/travel/eu
-    category: travel
-  - title: Nz
-    url: /categories/travel/nz
-    category: travel
-    children:
-      - title: Auckland
-        url: /categories/travel/nz/auckland
-        category: travel
-      - title: Auckland Central
-        url: /categories/travel/nz/auckland-central
-        category: travel
-      - title: Day Trips from Auckland
-        url: /categories/travel/nz/auckland-day-trips
-        category: travel
-      - title: Travel
-        url: /categories/travel/nz/city-breaks
-        category: nz
-      - title: Hamilton
-        url: /categories/travel/nz/hamilton
-        category: travel
-      - title: North Island Escapes
-        url: /categories/travel/nz/north-island
-        category: travel
-      - title: North Shore
-        url: /categories/travel/nz/north-shore
-        category: travel
-      - title: South Island
-        url: /categories/travel/nz/south-island
-        category: travel
   - title: Travel
-    url: /categories/travel/travel
+    url: /categories/travel
     category: top
-  - title: Uae
-    url: /categories/travel/uae
-    category: travel
-  - title: Uk
-    url: /categories/travel/uk
-    category: travel
+    children:
+      - title: Eu
+        url: /categories/travel/eu
+        category: travel
+      - title: Nz
+        url: /categories/travel/nz
+        category: travel
+        children:
+          - title: Auckland
+            url: /categories/travel/nz/auckland
+            category: travel
+          - title: Auckland Central
+            url: /categories/travel/nz/auckland-central
+            category: travel
+          - title: Day Trips from Auckland
+            url: /categories/travel/nz/auckland-day-trips
+            category: travel
+          - title: Travel
+            url: /categories/travel/nz/city-breaks
+            category: nz
+          - title: Hamilton
+            url: /categories/travel/nz/hamilton
+            category: travel
+          - title: North Island Escapes
+            url: /categories/travel/nz/north-island
+            category: travel
+          - title: North Shore
+            url: /categories/travel/nz/north-shore
+            category: travel
+          - title: South Island
+            url: /categories/travel/nz/south-island
+            category: travel
+      - title: Uae
+        url: /categories/travel/uae
+        category: travel
+      - title: Uk
+        url: /categories/travel/uk
+        category: travel
