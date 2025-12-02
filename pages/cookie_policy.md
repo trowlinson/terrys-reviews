@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Cookie Policy
+description: 
 permalink: /cookie-policy/
 header_heading: Cookie policy
 header_text: Transparency about how we use cookies and your choices.

@@ -4,6 +4,8 @@
 
 
   <meta name="description" content="{{ page.description | escape }}">
+  <link rel="canonical" href="{% if page.canonical %}{{ page.canonical }}{% else %}{{ page.url | absolute_url }}{% endif %}" />
+
   
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" href="/assets/images/favicon.png" type="image/png">
