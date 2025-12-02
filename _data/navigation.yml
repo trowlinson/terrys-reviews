@@ -1,197 +1,197 @@
 ﻿main:
   - title: Accommodation
-    url: /categories/accommodation
+    url: /accommodation
     category: top
     children:
       - title: Campsites
-        url: /categories/accommodation/campsites
+        url: /accommodation/campsites
         category: accommodation
         children:
           - title: Eu
-            url: /categories/accommodation/campsites/eu
+            url: /accommodation/campsites/eu
             category: campsites
           - title: Nz
-            url: /categories/accommodation/campsites/nz
+            url: /accommodation/campsites/nz
             category: campsites
           - title: Uk
-            url: /categories/accommodation/campsites/uk
+            url: /accommodation/campsites/uk
             category: campsites
       - title: Hotels
-        url: /categories/accommodation/hotels
+        url: /accommodation/hotels
         category: accommodation
       - title: Resorts
-        url: /categories/accommodation/resorts
+        url: /accommodation/resorts
         category: accommodation
   - title: Animals
-    url: /categories/animals
+    url: /animals
     category: top
     children:
       - title: Dogs
-        url: /categories/animals/dogs
+        url: /animals/dogs
         category: top
       - title: Guinea Pigs
-        url: /categories/animals/guinea-pigs
+        url: /animals/guinea-pigs
         category: animals
       - title: Horses
-        url: /categories/animals/horses
+        url: /animals/horses
         category: animals
       - title: Dog-Friendly Pubs & Cafes
-        url: /categories/animals/dogs/dog-friendly-pubs-cafes
+        url: /animals/dogs/dog-friendly-pubs-cafes
         category: dog
       - title: Dog-Friendly UK Destinations
-        url: /categories/animals/dogs/dog-friendly-uk-destinations
+        url: /animals/dogs/dog-friendly-uk-destinations
         category: dog
       - title: Dog Gear
-        url: /categories/animals/dogs/gear
+        url: /animals/dogs/gear
         category: dog
       - title: Dog Training
-        url: /categories/animals/dogs/training
+        url: /animals/dogs/training
         category: dog
       - title: Dog Walking
-        url: /categories/animals/dogs/walks
+        url: /animals/dogs/walks
         category: dog
   - title: Gear
-    url: /categories/gear
+    url: /gear
     category: top
     children:
       - title: Outdoor Gear
-        url: /categories/gear/outdoor-gear
+        url: /gear/outdoor-gear
         category: top
         children:
           - title: Camping
-            url: /categories/gear/outdoor-gear/camping
+            url: /gear/outdoor-gear/camping
             category: outdoor-gear
           - title: Climbing
-            url: /categories/gear/outdoor-gear/climbing
+            url: /gear/outdoor-gear/climbing
             category: outdoor-gear
           - title: Cycling
-            url: /categories/gear/outdoor-gear/cycling
+            url: /gear/outdoor-gear/cycling
             category: outdoor-gear
           - title: Hiking
-            url: /categories/gear/outdoor-gear/hiking
+            url: /gear/outdoor-gear/hiking
             category: outdoor-gear
           - title: Water Sports
-            url: /categories/gear/outdoor-gear/water-sports
+            url: /gear/outdoor-gear/water-sports
             category: outdoor-gear
       - title: Tech Gear
-        url: /categories/gear/tech-gear
+        url: /gear/tech-gear
         category: top
         children:
           - title: Headphones
-            url: /categories/gear/tech-gear/headphones
+            url: /gear/tech-gear/headphones
             category: tech-gear
           - title: Power Banks
-            url: /categories/gear/tech-gear/power-banks
+            url: /gear/tech-gear/power-banks
             category: tech-gear
           - title: Smart Watches
-            url: /categories/gear/tech-gear/smart-watches
+            url: /gear/tech-gear/smart-watches
             category: tech-gear
           - title: Solar Chargers
-            url: /categories/gear/tech-gear/solar-chargers
+            url: /gear/tech-gear/solar-chargers
             category: tech-gear
   - title: Transport
-    url: /categories/transport
+    url: /transport
     category: top
     children:
       - title: Motorhome
-        url: /categories/transport/motorhome
+        url: /transport/motorhome
         category: top
         children:
           - title: Motorhome Buyer's Timeline
-            url: /categories/transport/motorhome/buyers-timeline
+            url: /transport/motorhome/buyers-timeline
             category: motorhome
           - title: Campsites
-            url: /categories/transport/motorhome/campsites
+            url: /transport/motorhome/campsites
             category: motorhome
           - title: Condensation Combat Kit
-            url: /categories/transport/motorhome/condensation-combat-kit
+            url: /transport/motorhome/condensation-combat-kit
             category: motorhome
           - title: Dog-Friendly Campsites
-            url: /categories/transport/motorhome/dog-friendly-camping
+            url: /transport/motorhome/dog-friendly-camping
             category: motorhome
           - title: Motorhome Essentials Starter Kit
-            url: /categories/transport/motorhome/essentials-starter-kit
+            url: /transport/motorhome/essentials-starter-kit
             category: motorhome
           - title: Motorhome Lessons Learned
-            url: /categories/transport/motorhome/failures-successes
+            url: /transport/motorhome/failures-successes
             category: motorhome
           - title: Motorhome France
-            url: /categories/transport/motorhome/france
+            url: /transport/motorhome/france
             category: motorhome
           - title: Gear and Gadgets
-            url: /categories/transport/motorhome/gear
+            url: /transport/motorhome/gear
             category: motorhome
           - title: Hire Before You Buy
-            url: /categories/transport/motorhome/hire-before-you-buy
+            url: /transport/motorhome/hire-before-you-buy
             category: motorhome
           - title: How to Choose a Motorhome
-            url: /categories/transport/motorhome/how-to-choose
+            url: /transport/motorhome/how-to-choose
             category: motorhome
           - title: Motorhome Power Setup
-            url: /categories/transport/motorhome/power-setup
+            url: /transport/motorhome/power-setup
             category: motorhome
           - title: Televisions
-            url: /categories/transport/motorhome/television
+            url: /transport/motorhome/television
             category: motorhome
           - title: Motorhome UK
-            url: /categories/transport/motorhome/uk
+            url: /transport/motorhome/uk
             category: motorhome
           - title: UK Campsite Etiquette
-            url: /categories/transport/motorhome/uk-campsite-etiquette
+            url: /transport/motorhome/uk-campsite-etiquette
             category: motorhome
           - title: UK Touring Essentials
-            url: /categories/transport/motorhome/uk-touring-essentials
+            url: /transport/motorhome/uk-touring-essentials
             category: motorhome
           - title: What We Regret Buying
-            url: /categories/transport/motorhome/what-we-regret-buying
+            url: /transport/motorhome/what-we-regret-buying
             category: motorhome
           - title: Wild Camping Etiquette
-            url: /categories/transport/motorhome/wild-camping-etiquette
+            url: /transport/motorhome/wild-camping-etiquette
             category: motorhome
           - title: Wild vs. Off-Grid Camping
-            url: /categories/transport/motorhome/wild-vs-off-grid
+            url: /transport/motorhome/wild-vs-off-grid
             category: motorhome
           - title: Winter Power Tips
-            url: /categories/transport/motorhome/winter-power-tips
+            url: /transport/motorhome/winter-power-tips
             category: motorhome
   - title: Travel
-    url: /categories/travel
+    url: /travel
     category: top
     children:
       - title: Eu
-        url: /categories/travel/eu
+        url: /travel/eu
         category: travel
       - title: Nz
-        url: /categories/travel/nz
+        url: /travel/nz
         category: travel
         children:
           - title: Auckland
-            url: /categories/travel/nz/auckland
+            url: /travel/nz/auckland
             category: travel
           - title: Auckland Central
-            url: /categories/travel/nz/auckland-central
+            url: /travel/nz/auckland-central
             category: travel
           - title: Day Trips from Auckland
-            url: /categories/travel/nz/auckland-day-trips
+            url: /travel/nz/auckland-day-trips
             category: travel
           - title: Travel
-            url: /categories/travel/nz/city-breaks
+            url: /travel/nz/city-breaks
             category: nz
           - title: Hamilton
-            url: /categories/travel/nz/hamilton
+            url: /travel/nz/hamilton
             category: travel
           - title: North Island Escapes
-            url: /categories/travel/nz/north-island
+            url: /travel/nz/north-island
             category: travel
           - title: North Shore
-            url: /categories/travel/nz/north-shore
+            url: /travel/nz/north-shore
             category: travel
           - title: South Island
-            url: /categories/travel/nz/south-island
+            url: /travel/nz/south-island
             category: travel
       - title: Uae
-        url: /categories/travel/uae
+        url: /travel/uae
         category: travel
       - title: Uk
-        url: /categories/travel/uk
+        url: /travel/uk
         category: travel
