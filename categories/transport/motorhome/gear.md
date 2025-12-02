@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Gear and Gadgets
-description: Smart kit and handy tools to make motorhome life smoother.
+description: Smart kit and handy tools to make motorhome life smoother—trusted reviews of gadgets and gear designed for comfort, safety, and convenience
 header_heading: Gear and Gadgets
 header_text: From must-have essentials to clever extras, here’s what makes the journey easier.
 header_banner_pic: 

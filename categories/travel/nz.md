@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Nz
-description: Explore our Nz reviews and guides.
+description: Explore New Zealand travel guides and reviews—covering Auckland, North Island, South Island, and day trips with tips for motorhome‑friendly adventures.
 header_heading: Nz
 header_text: Everything about Nz
 header_banner_pic: banner.avif

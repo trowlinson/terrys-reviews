@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Dog-Friendly Pubs & Cafes
-description: Where to enjoy a pint or coffee with your four-legged friend.
+description: Find dog‑friendly pubs and cafes across the UK—trusted reviews of places where you can enjoy a pint or coffee with your four‑legged companion
 header_heading: Dog-Friendly Pubs & Cafes
 header_text: Relax, refuel, and bring your dog along
 header_banner_pic: dog-friendly-pubs-banner.png

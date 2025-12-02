@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Dog Gear
-description: The kit that makes life easier for you and your dog.
+description: Reviews of dog gear that makes life easier—explore harnesses, leads, toys, and accessories designed to keep your four‑legged companion safe and happy.
 header_heading: Dog Gear
 header_text: From leads to lights — what’s worth packing
 header_banner_pic: dog-gear-banner.jpg

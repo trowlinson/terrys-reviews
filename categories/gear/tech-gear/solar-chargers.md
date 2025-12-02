@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Solar Chargers
-description: Harness the sun to keep your devices powered while travelling or camping.
+description: Harness the sun to power your devices while travelling or camping—trusted reviews of solar chargers and tips for staying connected outdoors.
 header_heading: Solar Chargers
 header_text: Eco-friendly energy solutions for motorhome life, hiking, and off-grid adventures.
 header_banner_pic: 

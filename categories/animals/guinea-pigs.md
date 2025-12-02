@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Guinea Pigs
-description: Explore our Guinea Pigs reviews and guides.
+description: Explore guinea pig care guides and reviews—covering housing, feeding, and enrichment tips to keep your small pets healthy, happy, and well looked after.
 header_heading: Guinea Pigs
 header_text: Everything about Guinea Pigs
 header_banner_pic: banner.avif

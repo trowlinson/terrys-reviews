@@ -1,6 +1,6 @@
 ---
 title: Contribute a Review
-description: Share your motorhome experiences, gear insights, or travel tips with the Revuary community.
+description: Share your motorhome experiences, gear insights, or travel tips with the Revuary community—contribute reviews and help others plan better adventures.
 permalink: /contribute-review/
 layout: page
 banner: contribute-banner.jpg

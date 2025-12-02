@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Dog-Friendly UK Destinations
-description: The best places across the UK to explore with your dog.
+description: Discover the best dog‑friendly destinations across the UK—trusted guides to walks, stays, and adventures where your four‑legged friend is welcome.
 header_heading: Dog-Friendly UK Destinations
 header_text: Walks, beaches, and towns where dogs are truly welcome
 header_banner_pic: dog-friendly-uk-banner.png

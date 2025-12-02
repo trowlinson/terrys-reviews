@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Tech Gear
-description: Explore gadgets and devices that make adventures easier.
+description: Explore gadgets and devices that make adventures easier—trusted reviews of solar chargers, smart watches, and tech essentials for travel and outdoor life
 header_heading: Tech Gear Reviews
 header_text: Checking Tech Gear Doesn't Suck
 header_banner_pic: banner.avif

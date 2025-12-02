@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Uk
-description: Plan UK adventures with trusted reviews and guides—covering dog‑friendly destinations, campsites, transport tips, and cultural highlights across the country.
+description: Plan UK adventures with trusted reviews and guides covering dog‑friendly destinations, campsites, transport tips, and cultural highlights across the country.
 header_heading: Uk
 header_text: Everything about Uk
 header_banner_pic: banner.avif

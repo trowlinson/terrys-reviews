@@ -2,7 +2,7 @@
 layout: category
 title: South Island
 category: travel
-description: Majestic mountains, pristine lakes, and adventure at the bottom of the world.
+description: Majestic mountains, pristine lakes, and adventure at the bottom of the world—explore South Island travel guides, campsites, and scenic routes across NZ
 header_heading: South Island
 header_text: Wild beauty and endless adventure
 header_banner_pic: 

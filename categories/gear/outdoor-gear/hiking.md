@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Hiking
-description: Essential gear and tips for safe, enjoyable hikes across trails and terrains.
+description: Essential hiking gear reviews and tips for safe, enjoyable treks—covering footwear, backpacks, and outdoor essentials for trails and terrains.
 header_heading: Hiking
 header_text: From boots to backpacks, here’s what makes every hike more rewarding.
 header_banner_pic: 

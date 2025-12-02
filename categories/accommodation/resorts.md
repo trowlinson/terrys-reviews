@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Resorts
-description: Explore our Resorts reviews and guides.
+description: Explore resort reviews and guides—covering stays from family‑friendly to luxury, with practical tips for choosing the right destination for your next holiday
 header_heading: Resorts
 header_text: Everything about Resorts
 header_banner_pic: banner.avif

@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Travel
-description: Day trips, weekend escapes, and scenic routes across New Zealand.
+description: Day trips, weekend escapes, and scenic routes across New Zealand—trusted guides to short adventures, cultural highlights, and motorhome‑friendly destinations
 header_text: "Explore Hamilton: Gardens, Galleries, and Good Vibes"
 header_heading: Exploring Trusted Reviews
 header_banner_pic: banner.avif

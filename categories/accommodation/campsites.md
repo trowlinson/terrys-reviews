@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Campsites
-description: Explore our Campsites reviews and guides.
+description: Browse campsite reviews and guides—covering facilities, dog‑friendly options, and tips for comfortable, safe, and enjoyable camping adventures.
 header_heading: Campsites
 header_text: Everything about Campsites
 header_banner_pic: banner.avif

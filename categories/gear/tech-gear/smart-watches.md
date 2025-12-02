@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Smart Watches
-description: Stay connected, track your health, and manage your day right from your wrist.
+description: Stay connected, track your health, and manage your day with smart watches—trusted reviews of wearable tech for travel, outdoor life, and everyday use
 header_heading: Smart Watches
 header_text: From fitness tracking to travel-friendly features, here’s how to choose the right smartwatch.
 header_banner_pic: 

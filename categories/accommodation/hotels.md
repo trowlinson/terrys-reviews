@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Hotels
-description: Explore our Hotels reviews and guides.
+description: Explore hotel reviews and guides—covering stays from budget to luxury, with practical tips for choosing the right accommodation for your next adventure
 header_heading: Hotels
 header_text: Everything about Hotels
 header_banner_pic: banner.avif

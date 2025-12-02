@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Camping
-description: Essential gear and tips for comfortable, safe, and enjoyable camping trips.
+description: Essential camping gear reviews and tips for safe, comfortable, and enjoyable trips—covering tents, cooking equipment, and outdoor essentials for adventurers.
 header_heading: Camping
 header_text: From tents to stoves, here’s what makes nights under the stars more memorable.
 header_banner_pic: 

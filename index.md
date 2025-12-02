@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Welcome
-description: Real-world advice, gear reviews, campsite tips, and travel stories from the road.Honest reviews of gear, campsites, and travel experiences—plus practical tips for dogs, motorhomes, and adventures across the UK, NZ, and beyond.
+description: Honest reviews of gear, campsites, and travel experiences—plus practical tips for dogs, motorhomes, and adventures across the UK, NZ, and beyond.
 header_heading: Exploring Trusted Reviews
 header_text: Honest insights for your next adventure
 header_banner_pic: banner.avif

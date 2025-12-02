@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Horses
-description: Explore our Horses reviews and guides.
+description: Explore horse care and travel guides—covering gear, training, and destinations for equestrian adventures across the UK, NZ, and beyond.
 header_heading: Horses
 header_text: Everything about Horses
 header_banner_pic: banner.avif

@@ -1,7 +1,7 @@
 ---
 layout: category
 title: North Island Escapes
-description: Discover the best motorhome-friendly adventures across New Zealand’s North Island.
+description: Discover the best motorhome‑friendly adventures across New Zealand’s North Island—covering scenic routes, campsites, and travel tips for unforgettable escapes
 header_heading: North Island Escapes
 header_text: From coastal drives to volcanic heartlands, the North Island is packed with unforgettable journeys.
 header_banner_pic: 

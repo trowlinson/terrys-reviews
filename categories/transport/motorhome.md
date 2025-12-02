@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Motorhome
-description: Real-world advice, gear reviews, campsite tips, and travel stories from the road.
+description: Motorhome travel tips, campsite reviews, gear insights, and real‑world advice for keeping your journeys smooth, comfortable, and adventure‑ready across regions
 header_heading: Motorhome Life
 header_text: What worked, what didn’t, and what we wish we’d known
 header_banner_pic: motorhome-banner.png
