@@ -57,6 +57,6 @@ permalink: /tech-gear/power-banks
 
 ## 🔗 Related Pages
 
-- [Headphones](/tech-gear/headphones.html)  
-- [Gear and Gadgets](/motorhome/gear.html)  
-- [Motorhome Essentials Starter Kit](/motorhome/essentials-starter-kit.html)
+- [Headphones](/tech-gear/headphones)  
+- [Gear and Gadgets](/motorhome/gear)  
+- [Motorhome Essentials Starter Kit](/motorhome/essentials-starter-kit)

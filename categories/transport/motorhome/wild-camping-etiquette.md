@@ -62,7 +62,7 @@ permalink: /motorhome/wild-camping-etiquette
 
 ## 🧭 Related Pages
 
-- [UK Touring Essentials](/categories/motorhome/uk-touring-essentials.html)
-- [Lessons Learned](/categories/motorhome/failures-successes.html)
-- [Motorhome Essentials Starter Kit](/categories/motorhome/essentials-starter-kit.html)
-- [Campsites & Stopovers](/categories/motorhome/campsites.html)
+- [UK Touring Essentials](/categories/motorhome/uk-touring-essentials)
+- [Lessons Learned](/categories/motorhome/failures-successes
+- [Motorhome Essentials Starter Kit](/categories/motorhome/essentials-starter-kit)
+- [Campsites & Stopovers](/categories/motorhome/campsites)

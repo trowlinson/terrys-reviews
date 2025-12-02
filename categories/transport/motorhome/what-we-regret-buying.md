@@ -66,6 +66,6 @@ We’re not saying these items are useless — just that they were useless *for 
 
 ## 🔗 Related Pages
 
-- [Motorhome Essentials Starter Kit](/categories/motorhome/essentials-starter-kit.html)
-- [Gear & Gadgets](/categories/motorhome/gear.html)
-- [Lessons Learned](/categories/motorhome/failures-successes.html)
+- [Motorhome Essentials Starter Kit](/categories/motorhome/essentials-starter-kit)
+- [Gear & Gadgets](/categories/motorhome/gear)
+- [Lessons Learned](/categories/motorhome/failures-successes)

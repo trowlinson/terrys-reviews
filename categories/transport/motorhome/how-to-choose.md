@@ -77,7 +77,7 @@ Start simple. You’ll learn fast what matters most — and what’s just clutte
 
 ## 🧭 Next Steps
 
-- [Gear & Gadgets](/motorhome/gear.html)
-- [Lessons Learned](/motorhome/failures-successes.html)
-- [Touring France](/motorhome/france.html)
-- [Campsites & Stopovers](/motorhome/campsites.html)
+- [Gear & Gadgets](/motorhome/gear)
+- [Lessons Learned](/motorhome/failures-successes)
+- [Touring France](/motorhome/france)
+- [Campsites & Stopovers](/motorhome/campsites)

@@ -58,7 +58,7 @@ permalink: /dog/dog-friendly-uk-destinations
 
 ## 🔗 Related Pages
 
-- [Dog Walking](/dog/walks.html)
-- [Dog Gear](/dog/gear.html)
-- [Dog Training](/dog/training.html)
+- [Dog Walking](/dog/walks)
+- [Dog Gear](/dog/gear)
+- [Dog Training](/dog/training)
 - [Dog Walk Search Site](https://uk-map-doggle-app-production.up.railway.app/)

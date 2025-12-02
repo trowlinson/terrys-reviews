@@ -11,9 +11,9 @@ permalink: /travel/nz/hamilton
 ---
 
 ## Subcategories
-- [North Island Escapes](/travel/nz/north-island.html)
-- [South Island Highlights](/travel/nz/south-island.html)
-- [City Breaks](/travel/nz/city-breaks.html)
+- [North Island Escapes](/travel/nz/north-island)
+- [South Island Highlights](/travel/nz/south-island)
+- [City Breaks](/travel/nz/city-breaks)
 
 ---
 <iframe src="https://app.atlas.co/embeds/nQxCinPJERALG9ZYWs3l" frameborder="0" width="100%" height="600" style="max-width: 100%; border: 1px solid #EAEAEA; border-radius: 4px;"></iframe>

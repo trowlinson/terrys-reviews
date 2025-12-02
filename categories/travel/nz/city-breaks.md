@@ -10,12 +10,12 @@ permalink: /travel/nz/city-breaks
 ---
 
 ## Subcategories
-- [North Island Escapes](/travel/nz/north-island.html)
-- [South Island Highlights](/travel/nz/south-island.html)
+- [North Island Escapes](/travel/nz/north-island)
+- [South Island Highlights](/travel/nz/south-island)
 
 ---
 
 ## Cities
 
-- [Hamilton, New Zealand](/travel/nz/hamilton.html)
-- [Auckland, New Zealand](/travel/nz/auckland.html)
+- [Hamilton, New Zealand](/travel/nz/hamilton)
+- [Auckland, New Zealand](/travel/nz/auckland)

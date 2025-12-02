@@ -11,9 +11,9 @@ permalink: /travel/nz/auckland
 ---
 
 ## Subcategories
-- [Central City](/travel/nz/auckland-central.html)
-- [North Shore](/travel/nz/north-shore.html)
-- [Day Trips from Auckland](/travel/nz/auckland-day-trips.html)
+- [Central City](/travel/nz/auckland-central)
+- [North Shore](/travel/nz/north-shore)
+- [Day Trips from Auckland](/travel/nz/auckland-day-trips)
 
 ---
 

@@ -57,6 +57,6 @@ permalink: /tech-gear/smart-watches
 
 ## 🔗 Related Pages
 
-- [Headphones](/tech-gear/headphones.html)  
-- [Power Banks](/tech-gear/power-banks.html)  
-- [Gear and Gadgets](/motorhome/gear.html)
+- [Headphones](/tech-gear/headphones)  
+- [Power Banks](/tech-gear/power-banks)  
+- [Gear and Gadgets](/motorhome/gear)

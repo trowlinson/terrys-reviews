@@ -53,7 +53,7 @@ These are the tools we actually use — no wiring, no fuss.
 
 ## 🔗 Related Pages
 
-- [Winter Power Tips](/motorhome/winter-power-tips.html)
-- [Motorhome Essentials Starter Kit](/motorhome/essentials-starter-kit.html)
-- [Lessons Learned](/motorhome/failures-successes.html)
-- [UK Touring Essentials](/motorhome/uk-touring-essentials.html)
+- [Winter Power Tips](/motorhome/winter-power-tips)
+- [Motorhome Essentials Starter Kit](/motorhome/essentials-starter-kit)
+- [Lessons Learned](/motorhome/failures-successes)
+- [UK Touring Essentials](/motorhome/uk-touring-essentials)

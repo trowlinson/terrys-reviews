@@ -67,6 +67,6 @@ permalink: /outdoor-gear/hiking
 
 ## 🔗 Related Pages
 
-- [Gear and Gadgets](/motorhome/gear.html)  
-- [Motorhome Essentials Starter Kit](/motorhome/essentials-starter-kit.html)  
-- [Dog-Friendly Camping in the UK](/motorhome/dog-friendly-camping.html)
+- [Gear and Gadgets](/motorhome/gear)  
+- [Motorhome Essentials Starter Kit](/motorhome/essentials-starter-kit)  
+- [Dog-Friendly Camping in the UK](/motorhome/dog-friendly-camping)

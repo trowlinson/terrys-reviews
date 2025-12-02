@@ -85,7 +85,7 @@ permalink: /motorhome/uk-touring-essentials
 
 ## 🔗 Related Pages
 
-- [Motorhome Essentials Starter Kit](/motorhome/essentials-starter-kit.html)
-- [What We Regret Buying](/motorhome/what-we-regret-buying.html)
-- [Lessons Learned](/motorhome/failures-successes.html)
-- [Touring France](/motorhome/france.html)
+- [Motorhome Essentials Starter Kit](/motorhome/essentials-starter-kit)
+- [What We Regret Buying](/motorhome/what-we-regret-buying)
+- [Lessons Learned](/motorhome/failures-successes)
+- [Touring France](/motorhome/france)

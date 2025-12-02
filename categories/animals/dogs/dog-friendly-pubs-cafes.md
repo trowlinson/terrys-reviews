@@ -56,6 +56,6 @@ permalink: /dog/dog-friendly-pubs-cafes
 
 ## 🔗 Related Pages
 
-- [Dog-Friendly UK Destinations](/dog/dog-friendly-uk-destinations.html)
-- [Dog Walking](/dog/walks.html)
-- [Dog Gear](/dog/gear.html)
+- [Dog-Friendly UK Destinations](/dog/dog-friendly-uk-destinations)
+- [Dog Walking](/dog/walks)
+- [Dog Gear](/dog/gear)

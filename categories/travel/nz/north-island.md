@@ -63,6 +63,6 @@ permalink: /travel/nz/north-island
 
 ## 🔗 Related Pages
 
-- [South Island Adventures](/travel/nz/south-island.html)  
-- [Dog-Friendly Camping in the UK](/motorhome/dog-friendly-camping.html)  
-- [Motorhome Essentials Starter Kit](/motorhome/essentials-starter-kit.html)
+- [South Island Adventures](/travel/nz/south-island)  
+- [Dog-Friendly Camping in the UK](/motorhome/dog-friendly-camping)  
+- [Motorhome Essentials Starter Kit](/motorhome/essentials-starter-kit)

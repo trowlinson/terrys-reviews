@@ -87,7 +87,7 @@ permalink: /motorhome/power-setup
 
 ## 🔗 Related Pages
 
-- [Wild vs. Off-Grid Camping](/motorhome/wild-vs-off-grid.html)
-- [Wild Camping Etiquette](/motorhome/wild-camping-etiquette.html)
-- [Motorhome Essentials Starter Kit](/motorhome/essentials-starter-kit.html)
-- [Lessons Learned](/motorhome/failures-successes.html)
+- [Wild vs. Off-Grid Camping](/motorhome/wild-vs-off-grid)
+- [Wild Camping Etiquette](/motorhome/wild-camping-etiquette)
+- [Motorhome Essentials Starter Kit](/motorhome/essentials-starter-kit)
+- [Lessons Learned](/motorhome/failures-successes)

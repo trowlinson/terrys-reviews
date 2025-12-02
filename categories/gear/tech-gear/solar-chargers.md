@@ -57,6 +57,6 @@ permalink: /tech-gear/solar-chargers
 
 ## 🔗 Related Pages
 
-- [Power Banks](/tech-gear/power-banks.html)  
-- [Headphones](/tech-gear/headphones.html)  
-- [Smart Watches](/tech-gear/smart-watches.html)
+- [Power Banks](/tech-gear/power-banks)  
+- [Headphones](/tech-gear/headphones)  
+- [Smart Watches](/tech-gear/smart-watches)

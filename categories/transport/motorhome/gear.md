@@ -67,6 +67,6 @@ permalink: /motorhome/gear
 
 ## 🔗 Related Pages
 
-- [Motorhome Essentials Starter Kit](/motorhome/essentials-starter-kit.html)  
-- [UK Campsite Etiquette](/motorhome/uk-campsite-etiquette.html)  
-- [Lessons Learned](/motorhome/failures-successes.html)
+- [Motorhome Essentials Starter Kit](/motorhome/essentials-starter-kit)  
+- [UK Campsite Etiquette](/motorhome/uk-campsite-etiquette)  
+- [Lessons Learned](/motorhome/failures-successes)

@@ -58,6 +58,6 @@ permalink: /motorhome/campsites
 
 ## 🔗 Related Pages
 
-- [UK Campsite Etiquette](/motorhome/uk-campsite-etiquette.html)  
-- [Dog-Friendly Campsites](/motorhome/dog-friendly-camping.html)  
-- [Lessons Learned](/motorhome/failures-successes.html)
+- [UK Campsite Etiquette](/motorhome/uk-campsite-etiquette)  
+- [Dog-Friendly Campsites](/motorhome/dog-friendly-camping)  
+- [Lessons Learned](/motorhome/failures-successes)

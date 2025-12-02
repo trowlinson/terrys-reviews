@@ -45,6 +45,6 @@ permalink: /motorhome/failures-successes
 
 ## 🔗 Related Pages
 
-- [UK Campsite Etiquette](/motorhome/uk-campsite-etiquette.html)  
-- [Motorhome Essentials Starter Kit](/motorhome/essentials-starter-kit.html)  
-- [Dog-Friendly Camping in the UK](/motorhome/dog-friendly-camping.html)
+- [UK Campsite Etiquette](/motorhome/uk-campsite-etiquette)  
+- [Motorhome Essentials Starter Kit](/motorhome/essentials-starter-kit)  
+- [Dog-Friendly Camping in the UK](/motorhome/dog-friendly-camping)

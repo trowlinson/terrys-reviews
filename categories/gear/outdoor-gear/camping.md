@@ -67,6 +67,6 @@ permalink: /outdoor-gear/camping
 
 ## 🔗 Related Pages
 
-- [Hiking](/outdoor-gear/hiking.html)  
-- [Gear and Gadgets](/motorhome/gear.html)  
-- [UK Campsite Etiquette](/motorhome/uk-campsite-etiquette.html)
+- [Hiking](/outdoor-gear/hiking)  
+- [Gear and Gadgets](/motorhome/gear)  
+- [UK Campsite Etiquette](/motorhome/uk-campsite-etiquette)

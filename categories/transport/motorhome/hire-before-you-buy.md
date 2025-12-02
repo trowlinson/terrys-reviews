@@ -61,6 +61,6 @@ Here are a few popular options to get you started:
 
 ## 🔗 Related Pages
 
-- [How to Choose a Motorhome](/motorhome/how-to-choose.html)
-- [Gear & Gadgets](/motorhome/gear.html)
-- [Lessons Learned](/motorhome/failures-successes.html)
+- [How to Choose a Motorhome](/motorhome/how-to-choose)
+- [Gear & Gadgets](/motorhome/gear)
+- [Lessons Learned](/motorhome/failures-successes)

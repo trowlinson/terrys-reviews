@@ -73,6 +73,6 @@ permalink: /motorhome/uk-campsite-etiquette
 
 ## 🔗 Related Pages
 
-- [UK Touring Essentials](/motorhome/uk-touring-essentials.html)
-- [Lessons Learned](/motorhome/failures-successes.html)
-- [Motorhome Essentials Starter Kit](/motorhome/essentials-starter-kit.html)
+- [UK Touring Essentials](/motorhome/uk-touring-essentials)
+- [Lessons Learned](/motorhome/failures-successes)
+- [Motorhome Essentials Starter Kit](/motorhome/essentials-starter-kit)

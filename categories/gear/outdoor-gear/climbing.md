@@ -67,6 +67,6 @@ permalink: /outdoor-gear/climbing
 
 ## 🔗 Related Pages
 
-- [Hiking](/outdoor-gear/hiking.html)  
-- [Camping](/outdoor-gear/camping.html)  
-- [Cycling](/outdoor-gear/cycling.html)
+- [Hiking](/outdoor-gear/hiking)  
+- [Camping](/outdoor-gear/camping)  
+- [Cycling](/outdoor-gear/cycling)

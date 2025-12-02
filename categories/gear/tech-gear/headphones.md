@@ -72,6 +72,6 @@ permalink: /tech-gear/headphones
 
 ## 🔗 Related Pages
 
-- [Gear and Gadgets](/motorhome/gear.html)  
-- [Motorhome Essentials Starter Kit](/motorhome/essentials-starter-kit.html)  
-- [Lessons Learned](/motorhome/failures-successes.html)
+- [Gear and Gadgets](/motorhome/gear)  
+- [Motorhome Essentials Starter Kit](/motorhome/essentials-starter-kit)  
+- [Lessons Learned](/motorhome/failures-successes)

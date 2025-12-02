@@ -55,6 +55,6 @@ permalink: /motorhome/uk
 
 ## 🔗 Related Pages
 
-- [UK Campsite Etiquette](/motorhome/uk-campsite-etiquette.html)  
-- [Lessons Learned](/motorhome/failures-successes.html)  
-- [Gear and Gadgets](/motorhome/gear.html)
+- [UK Campsite Etiquette](/motorhome/uk-campsite-etiquette)  
+- [Lessons Learned](/motorhome/failures-successes)  
+- [Gear and Gadgets](/motorhome/gear)
