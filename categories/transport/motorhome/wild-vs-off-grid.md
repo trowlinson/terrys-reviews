@@ -7,6 +7,7 @@ header_text: Freedom, legality, and setup — know what you’re choosing
 header_banner_pic: 
 header_banner_pic_alt: Motorhome parked in remote countryside
 category: motorhome
+permalink: /motorhome/wild-vs-off-grid
 ---
 
 ## 🧭 Definitions

@@ -7,6 +7,7 @@ header_text: Transparency about how we use cookies and your choices.
 header_banner_pic: banner.avif
 header_banner_pic_alt: Adventure Banner
 ---
+# Cookie Policy
 
 <p class="last-updated">Last updated: 22 November 2025</p>
 

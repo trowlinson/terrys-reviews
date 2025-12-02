@@ -7,6 +7,7 @@ header_text: Stay warm, stay charged, and avoid common cold-weather pitfalls
 header_banner_pic: 
 header_banner_pic_alt: Motorhome in frosty countryside with sunrise
 category: motorhome
+permalink: /motorhome/winter-power-tips
 ---
 
 ## 🔋 Battery Basics

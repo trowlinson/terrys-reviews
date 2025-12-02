@@ -22,7 +22,7 @@ permalink: /motorhome/buyers-timeline
 
 - **Hire a motorhome** – Test different layouts, sizes, and features.
 - **Take notes** – What worked? What annoyed you? What would you change?
-- [Read our guide → Hire Before You Buy](/categories/motorhome/hire-before-you-buy.html)
+- [Read our guide → Hire Before You Buy](/motorhome/hire-before-you-buy.html)
 
 ---
 

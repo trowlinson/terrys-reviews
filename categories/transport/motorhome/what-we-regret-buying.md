@@ -7,6 +7,7 @@ header_text: Learn from our mistakes — or repeat them with flair
 header_banner_pic: 
 header_banner_pic_alt: Unused motorhome gear in storage
 category: motorhome
+permalink: /motorhome/what-we-regret-buying
 ---
 
 ## 🤦‍♂️ The Hall of Shame

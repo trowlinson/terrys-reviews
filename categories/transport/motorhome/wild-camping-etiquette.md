@@ -7,6 +7,7 @@ header_text: Freedom with responsibility — the unwritten rules of off-grid sta
 header_banner_pic: 
 header_banner_pic_alt: Motorhome parked in remote countryside
 category: motorhome
+permalink: /motorhome/wild-camping-etiquette
 ---
 
 ## 🧭 Know the Law (and the Grey Areas)
