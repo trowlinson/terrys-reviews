@@ -87,12 +87,7 @@ function New-NavStructure {
             # Look for a subdirectory that matches the markdown file name
             $baseName = $file.BaseName
             $expectedDirName = $baseName
-            
-            # Special case for dogs -> dog
-            if ($baseName -eq "dogs") {
-                $expectedDirName = "dog"
-            }
-            
+                       
             $subDirPath = Join-Path $Path $expectedDirName
             
             if (Test-Path $subDirPath -PathType Container) {

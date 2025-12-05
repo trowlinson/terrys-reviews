@@ -7,6 +7,7 @@ header_text: Everything about Campsites
 header_banner_pic: banner.avif
 header_banner_pic_alt: Campsites Banner
 category: accommodation
+permalink: /accommodation/campsites
 ---
 
 ## Subcategories

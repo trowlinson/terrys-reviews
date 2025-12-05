@@ -7,6 +7,7 @@ header_text: Everything about Guinea Pigs
 header_banner_pic: banner.avif
 header_banner_pic_alt: Guinea Pigs Banner
 category: animals
+permalink: /animals/guinea-pigs
 ---
 
 ## Subcategories

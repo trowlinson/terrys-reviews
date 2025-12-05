@@ -2,7 +2,7 @@
 layout: category
 title: North Shore
 category: travel
-description: Discover Auckland’s North Shore: beaches, coastal suburbs, and relaxed living with guides to local highlights, day trips, and hidden gems across the region
+description: Discover Auckland’s North Shore - beaches, coastal suburbs, and relaxed living with guides to local highlights, day trips, and hidden gems across the region
 header_heading: North Shore
 header_text: Salt air and slower pace
 header_banner_pic: 

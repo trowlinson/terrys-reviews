@@ -7,6 +7,7 @@ header_text: Everything about Nz
 header_banner_pic: banner.avif
 header_banner_pic_alt: Nz Banner
 category: campsites
+permalink: /accommodation/nz
 ---
 
 ## Subcategories

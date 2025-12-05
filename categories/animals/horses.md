@@ -7,6 +7,7 @@ header_text: Everything about Horses
 header_banner_pic: banner.avif
 header_banner_pic_alt: Horses Banner
 category: animals
+permalink: /animals/horses
 ---
 
 ## Subcategories

@@ -29,27 +29,28 @@
       - title: Dogs
         url: /animals/dogs
         category: top
+        children:
+          - title: Dog-Friendly Pubs & Cafes
+            url: /animals/dogs/dog-friendly-pubs-cafes
+            category: dog
+          - title: Dog-Friendly UK Destinations
+            url: /animals/dogs/dog-friendly-uk-destinations
+            category: dog
+          - title: Dog Gear
+            url: /animals/dogs/gear
+            category: dog
+          - title: Dog Training
+            url: /animals/dogs/training
+            category: dog
+          - title: Dog Walking
+            url: /animals/dogs/walks
+            category: dog
       - title: Guinea Pigs
         url: /animals/guinea-pigs
         category: animals
       - title: Horses
         url: /animals/horses
         category: animals
-      - title: Dog-Friendly Pubs & Cafes
-        url: /animals/dogs/dog-friendly-pubs-cafes
-        category: dog
-      - title: Dog-Friendly UK Destinations
-        url: /animals/dogs/dog-friendly-uk-destinations
-        category: dog
-      - title: Dog Gear
-        url: /animals/dogs/gear
-        category: dog
-      - title: Dog Training
-        url: /animals/dogs/training
-        category: dog
-      - title: Dog Walking
-        url: /animals/dogs/walks
-        category: dog
   - title: Gear
     url: /gear
     category: top

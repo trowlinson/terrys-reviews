@@ -7,7 +7,7 @@ header_text: Make every walk safe, fun, and rewarding
 header_banner_pic: dog-walking-banner.jpg
 header_banner_pic_alt: Dog walking in countryside
 category: dog
-permalink: /dog/walks
+permalink: /dogs/walks
 ---
 
 ## 🐾 Essentials for Every Walk

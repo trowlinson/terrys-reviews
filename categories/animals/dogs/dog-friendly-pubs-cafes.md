@@ -7,7 +7,7 @@ header_text: Relax, refuel, and bring your dog along
 header_banner_pic: dog-friendly-pubs-banner.png
 header_banner_pic_alt: Dog sitting happily in a pub garden
 category: dog
-permalink: /dog/dog-friendly-pubs-cafes
+permalink: /dogs/dog-friendly-pubs-cafes
 ---
 
 ## 🍻 Why Dog-Friendly Matters

@@ -7,6 +7,7 @@ header_text: Everything about Resorts
 header_banner_pic: banner.avif
 header_banner_pic_alt: Resorts Banner
 category: accommodation
+permalink: /accommodation/resorts
 ---
 
 ## Subcategories

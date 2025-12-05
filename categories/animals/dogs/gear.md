@@ -7,7 +7,7 @@ header_text: From leads to lights — what’s worth packing
 header_banner_pic: dog-gear-banner.jpg
 header_banner_pic_alt: Dog gear laid out on table
 category: dog
-permalink: /dog/gear
+permalink: /dogs/gear
 ---
 
 ## 🧰 Walking Gear

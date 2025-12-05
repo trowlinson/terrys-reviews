@@ -7,6 +7,7 @@ header_text: Everything about Hotels
 header_banner_pic: banner.avif
 header_banner_pic_alt: Hotels Banner
 category: accommodation
+permalink: /accommodation/hotels
 ---
 
 ## Subcategories
