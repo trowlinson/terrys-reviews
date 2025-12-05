@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Nz
-description: Explore our Nz reviews and guides.
+description: Explore New Zealand campsite reviews and guides—covering facilities, dog‑friendly options, and tips for comfortable, scenic camping adventures
 header_heading: Nz
 header_text: Everything about Nz
 header_banner_pic: banner.avif

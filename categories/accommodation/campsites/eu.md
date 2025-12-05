@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Eu
-description: Explore our Eu reviews and guides.
+description: Explore European campsite reviews and guides - covering facilities, dog‑friendly options, and tips for comfortable, scenic camping adventures abroad
 header_heading: Eu
 header_text: Everything about Eu
 header_banner_pic: banner.avif

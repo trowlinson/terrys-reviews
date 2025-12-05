@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Motorhome UK
-description: Touring the UK by motorhome — from coastal escapes to countryside retreats.
+description: Plan motorhome adventures across the UK—guides to campsites, routes, and cultural highlights for unforgettable journeys and dog‑friendly escapes.
 header_heading: Motorhome UK
 header_text: Discover the best of Britain with your home on wheels.
 header_banner_pic: 

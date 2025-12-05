@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Water Sports
-description: Essential gear and tips for kayaking, paddleboarding, and other water-based adventures.
+description: Explore water sports gear reviews and guides—covering kayaks, paddleboards, and safety essentials for fun, safe adventures on rivers and seas
 header_heading: Water Sports
 header_text: From safety to fun, here’s what makes time on the water smooth and memorable.
 header_banner_pic: 

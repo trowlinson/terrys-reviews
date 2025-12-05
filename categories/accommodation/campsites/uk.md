@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Uk
-description: Explore our Uk reviews and guides.
+description: Explore UK campsite reviews and guides—covering facilities, dog‑friendly options, and tips for comfortable, safe, and enjoyable camping adventures
 header_heading: Uk
 header_text: Everything about Uk
 header_banner_pic: banner.avif

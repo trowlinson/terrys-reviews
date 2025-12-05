@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Campsites
-description: Explore the best types of campsites for motorhome travel across the UK and Europe.
+description: Explore motorhome campsite reviews and guides—covering facilities, dog‑friendly options, and tips for comfortable, safe, and enjoyable stays.
 header_heading: Campsites
 header_text: From small CLs to bustling holiday parks, here’s how to choose the right stay.
 header_banner_pic: 

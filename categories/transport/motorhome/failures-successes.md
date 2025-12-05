@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Motorhome Lessons Learned
-description: Real-world wins and facepalms from life on the road.
+description: Learn from motorhome mistakes and wins—real stories, practical lessons, and tips to help you avoid costly errors and enjoy smoother adventures
 header_heading: Motorhome Lessons Learned
 header_text: What we got wrong, what we got right — and what we’ll never forget.
 header_banner_pic: 

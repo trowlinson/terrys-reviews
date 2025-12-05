@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Headphones
-description: Reviews, tips, and guides for choosing the right headphones for travel, work, and play.
+description: Find the best headphones for travel and everyday use—trusted reviews covering comfort, sound quality, durability, and value for adventurers
 header_heading: Headphones
 header_text: From noise-cancelling to wireless buds, here’s how to find your perfect fit.
 header_banner_pic: 

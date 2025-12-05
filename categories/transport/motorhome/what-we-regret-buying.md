@@ -1,7 +1,7 @@
 ---
 layout: category
 title: What We Regret Buying
-description: The gear that looked clever, cost money, and never got used.
+description: Learn from our motorhome gear regrets—reviews of items that didn’t deliver, plus advice to help you avoid wasted money and poor purchases
 header_heading: What We Regret Buying
 header_text: Learn from our mistakes — or repeat them with flair
 header_banner_pic: 

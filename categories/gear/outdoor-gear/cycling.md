@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Cycling
-description: Essential gear and tips for safe, enjoyable rides on roads, trails, and tours.
+description: Trusted cycling gear reviews and guides—covering bikes, accessories, and safety tips to make your rides smoother, safer, and more enjoyable.
 header_heading: Cycling
 header_text: From helmets to hydration, here’s what makes every ride smoother and safer.
 header_banner_pic: 

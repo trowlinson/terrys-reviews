@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Dog-Friendly Campsites
-description: Explore UK and European campsites that welcome dogs with open arms.
+description: Plan dog‑friendly camping trips with guides to campsites, gear, and tips—ensuring safe, enjoyable adventures for you and your four‑legged friend.
 header_heading: Dog-Friendly Campsites
 header_text: Find the best places where both you and your four-legged friends feel at home.
 header_banner_pic: 

@@ -1,6 +1,6 @@
 ---
 title: Thank You
-description: Your review has been submitted successfully — thanks for contributing to Revuary.
+description: Thanks for visiting Revuary - your trusted source for motorhome, travel, and gear reviews. Explore guides, tips, and stories for your next adventure.
 permalink: /thank-you/
 layout: page
 banner: banner.avif

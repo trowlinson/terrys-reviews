@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Amazon Echo Buds 2 Review
-description: Amazon Echo Buds 2 Review
+description: Detailed review of Amazon Echo Buds 2—covering sound quality, comfort, features, and value to help you decide if they’re right for your lifestyle
 header_heading: Exploring Trusted Reviews
 header_text: Honest insights for your next tech
 header_banner_pic: banner.avif

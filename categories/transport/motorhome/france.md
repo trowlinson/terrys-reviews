@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Motorhome France
-description: Touring France by motorhome — from vineyards to villages, coastlines to castles.
+description: Plan motorhome adventures in France - guides to campsites, routes, and cultural highlights for unforgettable journeys across the French countryside
 header_heading: Motorhome France
 header_text: Discover the freedom of France with your home on wheels.
 header_banner_pic: 

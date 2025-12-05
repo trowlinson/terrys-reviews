@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Motorhome Power Setup
-description: How to power your motorhome — from hook-ups to solar and off-grid systems.
+description: Learn how to set up motorhome power systems—covering batteries, solar, and inverters for reliable energy on the road and off‑grid camping.
 header_heading: Motorhome Power Setup
 header_text: Understand your 12V system, stay charged, and travel further
 header_banner_pic: 

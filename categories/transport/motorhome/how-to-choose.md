@@ -1,7 +1,7 @@
 ---
 layout: category
 title: How to Choose a Motorhome
-description: A practical guide to picking the right motorhome for your UK adventures.
+description: Step‑by‑step guide to choosing a motorhome—covering layouts, features, and budget tips to help you find the perfect fit for your adventures
 header_heading: Choosing the Right Motorhome
 header_text: What to consider before you buy (or hire)
 header_banner_pic: 

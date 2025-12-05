@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Power Banks
-description: Stay charged on the go with reliable portable power solutions.
+description: Explore trusted reviews of power banks—portable charging solutions for travel, camping, and everyday use to keep your devices powered anywhere
 header_heading: Power Banks
 header_text: From compact chargers to high-capacity bricks, here’s how to keep your devices alive.
 header_banner_pic: 

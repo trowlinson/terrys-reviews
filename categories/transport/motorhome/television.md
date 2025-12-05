@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Televisions
-description: How to add a television to your motorhome for cosy nights and lazy mornings.
+description: Discover motorhome television options—reviews of setups, gear, and tips for enjoying entertainment on the road without hassle or wasted power.
 header_heading: Television
 header_text: Turn your motorhome into a rolling cinema or a snug living room with the right setup.
 header_banner_pic: 

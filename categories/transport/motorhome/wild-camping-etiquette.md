@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Wild Camping Etiquette
-description: How to enjoy off-grid motorhoming without causing trouble or leaving a trace.
+description: Respect nature and fellow campers with wild camping etiquette—practical tips for safe, sustainable, and enjoyable off‑grid motorhome adventures
 header_heading: Wild Camping Etiquette
 header_text: Freedom with responsibility — the unwritten rules of off-grid stays
 header_banner_pic: 

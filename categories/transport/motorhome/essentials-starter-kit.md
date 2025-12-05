@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Motorhome Essentials Starter Kit
-description: The gear we actually use — and what we wish we’d packed sooner.
+description: Discover the must‑have starter kit for motorhome life—gear, tools, and essentials to make your first trips safe, comfortable, and stress‑free.
 header_heading: Motorhome Essentials Starter Kit
 header_text: Not just what you need — what you’ll actually use
 header_banner_pic: 

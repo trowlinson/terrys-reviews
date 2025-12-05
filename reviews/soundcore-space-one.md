@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Soundcore Space One Review
-description: Soundcore Space One Review
+description: Detailed review of Soundcore Space One headphones—covering sound quality, comfort, features, and value to help you choose the right gear
 header_heading: Exploring Trusted Reviews
 header_text: Honest insights for your next tech
 header_banner_pic: banner.avif

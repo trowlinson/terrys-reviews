@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Climbing
-description: Essential gear and tips for safe and rewarding climbing adventures.
+description: Explore climbing gear reviews and guides—covering ropes, shoes, and safety essentials to make your outdoor climbing adventures secure and fun
 header_heading: Climbing
 header_text: From harnesses to helmets, here’s what makes every climb secure and memorable.
 header_banner_pic: 

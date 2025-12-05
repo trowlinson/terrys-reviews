@@ -1,7 +1,7 @@
 ---
 layout: category
 title: UK Campsite Etiquette
-description: How to be a great neighbour, guest, and camper across UK sites.
+description: Master UK campsite etiquette with practical tips on setup, noise, pets, and respect—ensuring smoother stays and friendlier camping experiences
 header_heading: UK Campsite Etiquette
 header_text: The unwritten rules that make camping better for everyone
 header_banner_pic: 

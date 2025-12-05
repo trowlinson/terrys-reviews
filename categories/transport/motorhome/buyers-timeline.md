@@ -2,7 +2,7 @@
 layout: category
 title: Motorhome Buyer's Timeline
 category: motorhome
-description: A step-by-step guide to buying your first motorhome — without the regret.
+description: Step‑by‑step motorhome buyer’s timeline—covering research, hire, purchase, and setup to help you plan confidently and avoid costly mistakes.
 header_heading: Motorhome Buyer's Timeline
 header_text: From “maybe” to “mine” — a realistic roadmap
 header_banner_pic: 
