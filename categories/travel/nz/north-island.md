@@ -6,7 +6,7 @@ header_heading: North Island Escapes
 header_text: From coastal drives to volcanic heartlands, the North Island is packed with unforgettable journeys.
 header_banner_pic: 
 header_banner_pic_alt: Scenic view of New Zealand’s North Island coastline
-category: travel
+category: nz-travel
 permalink: /travel/nz/north-island
 ---
 

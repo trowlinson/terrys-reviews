@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Hamilton
-category: travel
+category: nz-travel
 description: Plan Hamilton escapes with trusted guides—covering day trips, weekend getaways, and scenic routes across New Zealand’s Waikato region
 header_text: "Explore Hamilton: Gardens, Galleries, and Good Vibes"
 header_heading: Exploring Trusted Reviews

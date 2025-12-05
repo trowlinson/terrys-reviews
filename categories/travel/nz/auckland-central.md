@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Auckland Central
-category: travel
+category: nz-travel
 description: Explore Auckland Central - vibrant culture, skyline views, and waterfront vibes with guides to attractions, dining, and day trips in New Zealand’s largest city
 header_heading: Auckland Central
 header_text: Where the city pulses loudest

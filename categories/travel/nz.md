@@ -12,7 +12,7 @@ permalink: /travel/nz
 
 ## Subcategories
 <ul>
-  {% assign sub_pages = site.pages | where: "category", "nz" %}
+  {% assign sub_pages = site.pages | where: "category", "nz-travel" %}
   {% for page in sub_pages %}
     <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
   {% endfor %}
