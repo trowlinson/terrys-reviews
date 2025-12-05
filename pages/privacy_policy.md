@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Privacy Policy
+description: Read Revuary’s privacy policy to understand how we collect, use, and protect your personal information while keeping your trust and security in mind
 permalink: /privacy-policy/
 header_heading: Privacy Policy
 header_text: Honest insights include how we handle your data and your rights.

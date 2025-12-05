@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cookie Policy
-description: 
+description: Learn how Revuary uses cookies to improve your browsing experience, personalize content, and ensure our site works smoothly and securely
 permalink: /cookie-policy/
 header_heading: Cookie policy
 header_text: Transparency about how we use cookies and your choices.
