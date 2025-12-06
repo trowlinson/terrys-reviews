@@ -39,6 +39,6 @@ permalink: /dogs/walks
 
 ## 🔗 Related Pages
 
-- [Dog Gear](/dog/gear)
-- [Dog Training](/dog/training)
+- [Dog Gear](/dogs/gear)
+- [Dog Training](/dogs/training)
 - [Dog Walk Search Site](https://uk-map-doggle-app-production.up.railway.app/)

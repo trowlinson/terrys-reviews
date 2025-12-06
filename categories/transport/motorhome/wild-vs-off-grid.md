@@ -72,6 +72,6 @@ permalink: /motorhome/wild-vs-off-grid
 
 ## 🔗 Related Pages
 
-- [Wild Camping Etiquette](/categories/motorhome/wild-camping-etiquette)
-- [UK Touring Essentials](/categories/motorhome/uk-touring-essentials)
-- [Lessons Learned](/categories/motorhome/failures-successes)
+- [Wild Camping Etiquette](/motorhome/wild-camping-etiquette)
+- [UK Touring Essentials](/motorhome/uk-touring-essentials)
+- [Lessons Learned](/motorhome/failures-successes)

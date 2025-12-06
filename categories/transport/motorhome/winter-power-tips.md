@@ -62,7 +62,7 @@ permalink: /motorhome/winter-power-tips
 
 ## 🔗 Related Pages
 
-- [Motorhome Power Setup](motorhome/power-setup)
+- [Motorhome Power Setup](/motorhome/power-setup)
 - [Motorhome Essentials Starter Kit](/motorhome/essentials-starter-kit)
 - [Wild Camping Etiquette](/motorhome/wild-camping-etiquette)
 - [Lessons Learned](/motorhome/failures-successes)

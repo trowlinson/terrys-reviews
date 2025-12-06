@@ -39,5 +39,5 @@ permalink: /dogs/gear
 
 ## 🔗 Related Pages
 
-- [Dog Walking](/dog/walks)
-- [Dog Training](/dog/training)
+- [Dog Walking](/dogs/walks)
+- [Dog Training](/dogs/training)
