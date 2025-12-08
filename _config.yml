@@ -2,6 +2,10 @@ title: Terry's Reviews
 description: Trusted, in-depth product reviews by Terry
 remote_theme: jekyll/minima
 
+url: "https://www.revuary.co.uk"   # your site’s root URL, always with https
+baseurl: ""                      # leave empty unless your site is served from a subpath
+
+
 plugins:
   - jekyll-sitemap
 
