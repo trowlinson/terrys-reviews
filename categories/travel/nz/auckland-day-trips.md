@@ -24,3 +24,7 @@ permalink: /travel/nz/auckland-day-trips
 - Book Waiheke ferry tickets in advance during weekends.
 - Matakana is best on Saturdays for the market.
 - Waitomo + Hobbiton combo tours leave early — plan ahead!
+
+## Cities nearby
+
+- [Hamilton, New Zealand](/travel/nz/hamilton)

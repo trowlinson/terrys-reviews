@@ -7,7 +7,7 @@ header_text: Everything about Uk
 header_banner_pic: banner.avif
 header_banner_pic_alt: Uk Banner
 category: campsites
-permalink: /accommodation/uk
+permalink: /campsites/uk
 ---
 
 ## Subcategories

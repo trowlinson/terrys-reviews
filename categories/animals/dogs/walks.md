@@ -41,4 +41,6 @@ permalink: /dogs/walks
 
 - [Dog Gear](/dogs/gear)
 - [Dog Training](/dogs/training)
+- [Dog-Friendly UK Destinations](/dogs/dog-friendly-pubs-cafes)
+- [Dog-Friendly UK Destinations](/dogs/dog-friendly-uk-destinations)
 - [Dog Walk Search Site](https://uk-map-doggle-app-production.up.railway.app/)

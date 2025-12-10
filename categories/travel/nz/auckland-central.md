@@ -25,3 +25,7 @@ permalink: /travel/nz/auckland-central
 - Grab a coffee at **Chuffed** or **Remedy Coffee**.
 - Take the **City Link bus** for easy inner-city travel.
 - Visit **Elliott Stables** for global cuisine under one roof.
+
+## Cities nearby
+
+- [Hamilton, New Zealand](/travel/nz/hamilton)

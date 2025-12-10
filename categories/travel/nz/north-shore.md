@@ -25,3 +25,7 @@ permalink: /travel/nz/north-shore
 - Visit **The Commons** or **Jam Café** for brunch.
 - Explore **North Head** for tunnels and views.
 
+## Cities nearby
+
+- [Hamilton, New Zealand](/travel/nz/hamilton)
+- [Auckland, New Zealand](/travel/nz/auckland

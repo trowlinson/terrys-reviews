@@ -7,7 +7,7 @@ header_text: Everything about Eu
 header_banner_pic: banner.avif
 header_banner_pic_alt: Eu Banner
 category: campsites
-permalink: /accommodation/eu
+permalink: /campsites/eu
 ---
 
 ## Subcategories

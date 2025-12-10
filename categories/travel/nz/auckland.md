@@ -62,3 +62,7 @@ Auckland’s public transport has long been a sore point, but things are changin
 - **Hobbiton & Waitomo Caves** – A magical combo of movie sets and glowworms.
 - **Matakana** – Wine, farmers markets, and sculpture trails.
 - **Rangitoto Island** – A volcanic island hike with epic views of the Hauraki Gulf.
+
+## Cities nearby
+
+- [Hamilton, New Zealand](/travel/nz/hamilton)

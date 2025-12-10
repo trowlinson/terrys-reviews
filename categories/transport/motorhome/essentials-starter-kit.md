@@ -78,4 +78,5 @@ These are the things we reach for every trip — the kit that earns its keep.
 - [How to Choose a Motorhome](/motorhome/how-to-choose)
 - [Hire Before You Buy](/motorhome/hire-before-you-buy)
 - [Lessons Learned](/motorhome/failures-successes)
+- [Buyer's Timeline](/motorhome/buyers-timeline)
 - [Gear & Gadgets](/motorhome/gear)

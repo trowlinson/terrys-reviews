@@ -41,3 +41,5 @@ permalink: /dogs/gear
 
 - [Dog Walking](/dogs/walks)
 - [Dog Training](/dogs/training)
+- [Dog-Friendly UK Destinations](/dogs/dog-friendly-pubs-cafes)
+- [Dog-Friendly UK Destinations](/dogs/dog-friendly-uk-destinations)

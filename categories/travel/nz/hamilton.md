@@ -34,3 +34,6 @@ Hamilton isn’t just a stopover — it’s a destination with its own rhythm. W
 
 ---
 
+## Cities nearby
+
+- [Auckland, New Zealand](/travel/nz/auckland)
