@@ -107,6 +107,9 @@
           - title: Condensation Combat Kit
             url: /transport/motorhome/condensation-combat-kit
             category: motorhome
+          - title: Disneyland Paris Motorhome Parking
+            url: /transport/motorhome/disneyland-paris-motorhome-parking
+            category: motorhome
           - title: Dog-Friendly Campsites
             url: /transport/motorhome/dog-friendly-camping
             category: motorhome
@@ -168,28 +171,28 @@
         children:
           - title: Auckland
             url: /travel/nz/auckland
-            category: travel
+            category: nz-travel
           - title: Auckland Central
             url: /travel/nz/auckland-central
-            category: travel
+            category: nz-travel
           - title: Day Trips from Auckland
             url: /travel/nz/auckland-day-trips
-            category: travel
+            category: nz-travel
           - title: Travel
             url: /travel/nz/city-breaks
-            category: nz
+            category: nz-travel
           - title: Hamilton
             url: /travel/nz/hamilton
-            category: travel
+            category: nz-travel
           - title: North Island Escapes
             url: /travel/nz/north-island
-            category: travel
+            category: nz-travel
           - title: North Shore
             url: /travel/nz/north-shore
-            category: travel
+            category: nz-travel
           - title: South Island
             url: /travel/nz/south-island
-            category: travel
+            category: nz-travel
       - title: Uae
         url: /travel/uae
         category: travel
