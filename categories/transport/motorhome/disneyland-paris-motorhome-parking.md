@@ -1,9 +1,7 @@
 ---
 layout: category
 title: Disneyland Paris Motorhome Parking
-description: "Discover Disneyland Paris motorhome parking: secure, mostly
-  covered spaces, €40/night or €15 with Annual Pass, nearby service point, dog
-  kennels, and easy 1‑mile walk to the park entrance."
+description: Disneyland Paris motorhome parking: secure, covered spaces, €40/night or €15 with Annual Pass, service point nearby, 1‑mile walk to park
 category: motorhome
 header_heading: Disneyland Paris Motorhome Parking
 header_text: Disneyland Paris Motorhome Parking
