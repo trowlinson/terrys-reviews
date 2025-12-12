@@ -1,47 +1,49 @@
 <div class="burger-wrap">
-    <button class="burger" aria-expanded="false" aria-controls="global-menu" aria-label="Toggle menu">☰</button>
+  <button class="burger" aria-expanded="false" aria-controls="global-menu" aria-label="Toggle menu">☰</button>
 
   <div id="global-menu" class="menu">
     <ul class="top-level">
       {% for item in site.data.navigation.main %}
-        {% assign top_id = 'menu-' | append: forloop.index %}
-        <li class="group">
-          <div class="menu-item-row">
-            <a href="{{ item.url }}" class="menu-link">{{ item.title }}</a>
-            {% if item.children %}
-              <button class="menu-toggle-icon" data-target="{{ top_id }}" aria-expanded="false" aria-controls="{{ top_id }}" aria-label="Toggle submenu">
+      {% assign top_id = 'menu-' | append: forloop.index %}
+      <li class="group">
+        <div class="menu-item-row">
+          <a href="{{ item.url }}" class="menu-link">{{ item.title }}</a>
+          {% if item.children %}
+          <button class="menu-toggle-icon" data-target="{{ top_id }}" aria-expanded="false" aria-controls="{{ top_id }}"
+            aria-label="Toggle submenu">
+            <span class="toggle-icon">▶</span>
+          </button>
+          {% endif %}
+        </div>
+        {% if item.children %}
+        <ul id="{{ top_id }}" class="sub-menu">
+          {% for child in item.children %}
+          {% assign child_id = top_id | append: '-' | append: forloop.index %}
+          {% assign pages = site.categories[child.category] %}
+          <li class="group">
+            <div class="menu-item-row">
+              <a href="{{ child.url }}" class="menu-link">{{ child.title }}</a>
+              {% if pages %}
+              <button class="menu-toggle-icon" data-target="{{ child_id }}" aria-expanded="false"
+                aria-controls="{{ child_id }}" aria-label="Toggle submenu">
                 <span class="toggle-icon">▶</span>
               </button>
-            {% endif %}
-          </div>
-          {% if item.children %}
-            <ul id="{{ top_id }}" class="sub-menu">
-              {% for child in item.children %}
-                {% assign child_id = top_id | append: '-' | append: forloop.index %}
-                {% assign pages = site.categories[child.category] %}
-                <li class="group">
-                  <div class="menu-item-row">
-                    <a href="{{ child.url }}" class="menu-link">{{ child.title }}</a>
-                    {% if pages %}
-                      <button class="menu-toggle-icon" data-target="{{ child_id }}" aria-expanded="false" aria-controls="{{ child_id }}" aria-label="Toggle submenu">
-                        <span class="toggle-icon">▶</span>
-                      </button>
-                    {% endif %}
-                  </div>
-                  {% if pages %}
-                    <ul id="{{ child_id }}" class="sub-sub-menu">
-                      {% for p in pages %}
-                        <li><a href="{{ p.url }}">{{ p.title }}</a></li>
-                      {% endfor %}
-                    </ul>
-                  {% endif %}
-                </li>
+              {% endif %}
+            </div>
+            {% if pages %}
+            <ul id="{{ child_id }}" class="sub-sub-menu">
+              {% for p in pages %}
+              <li><a href="{{ p.url }}">{{ p.title }}</a></li>
               {% endfor %}
             </ul>
-          {% endif %}
-        </li>
+            {% endif %}
+          </li>
+          {% endfor %}
+        </ul>
+        {% endif %}
+      </li>
       {% endfor %}
     </ul>
   </div>
 </div>
-<script src="/assets/js/nav.js"></script>
+<script src="{{ site.cdn_url }}/assets/js/nav.js"></script>

@@ -4,6 +4,7 @@ remote_theme: jekyll/minima
 
 url: "https://www.revuary.co.uk"   # your site’s root URL, always with https
 baseurl: ""                      # leave empty unless your site is served from a subpath
+cdn_url: ""                      # CDN URL (e.g. https://cdn.example.com) or empty for local
 
 
 plugins:
